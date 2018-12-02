@@ -1,0 +1,11 @@
+---
+title: Prospectus Notes
+author: Osman Keshawarz
+bibliography: ../prospectus.bib
+---
+
+# Thoughts and Questions
+
+# Literature Notes
+
+# References
