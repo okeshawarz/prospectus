@@ -1,0 +1,21 @@
+---
+title: "Three Essays on Urban Political Economy"
+author: Osman Keshawarz
+abstract: "Grumble, grumble, grumble..."
+bibliography: prospectus.bib
+graphics: yes
+link-citations: true
+output:
+    tufte::tufte_handout:
+        toc: true
+        toc_depth: 1
+        number_sections: true
+---
+
+# Introduction to Urban Political Economy
+
+# First Essay
+
+# Second Essay
+
+# Third Essay
