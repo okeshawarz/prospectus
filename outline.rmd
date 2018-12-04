@@ -6,7 +6,7 @@ bibliography: prospectus.bib
 graphics: yes
 link-citations: true
 output:
-    tufte::tufte_handout:
+    pdf_document:
         toc: false
         toc_depth: 1
         number_sections: true
@@ -16,11 +16,39 @@ output:
 
 ## General Literature Review
 
+### Mainstream Economic Geography
+
+a. Spatial Equilibrium
+
+b. Human Capital
+
+### Geographical Political Economy
+
+a. Disequilibrium Approaches
+
+b. Growth Coalition Theory
+
+### The Empirics and Dynamics of Wealth Inequality
+
 ## Introduction of Approach
 
-## Geographical Political Economy
+### Regional Growth and Uneven Development
 
-# On the Housing Question: Public Housing and Urban Structure
+a. Human Capital vs. Other Approaches to Urban Development
+
+b. Scale and Inter-Urban Competition
+
+c. "Left-behind places" as a feature of Uneven Regional Development
+
+### The Capitalist Urban Process and the Built Environment
+
+a. The role of Real Estate capital
+
+b. Public Goods and Urban Political Coalitions
+
+c. The Urban State as a Mechanism for Distribution
+
+# Essay 1 - On the Housing Question: Public Housing and Urban Structure
 
 ## Introduction to the Question
 
@@ -38,23 +66,46 @@ c. The Regional Dimensions of the Housing Crisis
 
 ## Conclusion
 
-# Zoning and Inequality
+# Essay 1 (Alternate) - On the Housing Question: Real Estate and the Labor Share
+
+# Essay 2 - Zoning and Inequality
 
 ## Introduction to the Question
 
 ## Literature Review
 
+a. The Politics of Zoning Policy
+
+b. Empirical Literature on Metropolitan Home Prices
+
+c. Macro literature on housing policy & supply restrictions
+
+d. Production of Housing: Monopolistic or competitive? In which markets?
+
 ## Data and Method
+
+Changes in zoning regulations in districts that cross municipal/state
+boundaries provide a source of exogenous variation to test the differential
+impacts of zoning laws on wealth/income inequality, segregation, homeownership,
+etc. I can construct a dataset that uses a contigious county/district approach
+similar to Dube [-@dube2010] to estimate these hypotheses. Alternately, I can
+construct a dataset of land use legal challenges to 
 
 ## Results
 
 ## Conclusion
 
-# Superstar Firms and Regional Growth & Distribution
+# Essay 3 - Superstar Firms: A Race to the Bottom? 
 
 ## Literature Review
 
-## A Model
+### Superstars and Superstar Firms
+
+### Scale and Urban Governance
+
+## A Model: The Amazon Game
+
+## A Second Model: Network Clustering
 
 ## Data and Method
 
