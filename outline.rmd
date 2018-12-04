@@ -7,7 +7,7 @@ graphics: yes
 link-citations: true
 output:
     tufte::tufte_handout:
-        toc: true
+        toc: false
         toc_depth: 1
         number_sections: true
 ---
@@ -20,11 +20,17 @@ output:
 
 ## Geographical Political Economy
 
-# First Essay
+# On the Housing Question: Public Housing and Urban Structure
 
 ## Introduction to the Question
 
 ## Literature Review
+
+a. The Dual Nature of Housing
+
+b. The History of Housing Policy in the United States
+
+c. The Regional Dimensions of the Housing Crisis
 
 ## Data and Method
 
@@ -47,6 +53,8 @@ output:
 # Superstar Firms and Regional Growth & Distribution
 
 ## Literature Review
+
+## A Model
 
 ## Data and Method
 
