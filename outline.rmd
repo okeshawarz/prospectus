@@ -22,6 +22,37 @@ output:
 
 # First Essay
 
+## Introduction to the Question
+
+## Literature Review
+
+## Data and Method
+
+## Results
+
+## Conclusion
+
 # Second Essay
 
+## Introduction to the Question
+
+## Literature Review
+
+## Data and Method
+
+## Results
+
+## Conclusion
+
 # Third Essay
+
+## Introduction to the Question
+
+## Literature Review
+
+## Data and Method
+
+## Results
+
+## Conclusion
+
