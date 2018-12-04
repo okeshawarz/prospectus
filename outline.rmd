@@ -32,7 +32,7 @@ output:
 
 ## Conclusion
 
-# Second Essay
+# Zoning and Inequality
 
 ## Introduction to the Question
 
@@ -44,9 +44,7 @@ output:
 
 ## Conclusion
 
-# Third Essay
-
-## Introduction to the Question
+# Superstar Firms and Regional Growth & Distribution
 
 ## Literature Review
 
