@@ -28,6 +28,8 @@ a. Disequilibrium Approaches
 
 b. Growth Coalition Theory
 
+### Uneven and Combined Development
+
 ### The Empirics and Dynamics of Wealth Inequality
 
 ## Introduction of Approach
@@ -46,7 +48,7 @@ a. The role of Real Estate capital
 
 b. Public Goods and Urban Political Coalitions
 
-c. The Urban State as a Mechanism for Distribution
+c. The Urban State as a Mechanism for Re-Distribution
 
 # Essay 1 - On the Housing Question: Public Housing and Urban Structure
 
@@ -67,6 +69,26 @@ c. The Regional Dimensions of the Housing Crisis
 ## Conclusion
 
 # Essay 1 (Alternate) - On the Housing Question: Real Estate and the Labor Share
+
+## Introduction to the Question
+
+Recently, the literature has focused its attention on the fall of the labor
+share, in contravention of Kaldor's stylized growth facts (e.g., @autor2017).
+@rognlie2015 points out that, exclusive of housing, capital's share of growth
+has remained relatively constant-- it is in fact growth in the *housing* sector
+that accounts for the decline in the share going to labor, contrary to
+explanations relying on shifts in bargaining power between workers and
+capitalists. How do we account for the rise of real estate capital? What is the
+bargaining problem between workers and landlords? What is the link between
+housing and the reserve army of labor (Consider: when firms' demand for labor
+increases, the demand for urban housing also increases. Is this a resurrection
+of Ricardo's old fear of the rentier class?)?
+
+## Literature Review
+
+## A Model
+
+I construct, following @shaikh2016, a Goodwin-Kalecki model incorporating a housing sector. 
 
 # Essay 2 - Zoning and Inequality
 
