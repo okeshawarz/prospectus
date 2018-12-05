@@ -54,19 +54,53 @@ c. The Urban State as a Mechanism for Re-Distribution
 
 ## Introduction to the Question
 
+On balance, what has the effect of U.S. housing policy in American urban
+spaces? This essay approaches the question from the perspective of public
+housing. Specifically, it analyzes the historical development of public
+housing sites in various urban locales, their percieved failures, and
+their replacement policy in the form of HOPE IV community development
+grants in the context of urban development. Specifically, I ask:
+
+1. What accounts for the problems of public housing in the United States?
+
+2. What are the welfare effects of the HOPE IV program?
+
+3. Is urban housing policy in the neoliberal era orientated towards
+   gentrification (in the words of @fraser2013, "internal colonization")?
+
 ## Literature Review
 
-a. The Dual Nature of Housing
+a. The Dual Nature of Housing: Investment Good and Wage Good
 
 b. The History of Housing Policy in the United States
 
 c. The Regional Dimensions of the Housing Crisis
 
+## A Model
+
+I model the production of public housing as 
+
+a. a public goods game
+
+b. a coalitional game, in which competing interests form political
+   coalitions to bargain for ground rents over long cycles of neighborhood
+   development
+
 ## Data and Method
+
+a. Longitudinal data on public housing residents would be useful.
+   @chetty2017 used private SSA data to track residents as they moved
+   through neighborhoods; with access to this data, I could do the same
+   for residents of various public housing/HOPE VI sites
+
+b. Census microdata and GIS-linked data on census tracts surrounding
+   public housing projects and HOPE VI sites.
 
 ## Results
 
 ## Conclusion
+
+\newpage
 
 # Essay 1 (Alternate) - On the Housing Question: Real Estate and the Labor Share
 
@@ -81,8 +115,9 @@ explanations relying on shifts in bargaining power between workers and
 capitalists. How do we account for the rise of real estate capital? What is the
 bargaining problem between workers and landlords? What is the link between
 housing and the reserve army of labor (Consider: when firms' demand for labor
-increases, the demand for urban housing also increases. Is this a resurrection
-of Ricardo's old fear of the rentier class?)?
+increases, the demand for urban housing also increases, with gains from
+productivity accruing to the landholder. Is this a resurrection of Ricardo's
+old fear of the rentier class?)?
 
 ## Literature Review
 
@@ -90,7 +125,17 @@ of Ricardo's old fear of the rentier class?)?
 
 I construct, following @shaikh2016, a Goodwin-Kalecki model incorporating a housing sector. 
 
+## Data and Method
+
+## Results
+
+## Conclusion
+
 # Essay 2 - Zoning and Inequality
+
+Is the housing crisis linked to supply constraints? Specifically, are
+zoning regulations the cause of rapid growth in housing prices and rent
+[@glaeser2008]?
 
 ## Introduction to the Question
 
@@ -110,28 +155,61 @@ Changes in zoning regulations in districts that cross municipal/state
 boundaries provide a source of exogenous variation to test the differential
 impacts of zoning laws on wealth/income inequality, segregation, homeownership,
 etc. I can construct a dataset that uses a contigious county/district approach
-similar to Dube [-@dube2010] to estimate these hypotheses. Alternately, I can
-construct a dataset of land use legal challenges to 
+similar to Dube [-@dube2010] to estimate these hypotheses. Alternately,
+I can construct a dataset of land use court cases and use them as sources
+of exogenous variation.
 
 ## Results
 
 ## Conclusion
 
-# Essay 3 - Superstar Firms: A Race to the Bottom? 
+# Essay 3 - Superstar Firms: a Story of Regional Divergence
+
+## Introduction
+
+Up until the mid-1990s, cities and city-regions experienced convergence in
+productivity and wages. Since then, this trend has reversed itself, and
+metropolitan areas in the United States began to diverge, with the largest
+urban conglomerations experiencing the greatest growth in productivity and
+smaller cities and suburbs lagging behind [@giannone2017; @ganong2017]. At
+the same time, superstar cities have become largely unaffordable for
+middle- and lower- class residents [@autor2013].
+
+Attempts to explain this divergence have largely focused on skill-biased
+technical change [@glaeser2009] and over-regulation of the housing supply
+[@glaeser2008] within the context of the canonical neoclassical spatial
+equilibrium model. This essay, inspired by the relatively new literature
+on superstar firms [@autor2017], approaches the question from a different
+angle: to what extent is regional divergence driven by heavily
+consolidated, hyper-productive superstar firms? What are the consequences
+(with respect to the ability of the urban state to support social
+reproduction) for urban regions that attract (or attempt to attract)
+superstar firms? What are the terms of the bargaining game between cities
+and superstar firms?
 
 ## Literature Review
 
+### Skill-Biased Technical Change and Job Polarization
+
 ### Superstars and Superstar Firms
+
+a. Good People or Good Citizens? Glaeser vs. Acemoglu (vs. Bowles)
+
+b. Theories of firm agglomeration and hyper-agglomeration
 
 ### Scale and Urban Governance
 
-## A Model: The Amazon Game
+a. "Glocalization" of municipal governments
 
-## A Second Model: Network Clustering
+## A Model: The Amazon Game
 
 ## Data and Method
 
 ## Results
 
 ## Conclusion
+
+\newpage
+
+# References
 
