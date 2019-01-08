@@ -1,12 +1,12 @@
 ---
 title: "Three Essays on Urban Political Economy"
 author: Osman Keshawarz
-abstract: "Grumble, grumble, grumble..."
 bibliography: prospectus.bib
 graphics: yes
 link-citations: true
 output:
     pdf_document:
+        latex_engine: xelatex
         toc: false
         toc_depth: 1
         number_sections: true
@@ -49,6 +49,8 @@ a. The role of Real Estate capital
 b. Public Goods and Urban Political Coalitions
 
 c. The Urban State as a Mechanism for Re-Distribution
+
+\newpage
 
 # Essay 1 - On the Housing Question: Public Housing and Urban Structure
 
@@ -108,16 +110,17 @@ b. Census microdata and GIS-linked data on census tracts surrounding
 
 Recently, the literature has focused its attention on the fall of the labor
 share, in contravention of Kaldor's stylized growth facts (e.g., @autor2017).
-@rognlie2015 points out that, exclusive of housing, capital's share of growth
-has remained relatively constant-- it is in fact growth in the *housing* sector
-that accounts for the decline in the share going to labor, contrary to
-explanations relying on shifts in bargaining power between workers and
-capitalists. How do we account for the rise of real estate capital? What is the
-bargaining problem between workers and landlords? What is the link between
-housing and the reserve army of labor (Consider: when firms' demand for labor
-increases, the demand for urban housing also increases, with gains from
-productivity accruing to the landholder. Is this a resurrection of Ricardo's
-old fear of the rentier class?)?
+@rognlie2015 points out that, exclusive of housing, capital's share of
+growth has remained relatively constant-- it is in fact growth in the
+__housing__ sector that accounts for the decline in the share going to
+labor, contrary to explanations relying on shifts in bargaining power
+between workers and capitalists. How do we account for the rise of real
+estate capital? What is the bargaining problem between workers and
+landlords? What is the link between housing and the reserve army of labor
+(Consider: when firms' demand for labor increases, the demand for urban
+housing also increases, with gains from productivity accruing to the
+landholder. Is this a resurrection of Ricardo's old fear of the rentier
+class?)?
 
 ## Literature Review
 
@@ -130,6 +133,8 @@ I construct, following @shaikh2016, a Goodwin-Kalecki model incorporating a hous
 ## Results
 
 ## Conclusion
+
+\newpage
 
 # Essay 2 - Zoning and Inequality
 
@@ -162,6 +167,8 @@ of exogenous variation.
 ## Results
 
 ## Conclusion
+
+\newpage
 
 # Essay 3 - Superstar Firms: a Story of Regional Divergence
 

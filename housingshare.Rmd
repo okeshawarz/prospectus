@@ -1,0 +1,22 @@
+---
+title: Has the housing share really increased?
+author: Osman Keshawarz
+bibliography: prospectus.bib
+---
+
+```{r front_matter, echo=F}
+library(csv)
+```
+
+
+# Introduction
+
+# Rognlie's Empirical Methodology
+
+# Discussion
+
+## Construction of Capital Share
+
+```{r factor_shares, fig.cap="US Factor Shares from National Accounts", echo=F}
+```
+
