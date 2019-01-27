@@ -1,11 +1,91 @@
----
+--- 
 title: Prospectus Notes
 author: Osman Keshawarz
-bibliography: ../prospectus.bib
+toc: true
 ---
 
-# Thoughts and Questions
+![](leninheader.png)
 
-# Literature Notes
+# August 17, 2018
 
-# References
+
+### What can Marxian Economics contribute to an analysis of urban inequality?
+
+
+Why do we care about cities? The urban scale is the physical locus of the
+process of capitalist production; it is at the scale of the urban that capital
+is transformed from non-physical value into physical plants, equipment,
+buildings, and so on. It is the site of work, sleep, consumption, production,
+and re-production of the working class. It is the site of the crystallization of
+the abstract laws of capital accumulation, class struggle, and social formation
+into the particular historical form one sees before them. The precondition of
+the development of industrial capitalism was the existence of an urban form that
+allowed for the detailed division of labor within the production process, and so
+I argue that an analysis of the capitalist process, including all of the social
+tensions it generates, cannot be separated from the analysis of the urban
+(spatial) process.
+
+In fact, I would conjecture that the tendency of capitalism towards "the
+annihilation of space by time" (Grundrisse 10) forms a fundamental physical
+contradiction within capitalist production.
+
+
+#### Here are some of my priors:
+
+1. Urbanization is the trend in both developing and developed economies (see:
+   Lewis Model)
+
+2. Capitalist urbanization develops as a spatial process that organizes
+   production and consumption along spatial lines (Harvey, Smith, Hackworth)
+
+3. The spatial organization of production is structured through the mechanism of
+   the equalization of the rate of profit across sectors (Smith, Basu, possibly
+   Shaikh?) over long cycles of the life of fixed capital.
+
+4. Due to the dynamic nature of capitalist development, this results in the uneven
+   development of urban space (Hackworth, Smith). The process of uneven
+   development is a complex interaction between financial capital, (fixed)
+   productive capital, real estate *qua* rent-generating asset, and real-estate
+   *qua* consumption good. 
+
+5. This uneven development results in heightening inequality along spatial and
+   racial lines in both labor/consumption (income) and production/wealth markets
+   (ex: dual labor markets, credit constraints, etc.). This uneven development
+   is managed by a battery of institutions (esp. financial market institutions)
+   that represent the application of power at multiple scales (for example: the
+   transition from federal-led urban development during the New Deal to
+   bond-financed local development during the neoliberal era represents the
+   retreat of state power in the face of global financial institutions
+   (Swyngedouw, Hackworth))
+
+6. Spatial inequality is transmitted intergenerationally, resulting in a secular
+   widening of wealth inequality (and possibly income inequality) over time
+   (Chetty, Hackworth, Smith, et. al).
+
+#### Some questions (In no order of importance)
+
+1. Why do cities look the way they do? They exhibit high degrees of
+   segregation by race and by income, particularly in the
+   formerly-heavy-industrial centers of the Northeast and the Midwest.
+
+2. What role did technological change play in the spatial (non-)
+   integration of cities? For example--
+    a. Power-biased technical change leading to the destruction of
+       labor-organizations (ex: longshoremen) and the de-localization of
+       labor
+    b. Transportation networks reducing the necessity of local supplies of
+       labor
+    c. The digital economy
+
+3. How do changes in the financial system affect the spatial organization
+   of cities? This question has some very broad interpretations. For
+   example: Differential access to credit markets (Bowles), differential
+   investment in real estate capital (i.e. redlining), the propagation of
+   financial crises into investments in fixed productive capital (Kalecki,
+   Dymski, Boddy & Crotty).
+
+4. How do micro-level institutions affect macro-level capitalist
+   processes? e.g., linkages between local zoning laws and
+   labor/income/wealth outcomes, policing, government institutions, etc.
+   etc. 
+

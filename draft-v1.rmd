@@ -1,0 +1,42 @@
+---
+title: "Three Essays on Urban Political Economy in the United States"
+author: Osman Keshawarz
+abstract: "dummy text"
+bibliography: prospectus.bib
+graphics: yes
+link-citations: yes
+linkcolor: blue
+output:
+    tufte::tufte_handout:
+        toc: true
+        toc_depth: 1
+        number_sections: true 
+---
+
+```{r front_matter, echo=F, include=F}
+library(tufte)
+library(csv)
+library(ggplot2)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
+\newpage
+
+# Introduction
+
+## Motivation
+
+## General Literature Review: The Spatial Economy
+
+# First Essay
+
+# Second Essay
+
+# Third Essay
+
+# Conclusion
+
+# References
+
