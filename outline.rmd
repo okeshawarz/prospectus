@@ -14,97 +14,9 @@ output:
 
 # Introduction to Urban Political Economy
 
-## General Literature Review
-
-### Mainstream Economic Geography
-
-a. Spatial Equilibrium
-
-b. Human Capital
-
-### Geographical Political Economy
-
-a. Disequilibrium Approaches
-
-b. Growth Coalition Theory
-
-### Uneven and Combined Development
-
-### The Empirics and Dynamics of Wealth Inequality
-
-## Introduction of Approach
-
-### Regional Growth and Uneven Development
-
-a. Human Capital vs. Other Approaches to Urban Development
-
-b. Scale and Inter-Urban Competition
-
-c. "Left-behind places" as a feature of Uneven Regional Development
-
-### The Capitalist Urban Process and the Built Environment
-
-a. The role of Real Estate capital
-
-b. Public Goods and Urban Political Coalitions
-
-c. The Urban State as a Mechanism for Re-Distribution
-
 \newpage
 
-# Essay 1 - On the Housing Question: Public Housing and Urban Structure
-
-## Introduction to the Question
-
-On balance, what has the effect of U.S. housing policy in American urban
-spaces? This essay approaches the question from the perspective of public
-housing. Specifically, it analyzes the historical development of public
-housing sites in various urban locales, their percieved failures, and
-their replacement policy in the form of HOPE IV community development
-grants in the context of urban development. Specifically, I ask:
-
-1. What accounts for the problems of public housing in the United States?
-
-2. What are the welfare effects of the HOPE IV program?
-
-3. Is urban housing policy in the neoliberal era orientated towards
-   gentrification (in the words of @fraser2013, "internal colonization")?
-
-## Literature Review
-
-a. The Dual Nature of Housing: Investment Good and Wage Good
-
-b. The History of Housing Policy in the United States
-
-c. The Regional Dimensions of the Housing Crisis
-
-## A Model
-
-I model the production of public housing as 
-
-a. a public goods game
-
-b. a coalitional game, in which competing interests form political
-   coalitions to bargain for ground rents over long cycles of neighborhood
-   development
-
-## Data and Method
-
-a. Longitudinal data on public housing residents would be useful.
-   @chetty2017 used private SSA data to track residents as they moved
-   through neighborhoods; with access to this data, I could do the same
-   for residents of various public housing/HOPE VI sites
-
-b. Census microdata and GIS-linked data on census tracts surrounding
-   public housing projects and HOPE VI sites.
-
-## Results
-
-## Conclusion
-
-\newpage
-
-# Essay 1 (Alternate) - On the Housing Question: Real Estate and the Labor Share
+# Essay 1 - On the Housing Question: Real Estate and the Labor Share
 
 ## Introduction to the Question
 
@@ -125,8 +37,6 @@ class?)?
 ## Literature Review
 
 ## A Model
-
-I construct, following @shaikh2016, a Goodwin-Kalecki model incorporating a housing sector. 
 
 ## Data and Method
 
@@ -183,7 +93,7 @@ the same time, superstar cities have become largely unaffordable for
 middle- and lower- class residents [@autor2013].
 
 Attempts to explain this divergence have largely focused on skill-biased
-technical change [@glaeser2009] and over-regulation of the housing supply
+technical change [@giannone2017] and over-regulation of the housing supply
 [@glaeser2008] within the context of the canonical neoclassical spatial
 equilibrium model. This essay, inspired by the relatively new literature
 on superstar firms [@autor2017], approaches the question from a different
@@ -217,9 +127,6 @@ superstardom have a significant effect on 1) the urban/regional
 distribution of income, and 2) how do these firms interact with the
 political environment of a city/region? 
 
-a. Good People or Good Citizens? Glaeser vs. Acemoglu (vs. Bowles)
-
-b. Theories of firm agglomeration and hyper-agglomeration
 
 ### Scale and Urban Governance
 
