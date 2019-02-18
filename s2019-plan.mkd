@@ -30,11 +30,11 @@ numbersections: true
 
 * Complete progress update and send to Vamsi
 
-* Meet with Michael and Ceren
+* Meet with Michael and ~~Ceren~~
 
 * Look at Chetty place-level data for Essay 2
 
-* Read Sheppard, Harvey, Sheppard???
+* Read Chetty, Harvey, Sheppard???
 
 ### Dissertation Content:
 
@@ -64,6 +64,16 @@ Essay 1: I have no idea what I'm talking about.
 
 1. +5 pages to outline (10/40)
 
+2. Begin collecting stylized data for Essay 2 and Essay 3. 
+    a. Essay 2 requires: Chetty place-level data, mapping data for zoning laws/other institutions, outcome variables
+    b. Essay 3 requires: I need to build a database of superstar firms. Autor will probably have some tips. I should be able to turn this into a geocoded data set (to e.g. look at the density of superstars). I also need some record of urban policy changes (tax incentives, etc.) and a spatially-granular data set for outcome variables. The social wage literature might be helfpful here. 
+
+3. At this point, I should be able to write a proper abstract for Essay 2, and possibly Essay 1.
+
+4. Finish reading the relevant literature by Harvey.
+
+5. Finish reading the relevant literature by Glaeser.
+
 # March
 
 ## Status
@@ -72,23 +82,25 @@ Essay 1: I have no idea what I'm talking about.
 
 ### Goals
 
-## Week of March 11
-
-### Goals
-
 1. +5 pages to outline (15/40)
 
-## Week of March 18
+## Week of March 11
 
 ### Goals
 
 1. +5 pages to outline (20/40)
 
+## Week of March 18
+
+### Goals
+
+1. +5 pages to outline (25/40)
+
 ## Week of March 25
 
 ### Goals
 
-1. +5 pages to draft (25/40)
+1. +5 pages to draft (30/40)
 
 # April
 
@@ -100,21 +112,21 @@ Essay 1: I have no idea what I'm talking about.
 
 ### Goals
 
-1. +5 pages to draft (30/40)
-
-## Week of Apr. 8
-
-### Goals
-
 1. +5 pages to draft (35/40)
 
-## Week of Apr. 15
+## Week of Apr. 8
 
 ### Goals
 
 1. +5 pages to draft (40/40)
 
 2. Begin edits
+
+## Week of Apr. 15
+
+### Goals
+
+2. Edit
 
 ## Week of Apr. 22
 
@@ -124,6 +136,9 @@ Essay 1: I have no idea what I'm talking about.
 
 ## Week of Apr. 29
 
+### Goals
+
+1. Defend Prospectus
 
 # May
 

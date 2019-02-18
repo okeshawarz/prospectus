@@ -170,7 +170,7 @@ of exogenous variation.
 
 \newpage
 
-# Essay 3 - Superstar Firms: a Story of Regional Divergence
+# Essay 3 - Superstar Firms: a Firm-level Perspective on Regional Inequality
 
 ## Introduction
 
@@ -196,9 +196,26 @@ and superstar firms?
 
 ## Literature Review
 
-### Skill-Biased Technical Change and Job Polarization
-
 ### Superstars and Superstar Firms
+
+@rosen1981 provides an early formal treatment of the superstar phenomenon
+in labor markets; this is a special type of assignment problem in which
+there is a "marked concentration of output on those few sellers who have
+the most talent." Rosen attempts to show that this is because of the
+convexity of the seller's net revenue function (due to the relative
+insubstitutability of outputs of various types of quality) and in
+industries where the costs of production "do not rise in proportion to the
+size of a seller's market."
+
+@autor2017 directly addresses the effects of superstar *firms* on the
+decline in the labor share. They find that in industries with increasing
+concentration, the labor share of income falls due to a re-allocation of
+sales between firms, and in the most highly-concentrated industries, the
+labor share falls. These insights point the way forward to the question
+I address-- what are the *spatial* dimensions of these inequalities? Does
+superstardom have a significant effect on 1) the urban/regional
+distribution of income, and 2) how do these firms interact with the
+political environment of a city/region? 
 
 a. Good People or Good Citizens? Glaeser vs. Acemoglu (vs. Bowles)
 
