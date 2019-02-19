@@ -14,11 +14,11 @@ output:
 
 # Introduction to Urban Political Economy
 
-\newpage
-
 # Essay 1 - On the Housing Question: Real Estate and the Labor Share
 
 ## Introduction to the Question
+
+*This essay is on the role of the real estate sector (i.e., land rents) in creating and exacerbating inequality*
 
 Recently, the literature has focused its attention on the fall of the labor
 share, in contravention of Kaldor's stylized growth facts (e.g., @autor2017).
@@ -46,35 +46,96 @@ class?)?
 
 \newpage
 
-# Essay 2 - Zoning and Inequality
-
-Is the housing crisis linked to supply constraints? Specifically, are
-zoning regulations the cause of rapid growth in housing prices and rent
-[@glaeser2008]?
+# Essay 2 - The Thin Red Line: Urban Institutions and Inequality
 
 ## Introduction to the Question
 
+What role do urban financial and land-use institutions play in the
+structuring and persistence of racial and income inequality? How much of
+contemporary inequality can be explained by historically segregationist
+legal and social institutions such as redlining and exclusive zoning? 
+
 ## Literature Review
 
-a. The Politics of Zoning Policy
+Inequality and space have both become mainstream. @chetty2014's seminal
+paper demonstrated that there are significant variances in income mobility
+across different locations in the United States, and that these variations
+result in a significant racial bias in the transmission of economic
+opportunity from one generation to another [@chetty2017]. 
 
-b. Empirical Literature on Metropolitan Home Prices
+ As noted earlier, @glaeser2008 and @glaeser1997 have linked the rise in real estate prices and rents accruing to owners of housing to restrictive zoning and simple land scarcity (for example-- San Francisco is on a peninsula, and the most expensive part of New York City is a literal island). Leaving aside, for the moment, the question of whether land-use restrictions are *really* the source of rising (economic) rents in real-estate (which I hope to address in the first essay), I want to investigate the question in the opposite direction: *why* do such areas become exclusionary in the first place? As @furman2015a notes, 
 
-c. Macro literature on housing policy & supply restrictions
+>To the extent that cities with especially stringent land use restrictions tend
+to have especially high upward mobility—and high-mobility cities do tend to
+have less income inequality (Chetty et al. 2014)—these rents have important
+implications for inequality itself and the persistence of inequality. Zoning
+and land use restrictions can potentially discourage low-income families from
+moving to high-mobility areas—effectively relegating them to lower-mobility
+areas, reinforcing inequality. Accordingly, housing rents have important
+implications for both aggregate growth and its distribution.
 
-d. Production of Housing: Monopolistic or competitive? In which markets?
 
-## Data and Method
 
-Changes in zoning regulations in districts that cross municipal/state
-boundaries provide a source of exogenous variation to test the differential
-impacts of zoning laws on wealth/income inequality, segregation, homeownership,
-etc. I can construct a dataset that uses a contigious county/district approach
-similar to Dube [-@dube2010] to estimate these hypotheses. Alternately,
-I can construct a dataset of land use court cases and use them as sources
-of exogenous variation.
+## Methodology
 
-## Results
+Following Andrews et. al, this paper also seeks to investigate the role of
+historical institutions on inequality. However, where Chetty and Andrews
+take neighborhood-level effects as somewhat exogenous, I seek to establish
+a link (???) between geographic institutions, mobility, and inequality. 
+
+@rothstein2018 shows how federal and local policy erected barriers to
+Black homeownership and mobility during the period following WWI.
+Best-known among these were the policy known colloquially as "redlining,"
+which both determined access to housing market credit and determined the
+spatial structure of a particular city-space itself through the
+valorization (and devalorization) of specific pieces of property.
+
+This paper aims to test the following propositions:
+
+1. How much did historical redlining contribute to contemporary
+   inequality?
+
+2. To what extent did the rise of exclusionary zoning contribute to
+   contemporary inequality?
+
+3. How and why did these institutions arise? 
+
+I plan to combine spatial data on income mobility with historical spatial
+data on redlining and zoning to test the effect of the latter on the
+former.
+
+## Data
+
+@chetty2014 provides data on place-level parent-child income mobility. The
+*Mapping Inequality* project by @nelson2019 provides the original
+redlining maps from the HOLC and the survey data they used to produce
+them. I plan to geolocate the HOLC maps and then test the effects of
+historical redlining on current-day income mobility. 
+
+**Data that would be helpful:**
+
+1. Legal data on zoning. Specifically, I want to look at the development
+   of zoning as an urban policy institution. Ideally, I would be able to
+   track the implementation of zoning restrictions on a district- or
+   county-level basis. I could then examine how zoning policy changes over
+   time in response to a) labor market conditions, b) the business cycle,
+   and c) migrations, as in @derenoncourt. I might be able to scrape this
+   from 
+
+2. Data on historical real estate transactions from one or several urban
+   land markets. @rothstein2018 claims that Black middle-class homeowners
+   paid *inflated* prices for housing, causing desegregation to *increase*
+   land values (via a redistribution of value away from Black families),
+   rather than decrease them. This would be interesting to test
+   systematically. This would also be useful in testing the presistent
+   effects of redlining/zoning on housing prices and wealth transmission.
+
+3. Data on changes in zoning and land use laws. This data has the
+   potential to be very large and very granular, which is likely not to be
+   very necessary. If I want to test causality in the opposite direction,
+   i.e. the circumstances that form institutions, I need this for some
+   geographic region combined with some way to evaluate political
+   outcomes. 
 
 ## Conclusion
 
@@ -98,11 +159,28 @@ technical change [@giannone2017] and over-regulation of the housing supply
 equilibrium model. This essay, inspired by the relatively new literature
 on superstar firms [@autor2017], approaches the question from a different
 angle: to what extent is regional divergence driven by heavily
-consolidated, hyper-productive superstar firms? What are the consequences
-(with respect to the ability of the urban state to support social
-reproduction) for urban regions that attract (or attempt to attract)
-superstar firms? What are the terms of the bargaining game between cities
-and superstar firms?
+consolidated, hyper-productive superstar firms? 
+
+A recent development in the macroeconomic literature is the analysis of superstar firms [@autor2017]. While the phenomena of superstar employees [@rosen1981] is relatively well-established, as @orszag-1 and @furman2015a point out (I think) that much of broad growth can be attributed to far-greater-than-average returns generated by firms in upper deciles. Leaving aside the question (for now) of *why* it may be the case that superstar firms seem to be much more productive, on average, than other firms in the same industries (as well as questions surrounding the decline in the labor share itself), I seek to explore the role that the location decisions of superstar firms plays into increasingly-differentiated regional growth. 
+
+In particular, following the economic geography literature pioneered by @hackworth2000, @smith2010a, and others, I conjecture that the increased market power of these firms with respect to cities and city-regions 1) allows them to bargain for rents with cities themselves, and 2) forces cities and states to compete against *each other* to attract superstars. This area of inquiry can be summed up by these questions: why did Amazon locate their second headquarters in the NYC and DC metro areas? Despite being officially in the running, was Raleigh ever a *realistic* choice? If not, and it was obvious that Amazon was going to locate in a region with an already-thriving technology industry in a large coastal city, why would *New York* bother to make a sweetheart deal to what was likely a foregone conclusion (of course, only in retrospect) in the first place? And finally, importantly, how is it that a grass-roots coalition of urban citizens was able to defeat what seemed like a done deal? 
+
+*from readme:* This essay will be about the effect of firm location
+decisions on regional growth and inequality. Specifically, this essay will
+ask the following questions:
+
+1. Do certain firms ("superstars") gain an advantage in bargaining for
+   concessions from city governments? 
+
+1. What is the nature of this advantage? In other words, what is the
+     mechanism by which these firms gain power over the urban state?
+
+1. Do these deals provide the intended result (in terms of e.g. income
+   growth, job growth, etc.)?
+
+1. Would firms be profitable without local subsidy?
+
+1. Who loses? In other words, is there a Ricardian equivalence effect
 
 ## Literature Review
 
@@ -127,14 +205,29 @@ superstardom have a significant effect on 1) the urban/regional
 distribution of income, and 2) how do these firms interact with the
 political environment of a city/region? 
 
+## A Proposed Model: The HQ Game
 
-### Scale and Urban Governance
-
-a. "Glocalization" of municipal governments
-
-## A Model: The Amazon Game
+We model the firm-city interaction as a game with *n* cities as players.
+Given some city-specific characteristics, how does a 
 
 ## Data and Method
+
+1. I need some way to determine the initial regional density of superstar
+   firms. I imagine that the most important geographic level is the
+   commuting zone, since the local effects of these firms will be
+   primarily through first-order labor market effects and second-order
+   demand effects. This will be easy to find for publicly-traded
+   companies, but difficult-to-impossible for privately-held companies.
+   For discriptive statistics, a general view of the agglomeration of
+   firms can be done using a shift-share analysis (maybe).
+
+2. I need to find historical data on location decisions by large firms.
+   There are three important features to this data: 
+
+   * I need to be able to track changes or establishments of corporate HQs over time: I would then be able to link changes in economic variables to the establishment of a physical presence within a city. This is the easy part.
+   * I need to find out the details of any incentives offered on the part of the city, including: votes, political coalitions, lobbying efforts, tax cuts, and so forth. This data will likely be *very* small, and might limit me to case studies of particular firms within an industry.
+   * I need local-area data on outcomes, including racial and spatial stratification, human capital, public services/amenities, and in/out-migration. This should be relatively easy to find. 
+
 
 ## Results
 
