@@ -55,6 +55,10 @@ structuring and persistence of racial and income inequality? How much of
 contemporary inequality can be explained by historically segregationist
 legal and social institutions such as redlining and exclusive zoning? 
 
+*I think what this essay is **really** about is the exclusion of Blacks
+from the benefits of New Deal policy, and specifically of New Deal housing
+policy*
+
 ## Literature Review
 
 Inequality and space have both become mainstream. @chetty2014's seminal
@@ -145,6 +149,8 @@ historical redlining on current-day income mobility.
 
 ## Introduction
 
+### Framing the Question
+
 Up until the mid-1990s, cities and city-regions experienced convergence in
 productivity and wages. Since then, this trend has reversed itself, and
 metropolitan areas in the United States began to diverge, with the largest
@@ -207,8 +213,32 @@ political environment of a city/region?
 
 ## A Proposed Model: The HQ Game
 
-We model the firm-city interaction as a game with *n* cities as players.
-Given some city-specific characteristics, how does a 
+The key insight of the geographic approaches of @swyngedouw2004a and
+@smith2010a is that social phenomena (including the reproduction of the
+built environment) are the result of processes operating at multiple
+scales: the global scale, the national scale, the subnational or state
+scale, the local/urban scale, and the individual/firm scale. These
+processes can often be contradictory, and rise in fall in importance
+depending on historically specific conditions. This adds many layers of
+complexity to the analysis, and I shall begin first with a simple model of
+firm-city interaction. 
+
+### The Basic Location Game
+
+The simplest form of the game models a bargaining interaction between City
+A and City B. The firm is located in City A, and maximizes profits as
+a function of several location variables. Initially, we can consider the
+profit function of the firm as
+
+$$ \pi=r(d)-c(w_i h, l_i, \tau_i).  $$ 
+
+In this simple model, the firm's revenue is simply a function of (global)
+demand. The firm's costs take the form of (skilled) labor costs, land
+costs, and taxes.
+
+The city is initially modeled as an idiosyncratic agent that simply
+maximizes tax revenue and employment. 
+
 
 ## Data and Method
 
