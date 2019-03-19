@@ -13,11 +13,19 @@ output:
         number_sections: true
 ---
 
+```{r front_matter, echo = FALSE}
+library(rmarkdown)
+library(csv)
+```
+
+
+
 # Introduction
 
 # On the Housing Question in the United States: The Political Economy of Urban Real Estate
 
-Research Question: *Are increasing monopoly returns in the housing sector responsible for the growth in regional inequality?*
+Research Question: *Are increasing monopoly returns in the housing sector
+responsible for the growth in regional inequality?*
 
 ## Abstract 
 
@@ -46,31 +54,22 @@ which I develop further in Essay 3. I use this framework to analyze at home pric
 dynamics and urban structure in three American cities: New Haven, CT, San
 Francisco, CA, and ???.
 
+## Proposed Argument:
+
+1. Housing income is rising with respect to labor and capital income
+
+2. This effect is occuring unequally across regions
+
+3. As a result, more and more surplus is being captured by real estate
+
 ## Descriptive Statistics
 
-1. Increase in income going to housing (reproduction from -@rognlie2015). **Can I find some way to decompose this by region?**
+1. Increase in income going to housing (reproduction from -@rognlie2015). **Can I find some way to decompose this by region?** (Answer: YES! The BEA MSA-level GDP figures and breakdowns by 2-digit NAICS codes. I can then construct measures of real estate income as a percentage of total GDP. There are some problems with this approach; this suffers from the muddling of land values and built environment values [@harvey1974]. There is also no way to distinguish housing rents from housing sales. I may be able to contact the BEA for a further breakdown.)
 
 2. Income convergence in the United States from @ganong2017
 
 3. Real Estate ownership patterns by city and region (i.e., how concentrated is landownership in the United States?)
 
-## Literature Review
-
-### Classical Political Economy on Rent and Housing
-
-### Mainstream Accounts of Housing Price Dynamics
-
-### Housing After the Great Recession
-
-## Data
-
-
-
-# The Thin Red Line: Land Use Policy and Socio-Spatial Inequality
-
-Research Question: *How did land-use (particularly, zoning) policy affect 1) the racial and spatial structure of cities, and 2) the regional distribution of income and wealth?*
-
-## Abstract
 
 # The Scales of Power: Superstar Firms and Regional Inequality
 
@@ -80,21 +79,25 @@ Research Question: *Do superstar firms affect the regional distribution of incom
 
 ## Descriptive Statistics
 
-* Top-decile firms vs. Others
+* Top-decile firms vs. Others -- **get from compustat**
+
+    a. replicate @autor2018, @autor2017a - show that share of value-added (productivity?) declines for bottom 90% vs  top 10%
 
 * Regional Effects of superstar firms: clustering and shift-share 
+
+    a. show that there are regional clusters of the top-level firms, and that this has specific effects on land and labor markets
 
 * Local land and labor-market effects of subsidies from @leroy2018
 
 ## Literature Review
 
-### Firm Location Decision
+* @swyngedouw2004a on scale changes and neoliberal urbanism
 
-### Superstar Firms
+* @autor2013, @reenen2018, @giannone2017, et al on superstar firms/regional growth 
 
-### Tax Abatement Policies and Urban Inequality
+* neoclassical firm location/IO
 
-### A Firm-Level Perspective on Stagnation
+* Something on public finance? 
 
 ## The HQ Game: A Model of Firm Location and Political Choice
 
