@@ -12,13 +12,13 @@ mkdir ../bea-metro/msa
 mkdir ../raw/MAGDP/MAGDP9
 
 # Copy national-level data
-mv ../raw/MAGDP/MAGDP9_2001_2017_ALL_AREAS.csv ../bea-metro/national/usa.csv
-mv ../raw/MAGDP/MAGDP10_2001_2017_ALL_AREAS.csv ../bea-metro/national/usa-percapita.csv
+cp ../raw/MAGDP/MAGDP9_2001_2017_ALL_AREAS.csv ../bea-metro/national/usa.csv
+cp ../raw/MAGDP/MAGDP10_2001_2017_ALL_AREAS.csv ../bea-metro/national/usa-percapita.csv
 
 # Move real GDP tables to working directory
 cp ../raw/MAGDP/MAGDP9_* ../raw/MAGDP/MAGDP9
 # trim footnotes
-sed -n '89,92d' ../raw/MAGDP/MAGDP9/* -i
+sed  '89,92d' ../raw/MAGDP/MAGDP9/*.csv -i
 
 # Generate base file
 cd ../bea-metro/msa
@@ -55,5 +55,12 @@ done
 
 # Clean up CSV files
 sed -e "s/ (Metropolitan Statistical Area)//g" -i * # Remove "MSA" from GeoName
+sed -e "s/ (Metropolitan Portion)//g" -i * # Remove "MSA" from GeoName
+sed -e "s/(NA)//g" -i * # Remove NA
+sed -e "s/(D)//g" -i * # Remove D
+
+cd ../national
+sed -e "s/ (Metropolitan Statistical Area)//g" -i * # Remove "MSA" from GeoName
+sed -e "s/ (Metropolitan Portion)//g" -i * # Remove "MSA" from GeoName
 sed -e "s/(NA)//g" -i * # Remove NA
 sed -e "s/(D)//g" -i * # Remove D

@@ -6,7 +6,7 @@ bibliography: prospectus.bib
 graphics: yes
 link-citations: true
 output:
-    pdf_document:
+    tufte::tufte_handout:
         latex_engine: xelatex
         toc: false
         toc_depth: 1
@@ -18,18 +18,40 @@ library(rmarkdown)
 library(csv)
 ```
 
-
-
 # Introduction
 
-# On the Housing Question in the United States: The Political Economy of Urban Real Estate
+## Contribution to the literature
+
+This dissertation contributes to the literature in three ways. First, this is
+an attempt to synthesize the classical political economy, critical urban
+geography, urban economics, and labor economics literature into a coherent
+theoretical apparatus. Second, it addresses salient problems of land and wealth
+inequality that have just recently begun to be addressed in the mainstream
+economics literature. And third, it paves the way for future research into
+questions of space, land, and power in a capitalist economy that has become
+both hyper-globalized and hyper-localized. 
+
+## Why Urban?
+
+This dissertation takes urban space as its unit of analysis, though it takes
+a subtly but fundamentally different approach from neoclassical urban economics
+[@glaeser2009a]-- this work does not specifically deal with questions of
+spatial equilibrium *per se*. Rather, it is concerned primarily with the
+questions of growth, distribution, inequality, and poverty. In fact, I draw
+substantially from growth and development literatures-- the literature on
+growth and divergence in the global South is readily applicable to
+within-country regional growth. 
+
+A key finding for inequality in growth and distribution in the United States is that regional income convergence has been *decreasing*, rather than increasing. This provides the motivation to analyze macroeconomic trends at a regional level, since changes in macroeconomic aggregates will tend to mask regional differences that could be vastly different than the average.
+
+# On the Housing Question in the United States: The Political Economy of Real Estate
 
 Research Question: *Are increasing monopoly returns in the housing sector
 responsible for the growth in regional inequality?*
 
 ## Abstract 
 
-This paper addresses several questions unaddressed in the mainstream literature
+This paper examines several questions unaddressed in the mainstream literature
 regarding real estate rents, urban structure, and regional inequality.
 @rognlie2015 uses data from NIPA tables for the U.S. to show that the fall in
 the share of income going to labor can be attributed to a greater share going
@@ -50,17 +72,20 @@ based on the classical political rent theories of Engels [-@engels1872], George
 in rent-income ratios is due to an increase in the bargaining power of
 land-owners and developers resulting from the stagnation and decline in the
 productive capitalist sector of the (national) economy [@dymski2010a], a thesis
-which I develop further in Essay 3. I use this framework to analyze at home price
-dynamics and urban structure in three American cities: New Haven, CT, San
+which I develop further in Essay 3. I use this framework to analyze at home
+price dynamics and urban structure in three American cities: New Haven, CT, San
 Francisco, CA, and ???.
 
 ## Proposed Argument:
 
-1. Housing income is rising with respect to labor and capital income
+1. Housing income is rising with respect to labor and capital income. I aim to show this by decomposing (somewhat) the findings of @rognlie2015 to the regional level. 
 
-2. This effect is occuring unequally across regions
+2. This effect is occuring unequally across regions. I can show this by replicating the findings of @ganong2017 but also account for the housing sector. 
 
-3. As a result, more and more surplus is being captured by real estate
+3. As a result, more and more surplus is being captured by real estate. This is a theretical argument regarding the the bargaining power between landlords and tenants (including the role of property developers and very large landowners)
+
+Unanswered questions: *why* is real estate able to capture more and more rents? Is restrictive zoning the cause or effect of rising real estate rents? Is there a *ceteris paribus* increase in the share of income going to housing (e.g., a secular increase in housing income, or a secular decline in "everything else" income)?
+
 
 ## Descriptive Statistics
 
@@ -70,6 +95,8 @@ Francisco, CA, and ???.
 
 3. Real Estate ownership patterns by city and region (i.e., how concentrated is landownership in the United States?)
 
+## Introduction
+
 
 # The Scales of Power: Superstar Firms and Regional Inequality
 
@@ -77,11 +104,17 @@ Research Question: *Do superstar firms affect the regional distribution of incom
 
 ## Abstract
 
+Recent research in labor economics has focused on the role of superstar firms as a driver of income inequality in the United States (e.g. @autor2017). The literature has largely focused on the ability of large, vertically-integrated firms to generate greater-than-average labor productivity by capturing market share out of proportion to the firm's size (thereby increasing revenue per worker). This essay explores a different channel; the extraction of public rents from local governments. 
+
+I argue that in the period of neoliberal urbanism, a change in scale of urban financing has allowed firms of sufficient size and market power to bargain directly with urban governments for locational rents. Urban governments are caught in a dual bind; on the one hand, the withdrawal of financial support from the national government requires municipalities to turn to bond financing in order to support growth and public services, and hence subject themselves to the discipline of international financial markets. And on the other hand, the concentration of productivity into a handful of firms in an environment of general stagnation^[unjustified claim] allows those firms to bargain with city governments to obtain deals in the form of tax abatement and public investment. 
+
+I use evidence on public subsidies to corporations combined with geographic data on the location and concentration of firms and industry to show that public subsidies have had little effect on growth and inequality ^[very unsupported claim]. I then model the bargaining problem for cities and show that they are trapped in a "race to the bottom," in which the equilibrium outcome is to offer higher and higher incentives despite receiving increasingly onerous burdens in return.
+
 ## Descriptive Statistics
 
 * Top-decile firms vs. Others -- **get from compustat**
 
-    a. replicate @autor2018, @autor2017a - show that share of value-added (productivity?) declines for bottom 90% vs  top 10%
+    a. replicate @autor2017, @autor2017a - show that share of value-added (productivity?) declines for bottom 90% vs  top 10%
 
 * Regional Effects of superstar firms: clustering and shift-share 
 
