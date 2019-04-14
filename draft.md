@@ -14,7 +14,7 @@ header-includes: |
 
 # Introduction
 
-## Regional Inequality in the United States
+## Regional Inequality and Divergence in the United States
 
 ## Motivation
 
@@ -24,7 +24,7 @@ header-includes: |
 
 *This dissertation contributes to: A systematic analysis of scale as applied to the American regional economy, a contextualization of real estate in terms of broader economic processes, an analysis of the roles of space, scale, and property relations in the propagation of economic inequality.*
 
-## General Framework of Analysis
+## General Framework 
 
 *My approach combines the Scale-Network framework of @jessop2008, the classical political economy approaches of @george2015 and @engels1872, and the heterodox macroeconomic analysis of @shaikh2016a. I argue that the mainstream general equilibrium approach fails on multiple fronts; specifically, they ignore the structure of class and racial power, they ignore the role of the state in structuring urban space and inequality, and they are unable to account for the scale of economic processes.*
 
@@ -48,9 +48,14 @@ I construct an alternate theoretical view of the role of real estate development
 
 ## Introduction
 
+>Landed property has nothing to do with the actual process of production. Its role is confined to the transferring a portion of the produced surplus value from the pockets of capital to its own. However, the landlord plays a role in the capitalist process of production... because he appeares as the personification of one of the most essential conditions of production. @marx1991
+
+
 ### Notes
 
 1. Vacancy rate began to rise in 1980s. @sclar2018 notes the contradiction between capital gains and rental income from the perspective of the property developer.
+
+2. Upzoning *increases* property values and potential rent. So how can NIMBYism exist, rationally? 
 
 ## Literature Review
 
@@ -58,7 +63,7 @@ I construct an alternate theoretical view of the role of real estate development
 
 ### Classical Approaches to Land Rent and Property Income
 
-* @marx1993, @harvey2018a, @ball1977 - Differential rent 
+* @marx1991, @harvey2018a, @ball1977 - Differential rent 
 
 * @engels2009; @engels1872, @ball2016, @obeng-odoom2016 - Political economy of land ownership and urban growth
 
@@ -70,7 +75,21 @@ I construct an alternate theoretical view of the role of real estate development
 
 ## Introduction
 
-The theoretical approach developed in Chapter 2 generates a number of empirical predictions at both the national and regional levels. 
+The theoretical approach developed in Chapter 2 generates a number of empirical predictions at both the national and regional levels:
+
+1. In the face of negative productivity shocks, investment in real estate will tend to increase
+
+2. In regions experiencing higher growth, relatively greater shares of income will accrue to holders of landed property
+
+3. Monopoly rents are causally prior to zoning changes
+
+4. Deregulation of housing markets will have the effect of *exacerbating* regional inequality, rather than relieving them
+
+    * Is there an interaction effect? What happens when some cities deregulate and others don't? This is a question about migration
+
+    * What happens to small homeowners? It may be the case that zoning restrictions are a defense of small homeowners vs. large property developers
+
+5. Real estate markets will become more monopolized over time
 
 # Superstar Firms and Locational Rents: the HQ Game
 
