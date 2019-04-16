@@ -16,6 +16,10 @@ header-includes: |
 
 ## Regional Inequality and Divergence in the United States
 
+When the Brookings Institution [@galston2018] un-ironically uses the phrase "uneven development." you know that something has gone seriously wrong. 
+
+![Employment by community size type. source: @galston2018](images/brookings-emp-communitysize.png)
+
 ## Motivation
 
 *The real world: There is a housing crisis in the United States. But also, real estate is under-theorized, and also, a study of inequality needs to take space into account*
