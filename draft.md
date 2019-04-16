@@ -46,14 +46,27 @@ supply of housing in high-growth regions of the country [@glaeser2008;
 locational rents to current homeowners at the expense of those wishing to
 migrate. The policy implication that immediately follows is that the
 deregulation of markets for land and housing will result in an increase in
-affordability of and access. In this chapter, I intend to show that this explanation falls short as 1) relies on the existence of a perfectly competitive market in land and structures, and 2) does not take into account factors of governance and bargaining power.
+affordability of and access. In this chapter, I intend to show that this
+explanation falls short as 1) relies on the existence of a perfectly
+competitive market in land and structures, and 2) does not take into account
+factors of governance and bargaining power.
 
-I construct an alternate theoretical view of the role of real estate development based on the classical rent theories of Engels [-@engels1872; -@engels2009], George [-@george2015], and Harvey [-@harvey2018a] to argue that the increase in rents (expressed as rent-income ratios) are due to an increase in the bargaining power of property developers and large landowners resulting from stagnation and decline in the productive sector [@dymski2010a]. I use this framework to analyze the dynamics of the real estate sector and its distributional consequences in three American cities: New Haven, CT, San Francisco, CA, and New York, NY. 
+I construct an alternate theoretical view of the role of real estate
+development based on the classical rent theories of Engels [-@engels1872;
+-@engels2009], George [-@george2015], and Harvey [-@harvey2018a] to argue that
+the increase in rents (expressed as rent-income ratios) are due to an increase
+in the bargaining power of property developers and large landowners resulting
+from stagnation and decline in the productive sector [@dymski2010a]. I use this
+framework to analyze the dynamics of the real estate sector and its
+distributional consequences in three American cities: New Haven, CT, San
+Francisco, CA, and New York, NY. 
 
 ## Introduction
 
 >Landed property has nothing to do with the actual process of production. Its role is confined to the transferring a portion of the produced surplus value from the pockets of capital to its own. However, the landlord plays a role in the capitalist process of production... because he appeares as the personification of one of the most essential conditions of production. @marx1991
 
+>It is no accident that land is called real estate. For many centuries the ownership of land has been not
+just the main but often the only sure basis of power. @jackson1985a
 
 ### Notes
 
