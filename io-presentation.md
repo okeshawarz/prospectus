@@ -9,6 +9,8 @@ geometry: [top=3cm, bottom=3cm, left=3cm, right=3cm]
 
 ## Why am I Doing This? The Big Questions
 
+>...but despite the fact that house-price inflation fueled the crisis and land, as a non-reproducible asset, is the prime candidate for house-price inflation through ground-rent capitalization, the review does not even mention what Marx considered the third major class of modern capitalism, landlords, and their distinct source of revenue, ground rent (Dymski 2016)
+
 ## My General Approach
 
 There are likely very many factors driving regional and intra-regional divergence in the United States. In this research, I'm choosing real estate as my entry point for a number of reasons. 
@@ -25,7 +27,7 @@ In other words, my goal is to shed some light on the reification of power relati
 
 # Some Stylized Facts about Housing and Rents
 
-## Real Estate Labor's Share of Income
+## Real Estate, Divergence, Labor's Share of Income
 
 ## Rents and Owner-Occupation
 
@@ -33,7 +35,11 @@ In other words, my goal is to shed some light on the reification of power relati
 
 ## The Regulation View
 
+>We can observe that some of the largest U.S. cities with both restrictive zoning rules and desirable public goods tended to have persistently high housing prices relative to the cost of construction [@gyourko2013].
+
 ## The Classical View
+
+>This simple model only works because the nature of urban land as an economic good is erased from the analysis. The problem is of course obvious: urban land can't obey the laws of supply and demand because it is fixed in supply. An increase in demand can only lead to a jump in the prices of land. Thus the old economic problem of land rent refuses to go away. A substantive and policy-relevant economics of urban space has to engage with the ways in which determinations are made over the disposition of this socially generated surplus [@sclar2018].
 
 ## Phenomena to be Explained
 
