@@ -13,6 +13,8 @@ bibliography: prospectus.bib
 
 * Just what *do* landlords do anyway? 
 
+* 
+
 ## Motivation
 
 ## Stylized Facts About Residential and Commercial RE
@@ -31,10 +33,29 @@ bibliography: prospectus.bib
 
 ## Research Question
 
-* Are superstar firms extracting rents from urban states? 
+* Are superstar firms extracting rents from urban states? Does this contribute to regional divergence? 
 
 ## Motivation
 
+* How do we account for regional divergence?
+
+* @giannone2017 and Diamond (2015) attribute divergence to skill-sorting between high-productivity and low-productivity cities $\rightarrow$ but what drives productivity differential? 
+
+* How effective is the geobribery effort by states?
+
 ## Introduction and Literature
 
+* 'Glocalization' [@brenner; @swyngedouw2004a] - changes in the scale of urban governance and finance
+
+* municipal policy space increasingly constrained by availability of bond financing $\rightarrow$ bond rating agencies [@smith2010a]
+
 ## Descriptive Statistics
+
+* a novel source of data: Good Jobs First subsidy tracker tracks federal, state, and local subsidies to individual corporations.
+
+* a database of superstar firms (following @autor2017), geocoded with facility constructions
+
+## Methodology
+
+
+
