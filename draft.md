@@ -22,19 +22,53 @@ When the Brookings Institution [@galston2018] un-ironically uses the phrase "une
 
 ## Motivation
 
-*The real world: There is a housing crisis in the United States. But also, real estate is under-theorized, and also, a study of inequality needs to take space into account*
+*The real world: There is a housing crisis in the United States. But also, real
+estate is under-theorized, and also, a study of inequality needs to take space
+into account*
+
+This disssertation is about space--It is about the ways in which growth,
+distribution, and inequality are organized spatially. And, as @lefebvre2003
+argues, "the urban" has become a generalized condition of the current era of
+capitalism, so any investigation into the spatial structure of economic
+processes should properly be urban in orientation. 
+
+The first two chapters of this dissertation concern themselves with the
+political economy of real estate. I choose landed property as an entry point
+because land, housing, and real property form the material anchor of all
+networks of consuption and production. Accordingly, both the physical structure
+of the built environment and the material reality of growth and distribution
+are intimately linked with land and housing. The final chapter takes
+a firm-level approach to regional inequality, examining the effects of
+decisions made by firms and by cities on the regional distribution of income
+and opportunity.
+
+Chapter 1 is motivated by the spatial crisis gripping American cities. I use
+the term "spatial" here because, despite my primary focus on the real estate
+sector, I believe that the crisis in the housing sector in individual cities is
+linked to wider patterns of increasing inequality at larger scales (i.e.,
+inter-urban and inter-regional). The chapter begins with some descriptive statistics regarding homeownership and rentership, and the current crisis of affordability and access in American cities. 
 
 ## Contribution to the Literature
 
-*This dissertation contributes to: A systematic analysis of scale as applied to the American regional economy, a contextualization of real estate in terms of broader economic processes, an analysis of the roles of space, scale, and property relations in the propagation of economic inequality.*
+*This dissertation contributes to: A systematic analysis of scale as applied to
+the American regional economy, a contextualization of real estate in terms of
+broader economic processes, an analysis of the roles of space, scale, and
+property relations in the propagation of economic inequality.*
 
 ## General Framework 
 
-*My approach combines the Scale-Network framework of @jessop2008, the classical political economy approaches of @george2015 and @engels1872, and the heterodox macroeconomic analysis of @shaikh2016a. I argue that the mainstream general equilibrium approach fails on multiple fronts; specifically, they ignore the structure of class and racial power, they ignore the role of the state in structuring urban space and inequality, and they are unable to account for the scale of economic processes.*
+*My approach combines the Scale-Network framework of @jessop2008, the classical
+political economy approaches of @george2015 and @engels1872, and the heterodox
+macroeconomic analysis of @shaikh2016. I argue that the mainstream general
+equilibrium approach fails on multiple fronts; specifically, they ignore the
+structure of class and racial power, they ignore the role of the state in
+structuring urban space and inequality, and they are unable to account for the
+scale of economic processes.*
 
 # What Do Landlords Do? The Political Economy of Real Estate
 
-**Research Question:** *How do we account for the role of landed property owners and developers in urban growth and distribution?*
+**Research Question:** *How do we account for the role of landed property
+owners and developers in urban growth and distribution?*
 
 ## Abstract
 
@@ -63,10 +97,18 @@ Francisco, CA, and New York, NY.
 
 ## Introduction
 
+As @stein2019 writes:
+
+>The force behind these trends is the growing centrality of urban real estate to capital’s global growth strategy. The price of land becomes a central economic determinate and a dominant political issue,” Stein wrote. “The clunky term ‘gentrification’ becomes a household word and displacement an everyday fact of life. Housing becomes a globally traded financial asset, creating the conditions for synchronized bubbles and crashes. 
+
 >Landed property has nothing to do with the actual process of production. Its role is confined to the transferring a portion of the produced surplus value from the pockets of capital to its own. However, the landlord plays a role in the capitalist process of production... because he appeares as the personification of one of the most essential conditions of production. @marx1991
 
 >It is no accident that land is called real estate. For many centuries the ownership of land has been not
-just the main but often the only sure basis of power. @jackson1985a
+just the main but often the only sure basis of power. @jackson1985
+
+## Methodology
+
+
 
 ### Notes
 
