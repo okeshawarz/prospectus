@@ -7,6 +7,3 @@ bibliography: prospectus.bib
 
 # Introduction: Housing, Stagnation, and Inequality
 
-# 
-
-
