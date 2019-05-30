@@ -1,0 +1,6 @@
+---
+title: "Replication of Freemark (2019)"
+author: Osman Keshawarz
+abstract: This is a preliminary replication of Freemark's findings on the relationship of zoning changes to housing prices and access."
+---
+
