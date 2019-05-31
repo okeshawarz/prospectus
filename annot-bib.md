@@ -5,8 +5,17 @@ abstract: This document is an annotated bibliography for the first chapter of my
 bibliography: prospectus.bib
 ---
 
-# What Do Landlords Do? The Distributional Consequences of Real Estate
+# What Do Landlords Do? The Political Economy of Real Estate
+
+# The Distributional Consequences of Zoning 
+
+___
+**@freemark2019:** Freemark investigates the impact of changes in allowed zoning density ("upzoning") on residential real estate sale prices and construction permits. The author relies on two exogenous changes in regulations in Chicago, one in 2013 and the other in 2015; these zoning changes were city-wide and eliminate a source of endogeneity in "planned" zoning changes (e.g., upzoning in a particular parcel due to an increase in demand in a particular neighborhood). 
+
+___
+
+# The Geography of Monopoly: The HQ Game
 
 \newpage
 
-# References
+# References 
