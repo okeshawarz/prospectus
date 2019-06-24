@@ -7,8 +7,11 @@ bibliography: prospectus.bib
 
 # What Do Landlords Do? The Political Economy of Real Estate
 
-# Is Rent Control is Good, Actually?
+## Engels - The Condition of the Working Class in England
 
+[@engels1872]
+
+# Is Rent Control is Good, Actually?
 
 ## Diamond et. al - "The Effects of Rent Control Expansion on..."
 
