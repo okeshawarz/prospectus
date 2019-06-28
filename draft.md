@@ -99,7 +99,12 @@ Francisco, CA, and New York, NY.
 
 As @stein2019 writes:
 
->The force behind these trends is the growing centrality of urban real estate to capital’s global growth strategy. The price of land becomes a central economic determinate and a dominant political issue,” Stein wrote. “The clunky term ‘gentrification’ becomes a household word and displacement an everyday fact of life. Housing becomes a globally traded financial asset, creating the conditions for synchronized bubbles and crashes. 
+>The force behind these trends is the growing centrality of urban real estate
+to capital’s global growth strategy. The price of land becomes a central
+economic determinate and a dominant political issue,” Stein wrote. “The clunky
+term ‘gentrification’ becomes a household word and displacement an everyday
+fact of life. Housing becomes a globally traded financial asset, creating the
+conditions for synchronized bubbles and crashes. 
 
 >Landed property has nothing to do with the actual process of production. Its role is confined to the transferring a portion of the produced surplus value from the pockets of capital to its own. However, the landlord plays a role in the capitalist process of production... because he appeares as the personification of one of the most essential conditions of production. @marx1991
 
