@@ -14,11 +14,19 @@ header-includes: |
 
 # Introduction
 
-# What do Landlords do? Real Estate and Regional Growth
+# What do Landlords do? Real Estate, Growth, and Distribution
 
 ## Abstract
 
 The labor share of the national income has decreased in the past 40 years as the capital share has grown, in contravention of Kaldor's stylized facts of growth. Further decompositions of the capital share of income found that, unexpectedly, the gains in capital's share of income have come from an increased flow of income to *housing*, rather than corporate and industrial capital [@rognlie2015]. I hypothesize that this macroeconomic movement in the labor share is driven by a regional change in the relationship between capital, labor, and land. I posit that that real-estate capitalists are able to take advantage of the urban and regional geography of rents to capture a greater share of income. I further propose that this ability is driven by agglomeration effects in cities, leading to a regional stagnation equilibrium where disproportionate growth in land rents chokes off growth in urban regions. 
+
+## Research Questions
+
+**How much of increases in regional income is captured by landlords? What are the conditions governing the distribution between wages and rents?**
+
+[a note: this is similar, but related to this question:]
+
+**Is the increase in the share of income devoted to rent constricting urban growth?**
 
 ## Introduction
 
@@ -44,6 +52,15 @@ As Harvey notes, the class of landlords performs a dual, contradictory function;
 
 
 # Rent Control Revisited: Is it Good, Actually?
+
+## Abstract
+
+## Research Questions
+
+1. **Who benefited from the relaxation of rent control regulations in a number of American cities during the period 1965-1995? What impact did this have on growth and distribution (between wages, profits, and rents)? The supply of housing?**
+
+2. **Who would benefit from a current imposition of rent control in urban rental markets?**
+
 
 \newpage
 
