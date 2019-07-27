@@ -32,6 +32,8 @@ The labor share of the national income has decreased in the past 40 years as the
 
 ## Introduction
 
+### Background
+
 Regional inequality has become a topic of considerable importance since the Great Financial Crisis. Much of the recent literature in labor and urban economics has been on the subject of "superstar cities;" the phenomenon where the largest cities undergo rapid growth in income and employment, while smaller ones stagnate and decline.
 
 A major focus of the theoretical and empirical literature has been on the skill-sorting of cities, with skill-biased technical change driving in-migration of skilled labor and rising costs driving out-migration of lower-skilled workers into depressed suburbs and smaller cities. 
@@ -50,6 +52,22 @@ As Harvey notes, the class of landlords performs a dual, contradictory function;
 
 2) Choking off investment by reducing the surplus value available to invest, either directly through land rents on commercial real estate, or indirectly through residential real estate 
 which may put further upward pressure on wage demands. 
+
+### Description of Approach
+
+My contribution to the literature is to analyze the role of landed property through the lens of distributive conflict. To be certain, I do not deny the role of supply constraints in limiting access to affordable housing in rapidly-developing, high-mobility urban areas; a successful housing policy, for example, would include incentives to build more and denser housing stock. However, as @freemark2019 shows, supply-side policies focused on upzoning do not necessarily result in the reduction of rents and housing prices or the expansion of the housing stock (let alone the expansion of the supply of *affordable* housing). I contend that the elasticity of the housing supply is itself endogenously determined through conflict between landlords, developers, capitalists, and worker-tenants. Essentially, I hope to describe the way that economic power is exerted through the markets for land and housing. 
+
+[Something about mechanisms]
+
+1. Rapidly accelerating economies of agglomeration, which magnify the short-side power wielded by owners of land in particular geographic locations
+
+2. Falling rates of profit in the industrial sector (in general), reducing the long-side power of workers and tenants (expressed through legal and non-legal methods of landlord supervision and exclusion)
+
+3. Increased consolidation of land ownership and land development firms (in the first case, as a result of the widening gap between home prices and incomes and in the second, due to the increased barriers to entry to development in urban centers)
+
+4. The Henry George Effect: Related to (1), the massive positive externalities to urban development lead to the underproduction of housing, and the severe underproduction of *affordable* housing. 
+
+Notice that in each of the above cases, the fortunes of the real estate sector is inextricably linked to the productive (corporate) sector. 
 
 ## Literature Review
 
