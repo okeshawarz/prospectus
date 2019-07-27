@@ -28,11 +28,11 @@ The labor share of the national income has decreased in the past 40 years as the
 
 **Is the increase in the share of income devoted to rent constricting urban growth?**
 
+**Are the gains from increased productivity in urban regions being captured more and more by landlords?**
+
 ## Introduction
 
 Regional inequality has become a topic of considerable importance since the Great Financial Crisis. Much of the recent literature in labor and urban economics has been on the subject of "superstar cities;" the phenomenon where the largest cities undergo rapid growth in income and employment, while smaller ones stagnate and decline.
-
-![Employment growth vs population, from Brookings](images/brookings-emp-communitysize.png)
 
 A major focus of the theoretical and empirical literature has been on the skill-sorting of cities, with skill-biased technical change driving in-migration of skilled labor and rising costs driving out-migration of lower-skilled workers into depressed suburbs and smaller cities. 
 
@@ -48,8 +48,18 @@ As Harvey notes, the class of landlords performs a dual, contradictory function;
 
 1) Facilitating competition by absorbing any above-average profits,
 
-2) Choking off investment by reducing the surplus value available to invest, either directly through land rents on commercial real estate, or indirectly through residential real estate which may put further upward pressure on wage demands. 
+2) Choking off investment by reducing the surplus value available to invest, either directly through land rents on commercial real estate, or indirectly through residential real estate 
+which may put further upward pressure on wage demands. 
 
+## Literature Review
+
+### The Division Between Wages, Profits, and Rents
+
+### The Political Economy of Real Estate and Property Ownership
+
+### Urban Growth and Distribution
+
+## Data and Methods
 
 # Rent Control Revisited: Is it Good, Actually?
 
