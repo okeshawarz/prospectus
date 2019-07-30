@@ -89,6 +89,203 @@ Notice that in each of the above cases, the fortunes of the real estate sector i
 
 2. **Who would benefit from a current imposition of rent control in urban rental markets?**
 
+## Rent Control in the United States
+
+### Prohibited by State Law
+
+Alabama (2006), Arizona (2016), Arkansas (2014), Colorado (2016), Connecticut (1956), Florida (2018), Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts (1995), Michigan, Minnesota, Mississippi, Missouri, New Hampshire, New Mexico, North Carolina, North Dakota, Oklahoma, Oregon, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, Wisconsin, Wyoming
+
+### States with Rent Control
+
+#### California
+Berkeley
+Beverly Hills
+East Palo Alto
+Hayward
+Los Angeles
+Los Gatos
+Oakland
+Palm Springs
+San Francisco
+San Jose
+Santa Monica
+West Hollywood
+
+Other than rent control
+
+Campbell
+Fremont
+Gardena
+Glendale
+Pasadena
+San Diego
+San Leandro
+
+#### Washington, DC
+
+#### Maryland
+
+College Park
+Frederick County
+Takoma Park
+Washington County
+
+#### New Jersey
+
+???
+
+#### New York
+
+New York City
+Other municipalities covered
+Under Senior Citizen Rent Increase Exemption (SCRIE)
+
+Nassau County:
+
+Glen Cove
+Great Neck
+Great Neck Plaza
+Hempstead
+North Hempstead (unincorporated area
+Thomaston
+
+Westchester County:
+
+Dobbs Ferry
+Greenburgh
+Irvington
+Larchmont
+Mamaroneck (town and village)
+Mount Vernon
+New Rochelle
+Pleasantville
+Sleepy Hollow
+Tarrytown
+White Plains
+Yonkers
+
+Under Rent Control
+
+Albany County
+
+Albany
+Bethlehem
+Green Island
+New Scotland
+Voorheesville
+Watervliet
+
+Erie County 
+
+Buffalo
+Cheektowaga
+Depew
+Sloan
+
+Nassau County 
+
+Bellerose
+Cedarhurst
+Floral Park
+Flower Hill
+Freeport
+Glen Cove
+Hempstead
+Hempstead (Village)
+Lawrence
+Long Beach
+Mineola
+New Hyde Park
+North Hempstead
+Oyster Bay
+Sea Cliff
+Valley Stream
+Westbury
+Willston Park
+
+Rensselaer County
+
+Hoosick
+Hoosick Falls
+North Greenbush
+Rensselaer
+
+Schenectady County
+
+Niskayuna
+Princeton
+
+Westchester County
+
+Ardsley
+Dobbs Ferry
+East Chester
+Greenburgh
+Harrison
+Hastings-on-Hudson
+Larchmont
+Mamaroneck
+Mamaroneck (Village)
+Mount Vernon
+New Rochelle
+Rye
+Sleepy Hollow
+Tarrytown
+Tuckahoe
+White Plains
+Yonkers
+
+Under Emergency Tenant Protection Act
+
+Nassau County
+
+Baxter Estates
+Cedarhurst
+Floral Park
+Flower Hill
+Freeport
+Glen Cove
+Great Neck
+Great Neck Plaza
+Hempstead (Village)
+Long Beach
+Lynbrook
+Mineola
+North Hempstead
+North Hempstead (Town-unincorporated)
+Rockville Centre
+Russell Gardens
+Thomaston
+
+Rockland County
+
+Haverstraw
+Spring Valley
+
+Westchester County
+
+Croton-Harmon
+Dobbs Ferry
+East Chester
+Greenburgh
+Harrison
+Hastings-on-Hudson
+Irvington
+Larchmont
+Mamaroneck (Village)
+Manaroneck
+Mount Vernon
+Mt. Kisco
+New Rochelle
+Pleasantville
+Port Chester
+Sleepy Hollow
+Tarrytown
+White Plains
+Yonkers
+
+
+
 
 \newpage
 
