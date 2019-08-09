@@ -10,6 +10,8 @@ header-includes: |
     \usepackage{epigraph}
 ---
 
+\newpage
+
 # Introduction
 
 Regional inequality has become a topic of considerable importance since the
@@ -26,7 +28,7 @@ lower-skilled workers into depressed suburbs and smaller cities.
 The rise of superstar cities has led to a consequent crisis of housing in *all*
 cities of the United States, with increases in homelessness and declines in
 homeownership and affordability across-the-board, but especially in urban
-centers of the most productive city-regions. 
+centers of the most productive city-regions. Inter-city inequality becomes reproduced as intra-city inequality, as land values in cities featuring the most growth becomes prohibitively expensive to own or rent, and zoning for density results in the growth of high-rent housing stock instead of providing for mixed-income neighborhoods. 
 
 Much of the recent literature on the relationship between housing and regional
 growth focuses on the elasticity of the housing supply with respect to housing
@@ -87,6 +89,8 @@ historical/descriptive analysis, and econometric analysis.
 
 # The Housing Question 
 
+**Research Question: What are the conditions under which increases in income are captured by landlords?**
+
 ## Introduction
 
 This is a theoretical essay on the distributional role of real estate in the
@@ -139,7 +143,9 @@ as outside option]
 
 ## Conclusion and Further areas for study
 
-# Real Estate State: A Story of Silicon Valley
+# The Real Estate State: Housing in the Bay Area
+
+**Research Question: How much of an increase in e.g. regional growth goes to landlords?**
 
 ## Introduction
 
@@ -195,6 +201,8 @@ identified in chapter 1 to those that did not.
 ## Results and Conclusion
 
 # Rent Control, Neighborhood Stability, and Economic Mobility
+
+**Research Question: Does rent control actually prevent neighborhood displacement? OR Does rent control preserve economic mobility?**
 
 ## Introduction
 
