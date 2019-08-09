@@ -87,7 +87,7 @@ historical/descriptive analysis, and econometric analysis.
 
 @harvey2018a
 
-# The Housing Question 
+# On The Housing Question 
 
 **Research Question: What are the conditions under which increases in income are captured by landlords?**
 
@@ -238,3 +238,11 @@ allow for mobility.
 ## Data
 
 ## Methodology
+
+## Results
+
+## Conclusion
+
+\newpage
+
+# References
