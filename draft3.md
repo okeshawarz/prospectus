@@ -157,6 +157,7 @@ others." Under capitalist relations, the relationship between the landlord and t
 
 #### Jane Jacobs
 
+#### Chicago School of Sociology & Neoclassical Spatial Equilibrium
 
 ## Land Rents and Urban Growth
 
