@@ -3,7 +3,7 @@ title: Three Essays on Urban Economics
 author: Osman Keshawarz
 abstract: "something something something"
 toc: true
-geometry: [top=3cm, bottom=3cm, left=3cm, right=3cm]
+#geometry: [top=3cm, bottom=3cm, left=3cm, right=3cm]
 bibliography: prospectus.bib
 link-citations: true
 header-includes: |
@@ -135,6 +135,17 @@ clear.
 @glaeser2009a
 
 @glaeser2014a
+
+### The Classics
+
+#### Marx, Engels, and Ricardo
+
+#### Henry George
+
+#### David Harvey
+
+#### Jane Jacobs
+
 
 ## Land Rents and Urban Growth
 
