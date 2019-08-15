@@ -173,6 +173,7 @@ the processes of accumulation in both the industrial and real estate sectors.
 
 #### Jane Jacobs
 
+#### Chicago School of Sociology & Neoclassical Spatial Equilibrium
 
 ## Land Rents and Urban Growth
 
