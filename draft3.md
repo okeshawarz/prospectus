@@ -157,13 +157,15 @@ agrarian or industrial), by virtue of the institution of private property--
 ownership of the land represents a *claim* on the *future productivity* of that
 land. 
 
-@engels2009 provided the first Marxian analysis of particularly the *housing*
-question under urban capitalism, starting from the vantage point of the English
-working class. For Engels, "the housing question relates to problems of
-quantity (shortage), accessibility/distribution, quality, and affordability. He
-argued that the conditions of housing at every time should be considered as
-part of, not separate from, broader economic, social, and political processes,"
-[@obeng-odoom2016]. In other words, housing dynamics cannot be understood as processes separate from labor market (and, later, financial market) dynamics.
+@engels2009 provided the first Marxian analysis of particularly the
+*housing* question under urban capitalism, starting from the vantage point
+of the English working class. For Engels, "the housing question relates to
+problems of quantity (shortage), accessibility/distribution, quality, and
+affordability. He argued that the conditions of housing at every time
+should be considered as part of, not separate from, broader economic,
+social, and political processes," [@obeng-odoom2016]. In other words,
+housing dynamics cannot be understood as processes separate from labor
+market (and, later, financial market) dynamics.
 
 
 #### Henry George
