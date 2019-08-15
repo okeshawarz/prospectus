@@ -163,8 +163,7 @@ working class. For Engels, "the housing question relates to problems of
 quantity (shortage), accessibility/distribution, quality, and affordability. He
 argued that the conditions of housing at every time should be considered as
 part of, not separate from, broader economic, social, and political processes,"
-[@obeng-odoom2016]. The housing crisis could not be analyzed independently from
-the processes of accumulation in both the industrial and real estate sectors. 
+[@obeng-odoom2016]. In other words, housing dynamics cannot be understood as processes separate from labor market (and, later, financial market) dynamics.
 
 
 #### Henry George
