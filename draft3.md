@@ -170,6 +170,79 @@ market (and, later, financial market) dynamics.
 
 #### Henry George
 
+While Marx focused on the relationship between Labor and Capital in
+relatively land-scarce Europe, Henry George directed his analysis against
+the relationship between Labor and Land in the land-abundant United
+States. George held that, as against the work of the laborer and the
+self-discipline of the capitalist, rent on bare land could increase solely
+through public investment into infrastructure and amenities, or through
+natural population growth, encouraging rampant land speculation. At the
+time, land interests were perceived as holding back the rapid
+industrialization of the United States. Mirroring the American
+Transcendentalists of his day, he held that land should either be held in
+common by all people, as "an endowment from God," [@george2015], or (not
+so much like the Transcendentalists), the entire value of bare land should
+be taxed away and redistributed by the government. The Land Value Tax
+still remains wildly popular among economists as a way to combat land
+speculation; while briefly touched on later in this chapter, a full
+discussion of the LVT is beyond the scope of this dissertation.
+Abstracting from the uniquely American yeoman ethics of *Progress and
+Poverty*, the major Georgist theoretical points important to my argument are as
+follows:
+
+1. *Private ownership of land grants monopoly power over that plot of
+   land, which is part of an absolutely fixed supply.* The somewhat
+   bizarre nature of land *vis a vis* other commodities was also noted by
+   the other classical economists (especially Ricardo). This grants
+   landowners as a class short-side power over any process that requires
+   space (e.g., literally every process), and the power to extract rents
+   over the use of that land in proportion to how necessary and/or
+   valuable that land becomes-- for example, landowners who speculated on
+   the future paths of railroad tracks and depots^[or, for a more modern
+   example, the purchase of plots of land along the U.S.-Mexico border by
+   the founders of Cards Against Humanity, for the purpose of halting
+   President Donald Trump's border wall. In fact, this type use of monopoly
+   power by landlords was so troublesome to the public good, the power of
+   eminent domain was enshrined into the U.S. Constitution under the Fifth
+   Amendment. From a kind of Jeffersonian libertarian outlook, this is a rather
+   shocking (and telling) violation of the "inviolable" right to
+   property.]. This idea remains salient (perhaps even more so) during the
+   contemporary period of urban development where economies of scale and
+   agglomeration in cities dictate the degree of *locational monopoly*
+   a particular landlord is able to exercise.
+
+2. *The value of bare land (i.e., absent any improvements such as
+   structures, etc.) is determined by forces outside of any individual
+   landowner's control.* In other words, the landlord realizes both
+   a capital gain and an increase in potential rent when a location
+   becomes desirable, without any action on his or her own part. George
+   saw this as something morally abhorrent, but we can also see that
+   a raise in rents due to a change in locational advantage is a pure
+   redistribution away from other, productive sectors of the economy. 
+
+Further, on point (2): The Henry George Theorem^[in its general form,
+[@arnott2004], "in any constrained Pareto optimal and nontrivial
+allocation of population in a spatial economy, the aggregate shadow losses
+from increasing returns to scale activities just equal the aggregate
+shadow profits from the decreasing returns to scale activities."], first formalized by
+@arnott1979, is now a staple of public finance. It shows that, under
+certain conditions, aggregate spending on public goods will increase
+aggregate rent based on land value by at least that amount, thereby
+leading to calculations of optimal city sizes, among other things.
+Technical discussion of the HGT and its implications are beyond the scope
+of this essay, but the salient point I wish to focus on is that the
+theorem highlights the *externality* problem facing urban planners and
+would-be city dwellers: each landlord's absolute control over their own
+personal fiefdom allows them to accrue external benefits from both public
+and private actions undertaken outside their property. In modern cities,
+with very powerful agglomeration effects, these externalities could grow
+to be quite large, as density increases. This potentially points to
+increasingly severe coordination failures in housing supply.
+
+In sum, the theoretical lines I wish to draw from Henry George are towards
+**the monopoly pricing power over land**, and **positive externalities as a result of
+density, scale, and agglomeration.**
+
 #### David Harvey
 
 #### Jane Jacobs
