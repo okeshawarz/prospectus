@@ -221,7 +221,7 @@ follows:
    redistribution away from other, productive sectors of the economy. 
 
 Further, on point (2): The Henry George Theorem^[in its general form,
-[@arnott2004], "in any constrained Pareto optimal and nontrivial
+[@arnott2004]: "in any constrained Pareto optimal and nontrivial
 allocation of population in a spatial economy, the aggregate shadow losses
 from increasing returns to scale activities just equal the aggregate
 shadow profits from the decreasing returns to scale activities."], first formalized by
