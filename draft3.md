@@ -157,6 +157,8 @@ agrarian or industrial), by virtue of the institution of private property--
 ownership of the land represents a *claim* on the *future productivity* of that
 land. 
 
+This framework has been developed in several ways, particularly by @harvey2018a, addressed below, and @basu2018. Basu points out that the key to the Marxian (neo-Ricardian?) understanding of land rents in general is that "if the non-produced resource is privately owner, and is limited in quantity, then its owner appropriates an income stream that we call capitalist rent," and applies the dynamics of ground-rent to *all* non-produced resources. Since non-produced resources do not require labor, by definition, then they have no *value* in the Marxian sense. However, they do have *prices*, despite having no value. 
+
 @engels2009 provided the first Marxian analysis of particularly the
 *housing* question under urban capitalism, starting from the vantage point
 of the English working class. For Engels, "the housing question relates to
@@ -165,7 +167,9 @@ affordability. He argued that the conditions of housing at every time
 should be considered as part of, not separate from, broader economic,
 social, and political processes," [@obeng-odoom2016]. In other words,
 housing dynamics cannot be understood as processes separate from labor
-market (and, later, financial market) dynamics.
+market (and, later, financial market) dynamics. The landlord, as private owner of housing, uses the threat of homelessness as a means to extract value from the tenant. This relationship is slightly different than the extraction of surplus value from the tenant farmer in agriculture- in this case, the surplus value is produced in the productive (corporate) sector, and the relative power of landowners, workers, and capitalists determine the resulting distribution of rents, wages, and profits between them.
+
+The key theoretical points that I wish to draw from Marx and Engels is that land rents are the site of distributional conflicts between landlords, peasants, and workers (in agriculture), and between landlords, workers, and capitalists (in industry). More importantly, the landlord-tenant relationship in urban capitalism is in actuality the site of multiple forms of contested exchange operating at different scales. This is a point elaborated on by the Marxist Critical Geography school, which I address further below. 
 
 
 #### Henry George
@@ -182,7 +186,7 @@ industrialization of the United States. Mirroring the American
 Transcendentalists of his day, he held that land should either be held in
 common by all people, as "an endowment from God," [@george2015], or (not
 so much like the Transcendentalists), the entire value of bare land should
-be taxed away and redistributed by the government. The Land Value Tax
+be taxed away and used for public investment. The Land Value Tax
 still remains wildly popular among economists as a way to combat land
 speculation; while briefly touched on later in this chapter, a full
 discussion of the LVT is beyond the scope of this dissertation.
@@ -244,6 +248,16 @@ In sum, the theoretical lines I wish to draw from Henry George are towards
 density, scale, and agglomeration.**
 
 #### David Harvey
+
+@harvey2018a; @harvey1974 provides a further elaboration on theories of rent put forth by Marx in Vol. II and III of *Capital.* He separates land rent into absolute rent and differential rent, and crucially, places them within the context of space and financial capital. For Harvey, the fundamental tension within capitalism is:
+
+>The logic of capital accumulation produces fixities (the built environment), but as soon as the built environment comes into existence, they become barriers to the circulation of capital."
+
+In other words, at the moment that circulating capital becomes fixed in space, they become long-lived checks on the flow of that capital back into the economy, and the engine of capital accumulation is driven by constant reduction of turnover time required to transform value into surplus value, or "the annihilation of space by time."
+
+The built environment comprises a secondary circuit of capital, which tends to attract surplus capital from the primary circuit. This arises due to the lack of immediate profitability in the primary circuit^[which brings to mind the question: what happens to the secondary circuit during periods of expansion in the primary? We might imagine that this would cause under-accumulation in something like the housing sector], and cycles in the built environment seem to be related to cyclical crises in the primary circuit.
+
+Absolute rent, in Ricardian form, is simply rent that is accrued due to the scarcity of a particular resource; differential rent is rent based on the differential productivity of land. To this, Harvey adds DRII, or "monopoly" rent, which is a *spatial rent created through power*, whether this be state power, class power, etc. Harvey uses the term "class monopoly rents" to specify a type of class power that raises the *absolute* rent that can be extracted from a resource; in essence, landlords and developers use class power to create artificial scarcity in order to drive up the slice of surplus value (George's "unearned increment") that can be extracted from the productive sector. 
 
 #### Jane Jacobs
 
