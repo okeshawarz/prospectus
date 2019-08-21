@@ -350,6 +350,8 @@ converting properties to a non-controlled type), eviction-through-harassment,
 or simply by buying out the tenant. Such cases may be easily rectified through
 appropriate legislation or strengthening tenant protections. 
 
+[Move to next section]
+
 >In this paper, I use data from @chetty2014 to evaluate whether rent control is
 a viable strategy to preserve neighborhood access to public amenities that
 increase economic mobility. In other words, rent controls may be
@@ -357,17 +359,51 @@ welfare-increasing *even if they result in higher rents and lower housing
 supply overall* if they preserve the access to place-based institutions that
 allow for mobility.
 
-### Question Discussion
-
-There are several phenomena of interest regarding the effects of rent control. The three that I am most interested in are:
-
-1. **How does rent control impact the supply of housing?** - most of the empirical and theoretical work regarding rent controls aims to answer this question. How much does rent control impact the construction of housing supply^[An important corollary to this question is how does the *type* of housing, as well as its condition, change?]? What are its effects on land values and rental rates? Aside from the very recent literature focusing on causal identification, much of the literature leaves the question of causation aside, with the assumption that rent controls form *ex nihilo* and function as a brake on housing supply growth. However, it is quite plausible that the direction of causation is actually reversed; the implementation of rent control by a particular electorate might be a *response* to growth in rents and evictions, caused by one of the factors identified in the previous chapters. 
-
-2. **How does rent control impact neighborhood stability and access to public goods?** - Aside from questions of housing supply and efficiency, the empirical literature is in relative agreement on the role of rent control in allowing tenants to remain in their homes^[except in cases with vacancy decontrol, which incentivizes landlords to evict]. Aside from utility directly obtained from not being evicted (and correspondingly for the landlord, having a long-term, stable tenant), it might be the case that in the face of highly place-based amenities and mobility effects (e.g., @chetty2014), rent control may also allow access to public amenities (e.g. public schools) that allow for higher intergenerational mobility^[for example-- does living in a rent-controlled neighborhood preserve access to institutions that allow for mobility among those who would otherwise be trapped in low-mobility environments? This type of question would be, in principle, rather difficult to answer, as it requires determining where a particular resident would be displaced to if the area were not rent controlled. In a descriptive way, we can look at migrations and evictions that occurred as a result of blanket rent control bans by state governments.]
-
 ## Literature Review
 
 [10 sources]
+
+### Empirical Strategy
+
+There are several phenomena of interest regarding the effects of rent control. The three that I am most interested in are:
+
+A. **How does rent control impact the supply of housing?** - most of the
+   empirical and theoretical work regarding rent controls aims to answer this
+   question. How much does rent control impact the construction of housing
+   supply^[An important corollary to this question is how does the *type* of
+   housing, as well as its condition, change?]? What are its effects on land
+   values and rental rates? Aside from the very recent literature focusing on
+   causal identification, much of the literature leaves the question of
+   causation aside, with the assumption that rent controls form *ex nihilo* and
+   function as a brake on housing supply growth. However, it is quite plausible
+   that the direction of causation is actually reversed; the implementation of
+   rent control by a particular electorate might be a *response* to growth in
+   rents and evictions, caused by one of the factors identified in the previous
+   chapters. 
+
+B. **How does rent control impact neighborhood stability and access to public
+   goods?** - Aside from questions of housing supply and efficiency, the
+   empirical literature is in relative agreement on the role of rent control in
+   allowing tenants to remain in their homes^[except in cases with vacancy
+   decontrol, which incentivizes landlords to evict]. Aside from utility
+   directly obtained from not being evicted (and correspondingly for the
+   landlord, having a long-term, stable tenant), it might be the case that in
+   the face of highly place-based amenities and mobility effects (e.g.,
+   @chetty2014), rent control may also allow access to public amenities (e.g.
+   public schools) that allow for higher intergenerational mobility^[for
+   example-- does living in a rent-controlled neighborhood preserve access to
+   institutions that allow for mobility among those who would otherwise be
+   trapped in low-mobility environments? This type of question would be, in
+   principle, rather difficult to answer, as it requires determining where
+   a particular resident would be displaced to if the area were not rent
+   controlled. In a descriptive way, we can look at migrations and evictions
+   that occurred as a result of blanket rent control bans by state
+   governments.]
+
+These will hereafter be referred to as *Question A* and *Question B*,
+
+In answering A, I take direct inspiration from the recent minimum wage debates. I wish to compare growth in e.g. rents in a particular treatment group 
+
 
 ## Data
 
