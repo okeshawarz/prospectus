@@ -409,23 +409,25 @@ In answering A, I take direct inspiration from the recent minimum wage debates. 
 
 * Ideal dataset on households:
 
-+-----------|------|------------|-----------|-----------|---------|------------|---------|------------|------------+
-| Household | Year | Fips       | TenStatus | Tenlength | Value   | Gross rent | HH Size | Struc. Age | Contolled? |
-+===========|======|============|===========|===========|=========|============|=========|============|============+
-| dummyhh1  | 1999 | 000Atlanta | OwnerOcc  | 20        | 200,000 |            | 5       | 80         | No         |
-| dummyhh2  | 1984 | 000NewYork | Rented    | 6         | 300,000 | 500        | 3       | 40         | Yes        |
-+-----------|------|------------|-----------|-----------|---------|------------|---------|------------|------------+
++-----+------+--------+-----------+-----------+---------+------------+---------+------------+------------+
+| HH# | Year | Fips   | TenStatus | Tenlength | Value   | Gross rent | HH Size | Struc. Age | Contolled? |
++=====+======+========+===========+===========+=========+============+=========+============+============+
+| hh1 | 1999 | 000Atl | OwnerOcc  | 20        | 200,000 |            | 5       | 80         | No         |
++-----+------+--------+-----------+-----------+---------+------------+---------+------------+------------+
+| hh2 | 1984 | 000Nyc | Rented    | 6         | 300,000 | 500        | 3       | 40         | Yes        |
++-----+------+--------+-----------+-----------+---------+------------+---------+------------+------------+
 
 * Ideal dataset on places:
 
-+------------|------------|--------------|----------------|-----------------------------|----------------------|------------+
-| Fips       | Controlled | Year Enacted | Year abolished | List of criteria (age, etc) | year banned by state | Decontrol? |
-+============|============|==============|================|=============================|======================|============+
-| 000Atlanta | No         | 1985         | 1992           | Multifamily, >30 yrold      | 1992                 |            |
-| 000NewYork | Yes        | 1929         |                | Multifamily                 |                      | Yes        |
-+------------|------------|--------------|----------------|-----------------------------|----------------------|------------+
++--------+------+--------------+----------------+------------------------+----------------------+--------+
+| Fips   | Ctl? | Year Enacted | Year abolished | criteria (age, etc)    | year banned by state | Dectl? |
++========+======+==============+================+========================+======================+========+
+| 000Atl | No   | 1985         | 1992           | Multifamily, >30 yrold | 1992                 |        |
++--------+------+--------------+----------------+------------------------+----------------------+--------+
+| 000Nyc | Yes  | 1929         |                | Multifamily            |                      | Yes    |
++--------+------+--------------+----------------+------------------------+----------------------+--------+
 
-To address question A, I would ideally need data on individual households (following @diamond2018). I can additionally combine this with data on city-level rent control laws to create the last column in table 1 above. This provides a ready quasi-experiment that allows me to perform a difference-in-difference estimation with year and city fixed effects. 
+To address question A, I would ideally need data on individual households (following @diamond2018). I can additionally combine this with data on city-level rent control laws to create the last column in table 1 above. This provides a ready quasi-experiment that allows me to perform a difference-in-difference estimation with year and city fixed effects. I also include a variable for vacancy decontrol, to separate out those cities which include a decontrol provision.
 
 ## Methodology
 
