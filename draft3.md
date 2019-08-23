@@ -25,10 +25,14 @@ skill-sorting of cities, with skill-biased technical change driving
 in-migration of skilled labor and rising costs driving out-migration of
 lower-skilled workers into depressed suburbs and smaller cities. 
 
-The rise of superstar cities has led to a consequent crisis of housing in *all*
-cities of the United States, with increases in homelessness and declines in
-homeownership and affordability across-the-board, but especially in urban
-centers of the most productive city-regions. Inter-city inequality becomes reproduced as intra-city inequality, as land values in cities featuring the most growth becomes prohibitively expensive to own or rent, and zoning for density results in the growth of high-rent housing stock instead of providing for mixed-income neighborhoods. 
+The rise of superstar cities has led to a consequent crisis of housing in
+*all* cities of the United States, with increases in homelessness and
+declines in homeownership and affordability across-the-board, but
+especially in urban centers of the most productive city-regions.
+Inter-city inequality becomes reproduced as intra-city inequality, as land
+values in cities featuring the most growth becomes prohibitively expensive
+to own or rent, and zoning for density results in the growth of high-rent
+housing stock instead of providing for mixed-income neighborhoods. 
 
 Much of the recent literature on the relationship between housing and regional
 growth focuses on the elasticity of the housing supply with respect to housing
@@ -89,7 +93,9 @@ historical/descriptive analysis, and econometric analysis.
 
 # On The Housing Question 
 
-**Research Question: What are the conditions under which increases in income are captured by landlords?**
+**Research Question: What are the conditions under which increases in
+income are captured by landlords? Who gains from a relaxation of building
+restrictions?**
 
 ## Introduction
 
@@ -110,13 +116,16 @@ When looking at metropolitan GDP and housing figures, a few results emerge:
 4. The composition of new housing construction has changed, reflecting
    declining homeownership and increased rentership.
 
-In this paper, I build an argument incorporating the critical geography and
-Marxist-Georgist urban economics traditions. I develop general theoretical
-questions regarding the role of differential rents, economies of scale, and the
+In this paper, I build an argument incorporating the critical geography
+and urban economics traditions. I develop general theoretical questions
+regarding the role of differential rents, economies of scale, and the
 level of homeownership, and show that under certain conditions, all of the
-income growth in a particular region can be captured by landlords, and that in
-equilibrium, urban land markets under conditions of increasing returns may not
-clear. 
+income growth in a particular region can be captured by landlords, and
+that in equilibrium, urban land markets under conditions of increasing
+returns may not clear. The first half of this paper will be a survey of
+the history of economic thought regarding landlords, rents, and cities,
+and the second will consist of a formal presentation of the theoretical
+argument. 
 
 ## Literature Review
 
@@ -157,7 +166,15 @@ agrarian or industrial), by virtue of the institution of private property--
 ownership of the land represents a *claim* on the *future productivity* of that
 land. 
 
-This framework has been developed in several ways, particularly by @harvey2018a, addressed below, and @basu2018. Basu points out that the key to the Marxian (neo-Ricardian?) understanding of land rents in general is that "if the non-produced resource is privately owner, and is limited in quantity, then its owner appropriates an income stream that we call capitalist rent," and applies the dynamics of ground-rent to *all* non-produced resources. Since non-produced resources do not require labor, by definition, then they have no *value* in the Marxian sense. However, they do have *prices*, despite having no value. 
+This framework has been developed in several ways, particularly by
+@harvey2018a, addressed below, and @basu2018. Basu points out that the key
+to the Marxian (neo-Ricardian?) understanding of land rents in general is
+that "if the non-produced resource is privately owner, and is limited in
+quantity, then its owner appropriates an income stream that we call
+capitalist rent," and applies the dynamics of ground-rent to *all*
+non-produced resources. Since non-produced resources do not require labor,
+by definition, then they have no *value* in the Marxian sense. However,
+they do have *prices*, despite having no value. 
 
 @engels2009 provided the first Marxian analysis of particularly the
 *housing* question under urban capitalism, starting from the vantage point
@@ -167,9 +184,22 @@ affordability. He argued that the conditions of housing at every time
 should be considered as part of, not separate from, broader economic,
 social, and political processes," [@obeng-odoom2016]. In other words,
 housing dynamics cannot be understood as processes separate from labor
-market (and, later, financial market) dynamics. The landlord, as private owner of housing, uses the threat of homelessness as a means to extract value from the tenant. This relationship is slightly different than the extraction of surplus value from the tenant farmer in agriculture- in this case, the surplus value is produced in the productive (corporate) sector, and the relative power of landowners, workers, and capitalists determine the resulting distribution of rents, wages, and profits between them.
+market (and, later, financial market) dynamics. The landlord, as private
+owner of housing, uses the threat of homelessness as a means to extract
+value from the tenant. This relationship is slightly different than the
+extraction of surplus value from the tenant farmer in agriculture- in this
+case, the surplus value is produced in the productive (corporate) sector,
+and the relative power of landowners, workers, and capitalists determine
+the resulting distribution of rents, wages, and profits between them.
 
-The key theoretical points that I wish to draw from Marx and Engels is that land rents are the site of distributional conflicts between landlords, peasants, and workers (in agriculture), and between landlords, workers, and capitalists (in industry). More importantly, the landlord-tenant relationship in urban capitalism is in actuality the site of multiple forms of contested exchange operating at different scales. This is a point elaborated on by the Marxist Critical Geography school, which I address further below. 
+The key theoretical points that I wish to draw from Marx and Engels is
+that land rents are the site of distributional conflicts between
+landlords, peasants, and workers (in agriculture), and between landlords,
+workers, and capitalists (in industry). More importantly, the
+landlord-tenant relationship in urban capitalism is in actuality the site
+of multiple forms of contested exchange operating at different scales.
+This is a point elaborated on by the Marxist Critical Geography school,
+which I address further below. 
 
 
 #### Henry George
@@ -249,19 +279,59 @@ density, scale, and agglomeration.**
 
 #### David Harvey
 
-@harvey2018a; @harvey1974 provides a further elaboration on theories of rent put forth by Marx in Vol. II and III of *Capital.* He separates land rent into absolute rent and differential rent, and crucially, places them within the context of space and financial capital. For Harvey, the fundamental tension within capitalism is:
+@harvey2018a; @harvey1974 provides a further elaboration on theories of
+rent put forth by Marx in Vol. II and III of *Capital.* He separates land
+rent into absolute rent and differential rent, and crucially, places them
+within the context of space and financial capital. For Harvey, the
+fundamental tension within capitalism is:
 
->The logic of capital accumulation produces fixities (the built environment), but as soon as the built environment comes into existence, they become barriers to the circulation of capital."
+>The logic of capital accumulation produces fixities (the built
+environment), but as soon as the built environment comes into existence,
+they become barriers to the circulation of capital."
 
-In other words, at the moment that circulating capital becomes fixed in space, they become long-lived checks on the flow of that capital back into the economy, and the engine of capital accumulation is driven by constant reduction of turnover time required to transform value into surplus value, or "the annihilation of space by time."
+In other words, at the moment that circulating capital becomes fixed in
+space, they become long-lived checks on the flow of that capital back into
+the economy, and the engine of capital accumulation is driven by constant
+reduction of turnover time required to transform value into surplus value,
+or "the annihilation of space by time."
 
-The built environment comprises a secondary circuit of capital, which tends to attract surplus capital from the primary circuit. This arises due to the lack of immediate profitability in the primary circuit^[which brings to mind the question: what happens to the secondary circuit during periods of expansion in the primary? We might imagine that this would cause under-accumulation in something like the housing sector], and cycles in the built environment seem to be related to cyclical crises in the primary circuit.
+The built environment comprises a secondary circuit of capital, which
+tends to attract surplus capital from the primary circuit. This arises due
+to the lack of immediate profitability in the primary circuit^[which
+brings to mind the question: what happens to the secondary circuit during
+periods of expansion in the primary? We might imagine that this would
+cause under-accumulation in something like the housing sector], and cycles
+in the built environment seem to be related to cyclical crises in the
+primary circuit.
 
 Absolute rent, in Ricardian form, is simply rent that is accrued due to the scarcity of a particular resource; differential rent is rent based on the differential productivity of land. To this, Harvey adds DRII, or "monopoly" rent, which is a *spatial rent created through power*, whether this be state power, class power, etc. Harvey uses the term "class monopoly rents" to specify a type of class power that raises the *absolute* rent that can be extracted from a resource; in essence, landlords and developers use class power to create artificial scarcity in order to drive up the slice of surplus value (George's "unearned increment") that can be extracted from the productive sector. 
 
 #### Jane Jacobs
 
 #### Chicago School of Sociology & Neoclassical Spatial Equilibrium
+
+### Overview of the Housing Question under Urban Capitalism
+
+Based on this survey of the theoretical literature, we can see that the
+land prices, rents, and the spatial structure of housing markets are the
+outcome of several idiosyncratic and contradictory process that operate at
+multiple levels. Starting from the level of the household:
+
+1. The **household level** is where the reproduction of labor-power occurs.
+   The housing *unit* can be considered both a capital good, used in the
+   production of housing services, and a wage good, itself being the
+   object of consumption. Like other capital goods, it is subject to
+   depreciation. The housing unit sits on a plot of land, which
+   contributes to consumption of housing services, but beyond that its
+   market value (i.e., exchange value) is determined solely by external
+   (i.e., locational) factors-- housing tends to depreciate, while land
+   values tend to appreciate. Consequently, homeownership grants the
+   household increases in consumption ability by way of capital gains and
+   access to credit due to the ownership of physical collateral. 
+
+2. The landlord-tenant relationship...
+
+[to be completed later]
 
 ## Land Rents and Urban Growth
 
@@ -381,7 +451,22 @@ A. **How does rent control impact the supply of housing?** - most of the
    rents and evictions, caused by one of the factors identified in the previous
    chapters. 
 
-B. **How does rent control impact neighborhood stability and access to public
+B. Which way does causation run? @diamond2018 found that implementing rent
+   control in San Francisco seemed to cause rents to rise in the long run, but
+   @autor2014 and @sims2007 found that the *abolition* of rent control in Boston
+   *also* led to (somewhat unsurprisingly) higher rents and land prices. Is it
+   that rent control *causes* rents to rise, or is it that cities experiencing
+   high rent growth tend to enact rent control legislation? This relationship
+   need not be linear either-- it could be that further rises in land value
+   shift the needle in the other direction, causing the abolition of rent
+   control as in Massachusetts in 1995^[interestingly enough, this is the same
+   year that California passed the Costa-Hawkins Rental Housing Act, which
+   restricted municipal rent-control initiatives and introduced statewide
+   vacancy decontrol. This was the beginning of the asset bubble that crashed in
+   2008, and coincided with an apparent nationwide shift in the balance of power
+   away from tenants and towards landlords.].
+
+C. **How does rent control impact neighborhood stability and access to public
    goods?** - Aside from questions of housing supply and efficiency, the
    empirical literature is in relative agreement on the role of rent control in
    allowing tenants to remain in their homes^[except in cases with vacancy
@@ -400,12 +485,17 @@ B. **How does rent control impact neighborhood stability and access to public
    that occurred as a result of blanket rent control bans by state
    governments.]
 
-These will hereafter be referred to as *Question A* and *Question B*,
+These will hereafter be referred to as *Question A,* *Question B*, and *Question
+C*
 
-In answering A, I take direct inspiration from the recent minimum wage debates. I wish to compare growth in e.g. rents in a particular treatment group 
+In answering A and B, I take direct inspiration from the recent minimum wage
+debates. I wish to compare growth in e.g. rents in a particular treatment group 
 
 
 ## Data
+
+
+\footnotesize
 
 * Ideal dataset on households:
 
@@ -427,9 +517,67 @@ In answering A, I take direct inspiration from the recent minimum wage debates. 
 | 000Nyc | Yes  | 1929         |                | Multifamily            |                      | Yes    |
 +--------+------+--------------+----------------+------------------------+----------------------+--------+
 
-To address question A, I would ideally need data on individual households (following @diamond2018). I can additionally combine this with data on city-level rent control laws to create the last column in table 1 above. This provides a ready quasi-experiment that allows me to perform a difference-in-difference estimation with year and city fixed effects. I also include a variable for vacancy decontrol, to separate out those cities which include a decontrol provision.
+* Ideal dataset on counties:
+
++--------+------+------+--------+-----------+---------+------------+--------+------------+------------+
+| fips   | ctl? | year | #units | #ownerocc | #rented | medianrent | hhsize | struc. age | year enact |
++========+======+======+========+===========+=========+============+========+============+============+
+| 00jers | yes  | 1998 | 35653  | 28000     | 8000    | 600        | 4      | 80         | 1995       |
++--------+------+------+--------+-----------+---------+------------+--------+------------+------------+
+| 00new  | no   | 2003 | 850029 | 87533     | 63545   | 900        | 6      | 60         |            |
++--------+------+------+--------+-----------+---------+------------+--------+------------+------------+
+
+\normalsize
+
+
+To address question A, I would ideally need data on individual households
+(following @diamond2018). I can additionally combine this with data on
+city-level rent control laws to create the last column in table 1 above.
+This provides a ready quasi-experiment that allows me to perform
+a panel data regression with city, year, and household-level fixed
+effects. I also include a variable for vacancy decontrol, to separate out those
+cities which include a decontrol provision.
+
+However, data on rents and occupancy at a granular level are very
+difficult to come by. The few studies that have done so have relied on private
+data provided by data-mining companies (e.g Diamond et. al) or on restricted-use
+versions of Census data [@desmond2019] that provide household-level samples. In
+the absence of of such data, I will opt to use a Difference-in-difference (DD)
+approach, using Census data (the American Community Survey and the American
+Housing Survey). The goal with with this strategy is to find a set of
+geographies that are plausibly similar in characteristics such as housing
+demand, income and income growth, etc. where a subset of these are subject to
+the treatment effect (in this case, rent control). This approach presents some
+difficulties, however; rent controls are enacted at the local level, while the
+smallest local-federal consistent geographic level is the *county.* In other
+words, analysis at the tract level would result in many tracts being split at
+the city border, while analysis at the *county* level prohibits identification
+by including both controlled and non-controlled areas.
+
+One possible approach would be to compare neighboring counties containing
+rent-controlled cities with those containing non-controlled cities. New
+Jersey might provide the ideal set of case studies for this, since it
+contains 98 rent-controlled municipalities, some of which have the
+strongest provisions in the USA.  
 
 ## Methodology
+
+### Question A
+
+To answer question A, I want to estimate equations of the general form 
+
+
+$$ y_{iy} = \alpha_{jy} + \delta_{i} + \beta_t T_{i} + \epsilon_{iy} $$
+
+for the household-level fixed-effects model or,
+
+$$ y_{jy} = \alpha_{jy} + \beta_t T_{j} + \epsilon_{iy}, $$
+
+for the city/county-level DD specification where, for household $i$,
+city/county  $j$, and year $y$, $y_{iy}$ is a vector of the outcome
+variables [total housing stock, total rental units, median rent, length of
+rental tenure], $\alpha$ is county/city fixed effects, and $\delta$ is
+housing unit fixed effects.
 
 ## Results
 
