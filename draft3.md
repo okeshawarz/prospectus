@@ -329,7 +329,34 @@ multiple levels. Starting from the level of the household:
    household increases in consumption ability by way of capital gains and
    access to credit due to the ownership of physical collateral. 
 
-2. The landlord-tenant relationship...
+2. The landlord-tenant relationship can be characterized as one of
+   contested exchange. The landlord charges some fraction of the tenant's
+   wage for the privilege of not being homeless. The particular amount
+   that the landlord can extract depends on several factors; chief among
+   these is the amount of other rental housing (the quantity of which
+   forms the basis of Harvey's class monopoly rent) within a commutable
+   radius of the tenant's workplace, and the strength or weakness of legal
+   tenant protections, among others. The existence of
+   owner-occupied housing serves as an important outside option, and on
+   this view we should expect rent-income ratios in a particular city to
+   move in opposite directions as the rate of homeownership.
+
+![Homeownership rate in the United States,
+from St. Louis Federal Reserve](images/fred-homeownership.png)
+
+3. At the **urban scale**, the landlord-tenant-homeowner relationship is
+   embedded in the networks comprising urban capitalism. Specifically,
+   rental payments to the landlord are out of wages paid by the corporate
+   capitalist sector. We can conceive here of a tripartite distributional
+   conflict in which the worker, capitalist, and landlord struggle for
+   a share of output, with each class' share depends on the relative power
+   for each. If high rents lead to higher wage demands, then capitalist
+   firms may intervene directly in the housing market, as in company towns
+   in the mining and lumber industries, or the planned housing investments
+   in Seattle by Amazon or in the Bay Area by Google [@sisson2019].
+
+   Local governments, the most directly involved in land and housing
+   markets in the United States, also act at the urban scale. 
 
 [to be completed later]
 
