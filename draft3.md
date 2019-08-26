@@ -6,8 +6,17 @@ toc: true
 #geometry: [top=3cm, bottom=3cm, left=3cm, right=3cm]
 bibliography: prospectus.bib
 link-citations: true
-header-includes: |
-    \usepackage{epigraph}
+#umassthesis options:
+#documentclass: umassthesis
+#classoption: proposal
+#header-includes: |
+#    \bachelors{Economics and Philosophy}{University of Connecticut}
+#	\masters{Economics}{University of Massachusetts}
+#	\cochairs{Michael Ash}{Vamsicharan Vakulabharanam}
+#	\firstreader{Josh W. Mason}
+#	\departmentchair{Leonce Ndikumana}
+#	\departmentname{Economics}
+#	\copyrightyear{2019}
 ---
 
 \newpage
