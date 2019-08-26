@@ -431,6 +431,52 @@ allow for mobility.
 
 ## Literature Review
 
+### Empirical Studies on Rent Control
+
+@diamond2018 provides the most recent well-identified empirical analysis
+of rent control, and is the closest in methodology and substance to this
+essay. They use private datasets from DataQuick and Infutor. The
+combined datasets allowed them to link the identities of any resident of
+San Francisco to a particular address during the period 1990-2016,
+distinguish between owners and renters. They combine this with
+zipcode-level estimates of rents, imputed based on *housing price*
+transaction data-- essentially, they estimate the relationship between
+median rents in a zipcode and the sale price of housing in that zip code.
+They use this combined dataset to estimate tenant, landlord, and
+parcel-level effects of a ballot initiative that suddenly brought
+a significant number of multi-family dwellings under the rent control law.
+They also estimate welfare effects in a general equilibrium framework
+using a structural spatial equilibrium model of the type detailed in
+section 2.1. 
+
+The detail of the dataset is quite remarkable, as it allows the authors to
+test displacement effects on individuals. However, it may be subject to
+a few sources of bias, namely: scraped data from housing-transactions and
+rental websites may overestimate housing costs [will cite when I find the
+source]; the link between housing prices and rents is not linear and so it
+is not clear how unbiased their estimates of imputed rents are; and, the
+methodology used in 1) matching names to property records and 2) matching
+names to races may be subject to all sorts of bias. Additionally, the
+structural spatial equilibrium model is subject to the same critiques of
+spatial equilibrium models in general outlined in chapter 2. 
+
+My most major critique, and where I feel that this essay contributes the
+most to the literature, is that the Costa-Hawkins Rental Housing Act was
+passed by ballot initiative in 1995, one year after the change in San
+Francisco housing regulations that brought more housing under rent
+control. This act established two things that radically undermined
+California rent control and almost assuredly affected their result: 1) the
+Act allowed for vacancy decontrol, which provides strong incentives for
+landlords to evict tenants when the gap between market and controlled
+rents becomes very large, and 2) the Act exempted condominiums and new
+construction from rent control. It is not clear that how much of two of
+the authors' main findings-- that rent control led to higher rates of
+eviction of lower-income tenants, and that landlords converted some of
+their stock of rental housing to condominiums in response to rent
+control-- were influenced by the law. The aim of this essay is to test
+rent controls at their *strongest*, i.e. in the absence of vacancy
+decontrol and condominium loopholes. 
+
 [10 sources]
 
 ### Empirical Strategy
