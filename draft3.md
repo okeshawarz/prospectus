@@ -329,7 +329,11 @@ multiple levels. Starting from the level of the household:
 1. The **household level** is where the reproduction of labor-power occurs.
    The housing *unit* can be considered both a capital good, used in the
    production of housing services, and a wage good, itself being the
-   object of consumption. Like other capital goods, it is subject to
+   object of consumption. In the Marxian sense, we can also consider the
+   household as the site of the production of labor-power. Real estate in
+   general is required as an input to the production of *any* commodity,
+   since the production process necessarily exists in physical space as
+   well as time. Like other capital goods, it is subject to
    depreciation. The housing unit sits on a plot of land, which
    contributes to consumption of housing services, but beyond that its
    market value (i.e., exchange value) is determined solely by external
@@ -365,7 +369,17 @@ from St. Louis Federal Reserve](images/fred-homeownership.png)
    in Seattle by Amazon or in the Bay Area by Google [@sisson2019].
 
    Local governments, the most directly involved in land and housing
-   markets in the United States, also act at the urban scale. 
+   markets in the United States, also act at the urban scale. The state
+   implements zoning restrictions, issues building permits, enacts rent
+   controls, and other direct interventions into the built environment. We
+   can consider local regulations governing residential and commercial real
+   estate as a political equilibrium that is contested not only by the
+   incumbent voting population, but various other agents and multiple
+   scales (for example, financial institutions via the municipal bond
+   market, detailed below). In the U.S. context, municipal financing is
+   done primarily through property taxes, which gives urban governments
+   strong incentives to promote growth in property values when faced with
+   fiscal pressure [@stein2019]. 
 
 [to be completed later]
 
@@ -623,7 +637,7 @@ cities which include a decontrol provision.
 However, data on rents and occupancy at a granular level are very
 difficult to come by. The few studies that have done so have relied on private
 data provided by data-mining companies (e.g Diamond et. al) or on restricted-use
-versions of Census data [@desmond2019] that provide household-level samples. In
+versions of Census data [@desmond2019a] that provide household-level samples. In
 the absence of of such data, I will opt to use a Difference-in-difference (DD)
 approach, using Census data (the American Community Survey and the American
 Housing Survey). The goal with with this strategy is to find a set of
@@ -643,10 +657,6 @@ contains 98 rent-controlled municipalities, some of which have the
 strongest provisions in the USA.  
 
 [...]
-
-
-
-## Data
 
 ### US Rental Housing Finance Survey 
 
