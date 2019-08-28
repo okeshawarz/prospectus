@@ -642,6 +642,43 @@ Jersey might provide the ideal set of case studies for this, since it
 contains 98 rent-controlled municipalities, some of which have the
 strongest provisions in the USA.  
 
+[...]
+
+
+
+## Data
+
+### US Rental Housing Finance Survey 
+
+The RHFS is the only recent, nationally representative survey of property
+owners. The survey was conducted in 2012 and 2015. It uses a stratified
+random-selection procedure to conduct its sample. The first two strata
+created were: 1) all large cities (with more than 100,000 housing units)
+and 2) a random selection of smaller cities and rural areas. Second, four
+other strata were created: properties with 1) 2-4 units, 2) 5-24 units, 3)
+25-49 units, and 3) over 50 units. Multiunit rental property addresses
+were identified from the Census Master Address File and randomly selected
+from each of the eight strata. This procedure produced a representative
+survey of multifamily rental properties across the United States. The
+restricted version of the dataset is geocoded to provide locations for
+each building used in the sample. The RHFS excluded prefabricated homes,
+mobile homes, public housing, and single-unit rental properties. This last
+element, which includes condominiums, may pose a bias risk as mentioned
+above. 
+
+The RHFS survey asked a battery of questions about housing finance,
+property values, expenses, and revenue, including: mortgages, landlord
+expenses (including property taxes, insurance payments, utilities,
+property management fees, maintenance, security, and repairs), potential
+rent revenues, and actual rent revenues. The survey bases property values
+on property owners' responses, which could introduce bias if landlords
+systematically over- or under-value their properties. This bias can be
+avoided by using publicly available data on property values. 
+
+### American Housing Survey
+
+### American Community Survey
+
 ## Methodology
 
 ### Question A
