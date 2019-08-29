@@ -54,7 +54,7 @@ or may not [@freemark2019] have led to a decrease in the cost of housing.
 I focus on the role that distributive conflict plays in the creation of urban
 space and inequality. @rognlie2015 uses NIPA data to show that the decline in
 the labor share during the past 30 years seems to be due to an increase in the
-share going to housing capital, rather than corporate capital. Similar shifts
+share going to housing capital, rather than corporate capital (See figures 1 and 2). Similar shifts
 in the distribution of income can be seen in breakdowns of GDP by metropolitan
 areas. It is also clear that housing prices and rents have risen rapidly over
 the same period, in a geographically uneven fashion. The implications of
@@ -62,6 +62,10 @@ extreme variances in housing costs are widespread; @chetty2014 and
 @derenoncourt show that there are place-based effects to human capital
 mobility, and that high housing costs can lock low-income people out of
 high-mobility areas.
+
+![Net Capital Share and Housing Share for the United States. Data from NIPA.](rognlie1.png)
+
+![Movements in the Housing and Non-Housing (corporate) capital shares. Data from NIPA.](rognlie2.png)
 
 The mainstream urban economics and inequality literature generally agree that
 the housing crisis is largely the result of government failure; zoning laws in
@@ -210,7 +214,6 @@ of multiple forms of contested exchange operating at different scales.
 This is a point elaborated on by the Marxist Critical Geography school,
 which I address further below. 
 
-
 #### Henry George
 
 While Marx focused on the relationship between Labor and Capital in
@@ -264,27 +267,26 @@ follows:
    redistribution away from other, productive sectors of the economy. 
 
 Further, on point (2): The Henry George Theorem^[in its general form,
-[@arnott2004]: "in any constrained Pareto optimal and nontrivial
-allocation of population in a spatial economy, the aggregate shadow losses
-from increasing returns to scale activities just equal the aggregate
-shadow profits from the decreasing returns to scale activities."], first formalized by
-@arnott1979, is now a staple of public finance. It shows that, under
-certain conditions, aggregate spending on public goods will increase
-aggregate rent based on land value by at least that amount, thereby
-leading to calculations of optimal city sizes, among other things.
-Technical discussion of the HGT and its implications are beyond the scope
-of this essay, but the salient point I wish to focus on is that the
-theorem highlights the *externality* problem facing urban planners and
+[@arnott2004]: "in any constrained Pareto optimal and nontrivial allocation of
+population in a spatial economy, the aggregate shadow losses from increasing
+returns to scale activities just equal the aggregate shadow profits from the
+decreasing returns to scale activities."], first formalized by @arnott1979, is
+now a staple of public finance. It shows that, under certain conditions,
+aggregate spending on public goods will increase aggregate rent based on land
+value by at least that amount, thereby leading to calculations of optimal city
+sizes, among other things. Technical discussion of the HGT and its implications
+are beyond the scope of this essay, but the salient point I wish to focus on is
+that the theorem highlights the *externality* problem facing urban planners and
 would-be city dwellers: each landlord's absolute control over their own
-personal fiefdom allows them to accrue external benefits from both public
-and private actions undertaken outside their property. In modern cities,
-with very powerful agglomeration effects, these externalities could grow
-to be quite large, as density increases. This potentially points to
-increasingly severe coordination failures in housing supply.
+personal fiefdom allows them to accrue external benefits from both public and
+private actions undertaken outside their property. In modern cities, with very
+powerful agglomeration effects, these externalities could grow to be quite
+large, as density increases. This potentially points to increasingly severe
+coordination failures in housing supply.
 
 In sum, the theoretical lines I wish to draw from Henry George are towards
-**the monopoly pricing power over land**, and **positive externalities as a result of
-density, scale, and agglomeration.**
+**the monopoly pricing power over land**, and **positive externalities as
+a result of density, scale, and agglomeration.**
 
 #### David Harvey
 
@@ -380,6 +382,21 @@ from St. Louis Federal Reserve](images/fred-homeownership.png)
    done primarily through property taxes, which gives urban governments
    strong incentives to promote growth in property values when faced with
    fiscal pressure [@stein2019]. 
+
+4. In the U.S. urban context, the **state scale** has something of
+   a second-order importance; state governments, for example, serve as
+   battlegrounds between large urban conglomerations and the suburban-rural
+   populations that reside within the state. This is also the scale at which
+   large capitalist firms, including real estate firms, indirectly affect the
+   built environment for a particular city-- the most salient methods for the
+   purpose of this dissertation is through tax incentive schemes for firm
+   relocation and through the pre-emption of local real estate regulations^[for
+   example, the wave of anti-rent control legislation that swept through many
+   state legislatures during the 1990s. In many cases, rent control was
+   exceedingly popular at the local level, where the majority of the electorate
+   were renters. By adjudicating the conflict at the state level, with higher
+   barriers to political action, landlords and developers are able to bypass
+   stakeholders who would otherwise be opposed.].
 
 [to be completed later]
 
