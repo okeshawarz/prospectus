@@ -266,8 +266,8 @@ follows:
    a raise in rents due to a change in locational advantage is a pure
    redistribution away from other, productive sectors of the economy. 
 
-Further, on point (2): The Henry George Theorem^[in its general form,
-[@arnott2004]: "in any constrained Pareto optimal and nontrivial allocation of
+Further, on point (2): The Henry George Theorem^[in its general form
+(Arnott 2004): "in any constrained Pareto optimal and nontrivial allocation of
 population in a spatial economy, the aggregate shadow losses from increasing
 returns to scale activities just equal the aggregate shadow profits from the
 decreasing returns to scale activities."], first formalized by @arnott1979, is
@@ -543,6 +543,54 @@ their stock of rental housing to condominiums in response to rent
 control-- were influenced by the law. The aim of this essay is to test
 rent controls at their *strongest*, i.e. in the absence of vacancy
 decontrol and condominium loopholes. 
+
+@sims2007 and @autor2014 both study the effects of the end of rent control
+in Massachusetts, as part of the wave of state-level anti-rent control
+legislature that swept much of the country during the 90s. In particular,
+they look at the effect of the passage of Question 9 by Massachusetts
+ballot referendum in 1994, which banned any rent control in Massachusetts
+cities. At the time of the law's enactment, only the cities of Boston,
+Cambridge, and Brookline still had rent control laws on the books^[Note
+here again the focus on political scale. The anti-rent control advocates
+consistently failed in opposing the laws at the local level, where tenants
+formed a sizable political bloc. At the state level, they became a tiny
+minority.]. After the passage of Question 9, almost all housing units in
+the three cities became decontrolled on January 1, 1995. 
+
+Sims uses public data from the American Housing Survey (AHS) to estimate
+the impact of the removal of rent control on several housing
+characteristics, including the quantity of rental housing, the level of
+rent and housing costs, unit quality, and the length of renter tenure. He
+uses a DD identification strategy to compare Census zones in the Boston
+Metropolitan Statistical Area that experienced decontrol to those zones
+that never experienced rent control, using a model with zone and year
+fixed effects, controlling for housing unit characteristics. 
+
+To test spillover effects of rent decontrol, Sims uses an instrumental
+variable strategy using a dummy that takes a value of 1 if the unit was
+*in a zone* that was ever under rent control and zero otherwise. To test
+indirect spillover effects, the author constructs several instruments
+including the interaction of a 2-family house indicator (which was
+excluded from rent control), pre-treatment year indicator, and
+controlled-zone indicator. In other words, finding the effect of decontrol
+on 2-family homes in controlled zones should provide for the
+identification of spillover effects, since these units were never under
+control. The author similarly constructs IVs for other forms of
+never-controlled housing. 
+
+Sims finds that the end of rent control had little effect on the
+construction of new housing. He further found evidence that rent control
+decreases the available number of rental units and increases the number of
+condominiums (i.e., the amount of rent-control exempt housing). In
+other words, rent control seemed to affect the quantity of housing
+available for rental, but not the total quantity of housing. He also finds
+insignificant negative effects of rent control on indicators of physical
+housing unit condition, but, unsurprisingly, significant increases in rent
+charged after decontrol. Finally, he finds that rent controlled units had
+much longer tenure times.
+
+[Add: Critical analysis of Sims. Causality of spillover effects? Measurement
+errors, geographic granularity, silly distributional analysis]
 
 [10 sources]
 
