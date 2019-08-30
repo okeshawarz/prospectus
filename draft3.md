@@ -553,9 +553,12 @@ cities. At the time of the law's enactment, only the cities of Boston,
 Cambridge, and Brookline still had rent control laws on the books^[Note
 here again the focus on political scale. The anti-rent control advocates
 consistently failed in opposing the laws at the local level, where tenants
-formed a sizable political bloc. At the state level, they became a tiny
-minority.]. After the passage of Question 9, almost all housing units in
-the three cities became decontrolled on January 1, 1995. 
+formed a sizable political bloc. At the state level, the coalition becomes
+much weaker. Question 9 was passed by a margin of 51-49; the three
+rent-controlled towns all voted against, while most of the
+never-controlled towns voted for, showing the importance of geographic
+scale in enforcing policy.].After the passage of Question 9, almost all
+housing units in the three cities became decontrolled on January 1, 1995. 
 
 Sims uses public data from the American Housing Survey (AHS) to estimate
 the impact of the removal of rent control on several housing
@@ -591,6 +594,52 @@ much longer tenure times.
 
 [Add: Critical analysis of Sims. Causality of spillover effects? Measurement
 errors, geographic granularity, silly distributional analysis]
+
+@autor2014 also examine the effects of the 1995 Massachusetts rent
+decontrol ballot initiative in the context of spillover effects. This
+paper was less interested in specifically quantifying the impacts of rent
+(de)control, but instead exploited the exogenous change in regulations to
+see how how residential externalities get capitalized into housing prices
+as price regulations were relaxed. Their identification strategy relies on
+the fact that both rent controlled and never-controlled apartments "stood
+side-by-side in Cambridge neighborhoods on the even of rent control
+removal thus offering a tight temporal and geographic framework for
+assessing the impact of the law on residential prices." In other words,
+since the features of rent-controlled apartments (non-owner-occupied
+houses, condominiums, or apartments built prior to 1969) were distributed
+essentially randomly throughout the Cambridge housing stock, the effects
+of purely the exogenous variation in control status can be identified
+neatly^[Note here a possible source of exogeneity: age of the housing
+stock is likely not random, and in fact is likely to be 1) spatially
+correlated [@glaeser2014a], and 2) NPV of the housing stock, itself
+affected by rent-controlled status, is dependent on age of the structure.
+I return to this point later.].
+
+The authors identified two major channels through which rent decontrol may
+have affected the market values of residential properties. The authors
+term the first the "direct effect," reflecting the ability of landlords to
+now charge market-rate rents; this both increases the maximum rent the
+landlord may charge and the net present value of the property. In the
+framework established in the first chapter, this is closer to the idea of
+monopoly rents, or DRII. The second channel they identify is the indirect
+effect, where decontrol raises the value of surrounding, never-controlled
+properties. The mechanism that the authors propose is that decontrol
+incentivizes landlords to "renovate and modernize decontrolled units,
+raising their rental values." This attracts higher-income tenants, which
+attract higher-income tenants to never-controlled properties, attracted by
+"improved housing stock and more affluent neighbors." Read critically,
+this seems a bit difficult to parse; it is difficult to imagine that
+higher-income tenants will be drawn to never-controlled properties due to
+better amenities in the formerly-controlled house *next-door--* the more
+plausible idea is that higher-income tenants will be drawn to
+never-controlled units by "better" neighbors in formerly-controlled ones.
+The authors associate these neighborhood effects with higher-income
+tenants, but especially given Boston's troubled history with
+desegregation, we should also note that "better" neighborhoods have
+historically been associated with racially-segregated (i.e., mostly-white)
+neighborhoods [@rothstein2018].
+
+[More on Autor et. al's methodology]
 
 [10 sources]
 
