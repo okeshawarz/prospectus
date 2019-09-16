@@ -10,7 +10,7 @@ framework. The first essay..."
 
 # Introduction: Centering Space in Political Economy
 
-# What do Landlords Do? The Political Economy of Urban Real Estate
+# What do Landlords Do? The Political Economy of Urban Growth
 
 ## Abstract
 
