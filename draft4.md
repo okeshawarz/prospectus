@@ -3,9 +3,7 @@ title: Three Essays on Urban Economics
 author: Osman Keshawarz
 toc: true
 bibliography: prospectus.bib
-abstract: "This prospectus poses three research questions in the political
-economy of American urban markets in land and housing in a broadly Marxian
-framework. The first essay..."
+abstract: "This prospectus proposes three questions in the field of urban political economy. The first is a theoretical question on the relationship between urban growth, wages, and rents, based on classical political economy treatments of the land question. The second is a historical-discriptive question that applies the theoretical insights of the first chapter to the recent burst of growth and subsequent crisis of housing in San Francisco. The final question is on the impacts of rent control laws in the United States."
 ---
 
 # Introduction: Centering Space in Political Economy
@@ -15,6 +13,13 @@ framework. The first essay..."
 ## Abstract
 
 ## Introduction
+
+## Literature Review
+
+### The Evolution of Economic Thought on Housing and Rents
+
+[*three major strands of literature here: Classical political economy (Smith, Ricardo, Marx, Keynes), Critical Geography (Lefebvre, Harvey, (Neil) Smith, Aalbers), Neoclassical Urban Economics (Brueckner, Glaeser, Moretti, Florida)*]
+
 
 # On the Housing Question in San Francisco
 
