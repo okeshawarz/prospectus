@@ -10,6 +10,8 @@ abstract: "This prospectus proposes three questions in the field of urban politi
 
 # What do Landlords Do? The Political Economy of Urban Growth
 
+>Rents don't increase because buildings get better, buildings get better because rents increase
+
 ## Abstract
 
 ## Introduction
