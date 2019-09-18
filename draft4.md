@@ -10,9 +10,22 @@ framework. The first essay..."
 
 # Introduction: Centering Space in Political Economy
 
-# What do Landlords Do? The Political Economy of Urban Growth
+# What do Landlords Do? The Political Economy of Urban Growth and Distribution
 
 ## Abstract
+
+>This chapter is about the spatial impacts of urban growth. In
+particular, it investigates the way that urban economies of scale and
+agglomeration affect the distribution of wages, profits, and rents-- who
+gains when cities grow? How does growth affect, and get affected by, urban
+density? Who decides? Since this essay, in essence, seeks
+to spatialize urban growth, it relies heavily on the classical political
+economy and radical geography traditions surrounding land rents, scale,
+and the production of space. The essay is divided into two parts;
+the first is a survey of the history of economic thought surrounding land,
+rent, and urban structure. The second is a formal presentation, seeking to
+show the conditions under which increases in productivity are captured by
+different sections of an urban economy. 
 
 ## Introduction
 
