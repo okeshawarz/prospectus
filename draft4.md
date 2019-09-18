@@ -8,6 +8,21 @@ abstract: "This prospectus proposes three questions in the field of urban politi
 
 # Introduction: Centering Space in Political Economy
 
+>"Capital by its nature drives beyond every spatial barrier. Thus the
+creation of the physical conditions of exchange--of the means of
+communication and transport--the annihilation of space by time--becomes an
+extraordinary necessity for it." @marx2005
+
+The discipline of Economics, at long last, has been going through
+something of a "spatial turn" in recent years. It has become more and more
+apparent that heterogeneity and divergence across geographic scales are
+strikingly persistent [@ganong2017; @chetty2014], and that these
+differences across space require more sophisticated explanations than
+factor endowments and convergent-growth models. 
+
+Spatiality, in the form of land and land rents, had been central to
+economic thought since Adam Smith; 
+
 # What do Landlords Do? The Political Economy of Urban Growth and Distribution
 
 >Rents don't increase because buildings get better, buildings get better because rents increase
@@ -34,7 +49,7 @@ different sections of an urban economy.
 ### The Evolution of Economic Thought on Housing and Rents
 
 *three major strands of literature here: Classical political economy (Smith,
-Ricardo, Marx, Keynes), Critical Geography (Lefebvre, Harvey, (Neil) Smith,
+Ricardo, Marx, George, Keynes), Critical Geography (Lefebvre, Harvey, (Neil) Smith,
 Aalbers), Neoclassical Urban Economics (Brueckner, Glaeser, Moretti, Florida)*
 
 
