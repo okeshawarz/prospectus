@@ -20,8 +20,6 @@ strikingly persistent [@ganong2017; @chetty2014], and that these
 differences across space require more sophisticated explanations than
 factor endowments and convergent-growth models.
 
-*This is just a test to see if it shows up*
-
 Spatiality, in the form of land and land rents, had been central to
 economic thought since Adam Smith;
 
