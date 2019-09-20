@@ -41,10 +41,6 @@ land rents and growth, followed by a formal presentation of a broadly
 Marxian-Georgist account of growth and distribution in an urban economy subject
 to large agglomeration economies. 
 
-*This is a test to see if the thing works.*
-
-**It did work.**
-
 # On Growth and Housing in San Francisco
 
 ## Abstract
