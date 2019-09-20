@@ -43,6 +43,8 @@ to large agglomeration economies.
 
 *This is a test to see if the thing works.*
 
+**It did work.**
+
 # On Growth and Housing in San Francisco
 
 ## Abstract
