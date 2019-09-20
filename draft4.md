@@ -25,7 +25,8 @@ economic thought since Adam Smith;
 
 # What do Landlords Do? The Political Economy of Urban Growth and Distribution
 
-> Rents don't increase because buildings get better, buildings get better because rents increase
+> Rents don't increase because buildings get better, buildings get better
+> because rents increase
 
 ## Abstract
 
