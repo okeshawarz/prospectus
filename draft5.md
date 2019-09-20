@@ -14,7 +14,7 @@ different states, regions, cities, and even zip codes, recent research has found
 striking amounts of heterogeneity and divergence with respect to economic
 outcomes. Research like @ganong2017 has looked at the causes of income
 divergence between metropolitan regions in the United States. @chetty2014 looks
-at the variance in intergenerational economic mobility between commuting zones. 
+at the variance in inter-generational economic mobility between commuting zones.
 
 I say that this is a recent turn because questions of space and place have
 typically been relegated to peripheral questions in economics proper. 
