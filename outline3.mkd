@@ -1,0 +1,64 @@
+---
+title: Three Essays on Space and Power
+author: Osman Keshawarz
+abstract: "This dissertation investigates questions of growth and distribution in an urban and regional context. In chapter 1, I focus on the rise of the real estate sector in the post-war United States and develop a theoretical framework to understand the rise in the increased power of the real estate sector in capturing growth and shaping urban structure. Chapter 2 focuses on the role of the real estate sector in the post-war rise in inter- and intra-urban inequality. I develop a Georgian-Marxian account of real estate dynamics to show how a decline in profitability in the industrial sector leads to an increase in the share of income going to real estate, at the expense of that going to labor. In the final chapter, I explore the relationship between firms and municipal governments. I develop a model of firm-city bargaining to argue that in a low-growth environment, so-called 'superstar firms' are able to discipline urban states into assigning them locational rents, resulting in a first-order increase in inter-urban inequality and a second-order increase in intra-urban inequality."
+toc: true
+geometry: [top=3cm, bottom=3cm, left=3cm, right=3cm]
+bibliography: prospectus.bib
+link-citations: true
+header-includes: |
+    \usepackage{epigraph}
+---
+
+\newpage
+
+# Introduction
+
+\newpage
+
+# 1. On the Housing Question: The Political Economy of Urban Real Estate
+
+## Research Question
+
+*Are increasing monopoly returns in the housing sector responsible for the growth in regional inequality? Is this a cause or the result of regional stagnation?*
+
+## Abstract
+
+This paper addresses the role of the real estate sector (in particular, land and housing rents) in the generation of regional and intra-urban inequality. Building on the work of @rognlie2015 and @ganong2017, I discuss trends in housing and urban structure in the Post-War era; specifically, 1) the decline in regional convergence since the 1980s, 2) the increased share of the national income going towards housing, and 3) the disproportionate rise of rents and housing prices in the past 40 years [@glaeser2008]. I construct a theoretical framework based on the classical theories of rent of Engels [-@engels1872], George [@george2017], and Harvey [-@harvey1974; -@harvey2018a] to argue that the rise in rent-income ratios is due to an increase in the bargaining power of
+land-owners and developers resulting from the stagnation and decline in the
+productive capitalist sector of the (national) economy [@dymski2010a]. 
+
+## Introduction
+
+\epigraph{The so-called housing shortage, which plays such a great role in the press nowadays, does not consist in the fact that the working class generally lives in bad, overcrowded and unhealthy dwellings. This shortage is not something peculiar to the present; it is not even one of the sufferings peculiar to the modern proletariat in contradistinction to all earlier oppressed classes. On the contrary, all oppressed classes in all periods suffered more or less uniformly from it. In order to make an end of this housing shortage there is only one means: to abolish altogether the exploitation and oppression of the working class by the ruling class. — What is meant today by housing shortage is the peculiar intensification of the bad housing conditions of the workers as the result of the sudden rush of population to, the big towns; a colossal increase in rents, a still further aggravation of overcrowding in the individual houses, and, for some, the impossibility of finding a place to live in at all. And this housing shortage gets talked of so much only because it does not limit itself to the working class but has affected the petty bourgeoisie also.}{{Friedrich Engels} {The Housing Question}}
+
+
+## Descriptive Statistics
+
+
+
+\newpage
+
+# 3. Scale and Firm Location: The HQ Game 
+
+## Research Question
+
+*What role do superstar firms play in exacerbating municipal austerity?*
+
+## Abstract
+
+This paper seeks to understand the strategic behavior of highly-productive firms in the context of regional and municipal growth. Drawing on the recent literature on superstar firms [@autor2017; @giannone2017], the dynamics of firm consolidation and monopoly within capitalist economies [@shaikh2016, @baran1966], and space and scale [@harvey2018a, @swyngedouw2004a], I model the bargaining interaction between superstar firms and municipal governments. I seek to show that superstar firms are able to extract locational rents from municipal governments in the form of subsidies and preferential tax treatments, as a result of 1) widening inter-firm productivity differentials [@furman2015a; @reenen2018], and 2) the increased 'glocalization' [@swyngedouw2004a] of the municipal fiscal space in the era of neoliberal capitalism. I test the predictions of the theory against a geocoded dataset of corporate subsidies. 
+
+\newpage
+
+# 3. Inequality and Political Geography
+
+## Research Question
+
+*To extent is zoning driven by the "preservation of the racial order"?*
+
+# Conclusion
+
+\newpage
+
+# References
