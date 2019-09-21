@@ -43,6 +43,12 @@ to large agglomeration economies.
 
 # On Growth and Housing in San Francisco
 
+This essay is motivated by a deceptively simple question: When cities expand, do
+rents rise or do they fall? The simple Economics 101 answer is that of course,
+when more space is brought into the urban system (by, e.g., expanding the supply
+of housing through either new construction or upzoning existing neighborhoods
+for greater density), 
+
 ## Abstract
 
 This chapter applies the theoretical insights from the previous chapter into a
