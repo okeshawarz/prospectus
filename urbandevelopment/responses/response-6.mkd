@@ -1,0 +1,75 @@
+*Marxist PE: Harvey, Storper*
+*Feminist PE, Massey*
+
+# Marxist Political Economy, cont'd: Class Monopoly Rents
+
+Harvey takes aim at the classical (and neo-classical) notion of rent; namely,
+that rent is a natural rationing mechanism by which a scarce resource (i.e.,
+land) is "allocated to its most productive uses." He first peels back the
+curtain on the factor payments explanation, noting that rent is paid not to
+a factor of production, but a *person*-- in other words, an *owner.* And, like
+any other institution of capitalism, the institution of property ownership
+requires a vast and totalizing social apparatus (I include "social" here, as
+I think Harvey does, to also mean both *built* and *created* elements of social
+life). Land is ultimately limited, it is true, but rent is owed not merely on
+the land but on the improvements and structures built upon it; the built
+environment itself is produced, but then once produced, becomes
+indistinguishable from the "natural" environment. Yet the scarcity of the built
+environment is *produced*, and is in some sense an artificial scarcity-- and
+the built environment is itself an input into the production process (either
+directly, as means of production, or indirectly as means of social
+reproduction). Then, to whom are rents paid, and for what reason? 
+
+Harvey develops the notion of class-monopoly rent (the most chilling part of
+which is the idea that a scholar of urban political economy must understand the
+transformation problem in order to fully theorize) to explain the role of class
+power in the allocation of land rents. Class-monopoly rents arise when there
+exists a class of (non-produced) resource owners that are empowered (by private
+property relations) to act as a class in order to "...achieve some minimum rate
+of return." There are two major (in my view) questions to be answered here: 1)
+from where does this class power arise, and 2) in what sense can landlords be
+said to act "as a class"? It is clear that landlords and tenants have opposite
+class interests; by virtue of ownership, the landlord (as a class) can adjust
+the depreciation of the housing stock (or its transformation into
+money-capital) until scarcity drives up rents. In wealthier neighborhoods, the
+capture of class-monopoly rents is done by a class of speculator-developers,
+hold and develop land in the service of wealthy groups seeking returns. The
+abilities of this class to generate such returns is dependent, according to
+Harvey, on its capture of the local mechanisms of state control. It is less
+clear to me, however, that this class operates *as a class,* rather than as an
+extension of the capitalist class into the land market. Finally, these various
+elements of the social rent relationship organize themselves into a hierarchy:
+tenants at the bottom, then landlords, with financial institutions backed by
+the state at the top. It seems to me that within this framework, landlords
+operate as a dependent class to financial capitalists and their agents-- during
+real estate crises, it is not the banks that are ruined, but the landlords
+themselves (along with their tenants, of course). 
+
+Harvey applies this framework to the city of Baltimore. The inner city is
+dominated by relations of the first type, in which landlords manage an
+impressive rate of return despite high rates of vacancy and the onrush of
+deindustrialization (though Harvey does not mention this latter point). The
+white areas are characterized largely by community-financed home-ownership,
+with little in the way of the possibility of class-monopoly rents. The black
+residential areas created monopoly rents by virtue of the white supremacist
+power structure, which enforced a scarcity of both land and housing credit on
+black families who wished to own homes or rent outside of the city core. I have
+two comments to make here: first is the rather obvious note that the class
+power of *residents* in white areas is directly linked to the accessibility of
+homes for ownership, rather than rental. And the second, related point is that
+there are echoes of a certain type of race-blindness peculiar to the Marxian
+tradition-- though "discrimination" is mentioned as the reason for the
+discrepancy in housing access, there is little detail on how this discrepancy
+came to be enforced. Presumably, it was politically enforced by the capitalist
+power structure with the abettance of the white homeowning class (of course,
+this comes up in later Harvey). 
+
+What does this mean for urban structure? Harvey likens urban development to
+a series of "islands in which class monopolies produce absolute scarcities."
+Here he comes tantalizingly close to calling the construction of discrete
+man-made absolute spaces as "the production of space as a commodity." *Contra*
+the Chicago and Neoclassical Schools' view of urban development as an
+ecological, equilibrium process, for Harvey the production of space is quite
+literally a field of battle on which landlords and speculators utilize the
+machinery of the state to extract a greater division of the social structure
+through class-monopoly rents. 
