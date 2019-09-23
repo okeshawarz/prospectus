@@ -54,13 +54,13 @@ or may not [@freemark2019] have led to a decrease in the cost of housing.
 I focus on the role that distributive conflict plays in the creation of urban
 space and inequality. @rognlie2015 uses NIPA data to show that the decline in
 the labor share during the past 30 years seems to be due to an increase in the
-share going to housing capital, rather than corporate capital (See figures 1 and 2). Similar shifts
-in the distribution of income can be seen in breakdowns of GDP by metropolitan
-areas. It is also clear that housing prices and rents have risen rapidly over
-the same period, in a geographically uneven fashion. The implications of
-extreme variances in housing costs are widespread; @chetty2014 and
-@derenoncourt show that there are place-based effects to human capital
-mobility, and that high housing costs can lock low-income people out of
+share going to housing capital, rather than corporate capital (See figures
+1 and 2). Similar shifts in the distribution of income can be seen in
+breakdowns of GDP by metropolitan areas. It is also clear that housing prices
+and rents have risen rapidly over the same period, in a geographically uneven
+fashion. The implications of extreme variances in housing costs are widespread;
+@chetty2014 and @derenoncourt show that there are place-based effects to human
+capital mobility, and that high housing costs can lock low-income people out of
 high-mobility areas.
 
 ![Net Capital Share and Housing Share for the United States. Data from NIPA.](rognlie1.png)

@@ -13,19 +13,20 @@ abstract: "This prospectus proposes three questions in the field of urban politi
 > communication and transport--the annihilation of space by time--becomes an
 > extraordinary necessity for it." @marx2005
 
-The discipline of Economics, at long last, has been going through
-something of a "spatial turn" in recent years. It has become more and more
-apparent that heterogeneity and divergence across geographic scales are
-strikingly persistent [@ganong2017; @chetty2014], and that these
-differences across space require more sophisticated explanations than
-factor endowments and convergent-growth models.
+The discipline of Economics, at long last, has been going through something
+of a "spatial turn" in recent years. It has become more and more apparent
+that heterogeneity and divergence across geographic scales are strikingly
+persistent [@ganong2017; @chetty2014], and that these differences across
+space require more sophisticated explanations than factor endowments and
+convergent-growth models.
 
 Spatiality, in the form of land and land rents, had been central to
 economic thought since Adam Smith;
 
 # What do Landlords Do? The Political Economy of Urban Growth and Distribution
 
-> Rents don't increase because buildings get better, buildings get better because rents increase
+> Rents don't increase because buildings get better, buildings get better
+> because rents increase
 
 ## Abstract
 

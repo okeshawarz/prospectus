@@ -1,0 +1,216 @@
+# Notes
+
+## The Urban Phenomenon
+
+Class analysis into the analysis of the city: "The city is not, therefore,
+a locus of administration and domination, bound up with the social primacy of
+the political-adminstrative apparatus." -> The transition from Roman cities to
+medieval cities came about as the result of the elimination of the political
+role the cities once played. Thus: *the structure of cities is determined by
+their political-adminstrative positions.* Or, the boundary of the city is
+determined by the social relations between the elites, the countryside, etc. 
+
+*test*
+
+"Social production of spatial forms:" a process by which a significantly large
+proportion of the population of a society is contentrated on a sertain space,
+in which are constituted urban areas that are functionally and socially
+independent from an internal point of view and are in a relation of
+hierarchized articulation.
+
+Development: a *level* (technological, economic) effect and a *process*
+(transformation of social structures).
+
+The questions: *what is the process of social production of spatial forms?*
+*what are the relations between the space constituted and the structural
+transformations of society, within an intersocietal ensemble characterized by
+relations of dependence?*
+
+## Formation of metropolitan regions in industrial capitalist societies
+
+"We are dealing with the is the problematic of the organization of space in the
+advanced capitalist countries"
+
+Cities are distinguished by: "size, diffusion in space of activities, functions
+and groups, and their interdependence as a result of a largely independent
+social dynamic of geographical interconnection"
+
+### Technology, society, and the metropolitan region
+
+Advances in the means of transportation and communication both produced and
+enhanced regional interpendence by making other systems possible -> increasing
+disconnect between locations of production and consumption
+
+Importance and administration -> industry becomes increasingly dependent on the
+city; *Here Castells make the point that productivity-enhancing technology
+requires increased command-and-control functions provided by urban production
+spaces, but also less dependent on literal physical location.*
+
+**Co-evolution of monopolistic concentration of physical capital and the
+organization of very large units of production lead to BOTH spatial
+decentralization and increasing regional interdependence**
+
+"As a central form of the organization of space of advanced capitalism, the
+metropolitan region reduces the importance of the physical environment in the
+determination of the system of functional and social relations, abolishes the
+distinction between rural and urban, and places in the forefront of the
+space/society dynamic the historical conjuncture of the social relations that
+constitute its basis."
+
+### The metropolitan system in the United States
+
+Urban growth characterized by:
+
+1. High rate driven by low initial density and rapid immigration
+
+2. "Metropolitization;" large spaces (low-cost urbanization). Cars were
+   a response to, not a cause of, sprawl.
+
+A metropolis is defined by economic domination over the surrounding regions--
+metropolises form tiny empires
+
+"megalopolis... is not a question of generalized urbanization but of
+a diffusion of the habitat and of activities according a a logic that depends
+little on [spatial] contiguity and is closely bound up with economic
+functioning and, particularly, with adminstrative activities."
+
+megalopolises themselves undergo a regional division of labor; university
+complex in Boston, publishing in New York, etc.
+
+"The megalopolis results, therefore, from the interdependent, weakly
+hierarchized tangle, arising from the concentration within the territory of the
+original American urbanization, of the administrative functions and an
+essential part of the productive activities of the metropolitan system of the
+United States. It expresses the domination of the law of the market in the
+occupation of land and reveals both the technological and social concentration
+of the means of production and the atomized form of consumption, through the
+dispersal of housing and amenities in space."
+
+## Urbanization, development, and dependence
+
+### The acceleration of urban growth in the dependent societies of the
+capitalist system
+
+Urbanization co-occurs with growth, but is not constitutive of it (i.e., it is
+not a matter of convergence in developing countries). "At the same level of
+urban population reached by 'underdeveloped' countries, the level of
+industrialization of the 'developed' countries was much higher."
+
+Over-urbanization: the level of urbanization higher than what can "normally" be
+obtained -> "generating" vs "parasitic" cities.
+
+Empirically: correlation between urbanization and industrialization is higher
+in underdeveloped countries. Lewis model? 
+
+underdevelopment -> not "over" urbanization (i.e. capital tied up in 'useless'
+public services) but impossibility of "social organization capable of
+concentrating and directing existing means towards the development of the
+collectivity." -> reserve army of labor
+
+### Dependent urbanization
+
+underdeveloped, more like "exploted and dominated, with a deformed economy;"
+*asymmetric* interdependence. 
+
+Dependency: articulation of its social structure expresses asymmetrical
+relations with another social formation that occupies, in relation to the
+first, a situation of power... the organization of class relations in the
+dependent societies expresses the form of social supremacy adopted by the class
+in power in the dominant society. 
+
+Urbanization becomes "the expression of this social dynamic at the level of
+space, that is to say *of the penetration by the capitalist mode of production
+historically formed in western countries, of the remaineder of existing social
+formations at different technological, economic, and social levels, from
+extremely complex cultures like those of china or india to organizations with
+a tribal basis, particularly vigorous in central Africa.*"
+
+Not a question of the impact of industry on urbanization, but of the *western
+process of industrialization*. I.e. industrialization that precedes
+urbanization, in opposition to the co-dependent process of western
+industrialization in western countries.
+
+rural-urban migration: result of the collapse of rural society
+
+## The debate on the theory of space
+
+City is not the projection of society on space; both are co-created through
+a dialectical process by which a particular biological species transforms
+himself and his environment in his struggle for life and for the differential
+appropriation of the product of his labor; space is a material product (just
+like use-values). 
+
+Burgess: concentric circle model. Accounts for 1925 Chicago, but not for many
+other cities, and even Chicago itself. "Zones" require specifications of
+historical conditions of their validity. Chicago school: too ahistorical to be
+accurate. 
+
+Biological approach criticized by culturalists -> cultural conditions
+& institutional value; what about social differentiation and the diffusion of
+culture? 
+
+Ecologists have it right that the primary determination is productive forces
+and relations of production, articulated by the effects on space produced by
+other agencies of social determination. 
+
+"To analyze space as an expression of the social structure amounts, therefore,
+to studying its shaping by elements of the economic system, the political
+system, and the ideological system, and by their combinations and the social
+practices that derive from them."
+
+The spatial expression of proerty relations (the appropriation of the product)
+and the relation of 'real appropriation' (the technological labor process) is
+found in the dialectic between production (spatial expressions of the means of
+production, consumption (the spatial expression of labor power) and exchange,
+which results from the spatialization of the transferences between production
+and consumption, within production and within consumption. 
+
+P -> Production, ensemble of activities that produce goods and information
+(industry, offices)
+
+C -> Consumption, ensemble of activities relating to social, individual, and
+collective appropriation of the product (housing, public amenities)
+
+E -> Exchange, exchanges produced between P and C, within P and C (traffic,
+commerce)
+
+A -> Administration, process of regulating the relations between P, C,
+A (municipal government, urban planning)
+
+two essential relations: *domination-regulation* and *integration-repression*
+
+## From the study of space to the analysis of the city
+
+### The theoretical delimitation of the urban
+
+ space is produced, and delimitation between space and non-space is
+ ideological
+
+What is "the urban"?
+
+* Ideological: urban culture
+
+* politico-juridical: existed this way at certain historical periods, but is
+  coming to be defined by the economic under capitalism (i.e. the dominant mode
+  of production)
+
+* Economic: "Urban space becomes a space defined by a section of the labor
+  force, delimited both by a job market and by the relative unity of its daily
+  life."
+
+"The Urban" -> the realm of social reproduction
+
+problematics:
+
+1. Spatial distribution of each element of the social structure -> myriad of
+   spaces transformed through class struggle
+
+2. Constitution of spatial units that combine in specific ways all the
+   processes...
+
+ ### The urban system
+
+Urban System: "the specific articulation of the instances of a social structure
+within a spatial unit of the reproduction of labor power"
+
+The key: urban politics (class struggle)
