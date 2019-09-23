@@ -28,26 +28,30 @@ typically been relegated to peripheral questions in economics proper.
 This chapter is about urban growth. Who wins when a city grows? Who benefits
 from economies of scale and economies of agglomeration? In particular, how is
 the distribution of urban economic growth affected by the distribution of and
-control over land and housing? How are these distributional decisions made? In
-this essay, I present a theoretical account of the way that cities grow, and the
-way that this growth is divided between wages, profits, and rents. The
-particularly urban features of agglomeration feature heavily into this account.
-I begin with the observation that neoclassical treatments of urban growth have,
-since John Bates Clark, left out land as a particular factor of production.
-Without accounting for the role of landlords, any account of the role of rents
-in urban growth (which is likely to quite large) will likely be insufficient. I
-follow this with a presentation of the classical political-economic thought on
-land rents and growth, followed by a formal presentation of a broadly
-Marxian-Georgist account of growth and distribution in an urban economy subject
-to large agglomeration economies. 
+control over land and housing? How are these distributional decisions made
+and implemented? In this essay, I present a theoretical account of the way
+that cities grow, and the way that this growth is divided between wages,
+profits, and rents. The particularly urban features of agglomeration feature
+heavily into this account. I begin with the observation that neoclassical
+treatments of urban growth have, since John Bates Clark, left out land as a
+particular factor of production. Without accounting for the role of
+landlords, any account of the role of rents in urban growth (which is likely
+to quite large) will likely be insufficient. I follow this with a
+presentation of the classical political-economic thought on land rents and
+growth, followed by a formal presentation of a broadly Marxian-Georgist
+account of growth and distribution in an urban economy.
+
+## Research Questions
+
+1. To what extent are public goods and productivity gains captured by landlords?
 
 ## Introduction
 
 This essay is motivated by a deceptively simple question: When cities expand, do
-rents rise or do they fall? The simple Economics 101 answer is that of course,
+rents rise or do they fall?  The simple Economics 101 answer is that of course,
 when more space is brought into the urban system (by, e.g., expanding the supply
 of housing through either new construction or upzoning existing neighborhoods
-for greater density), 
+for greater density), then housing costs, rents, should fall. 
 
 # On Growth and Housing in San Francisco
 
