@@ -8,6 +8,15 @@ abstract: This prospectus poses three questions in the field of urban political 
 
 # Introduction: Centering Space in Political Economy
 
+This dissertation proposal describes three dissertation essays that focus on
+urban growth, distribution, rents, and housing policy in the United States.
+The overall motivation of this dissertation, in the broadest terms, is to
+understand how markets for land and housing (and their associated rents)
+under capitalist urbanism affect economic outcomes for those living and working
+in cities. Over the course of interrogating this question, this dissertation
+will touch upon questions of income and wealth inequality, agglomeration
+economies, growth theory, and housing policy. 
+
 The discipline of Economics has, at long last, been going through something
 of its own "spatial turn" in recent years. Looking at growth and welfare across
 different states, regions, cities, and even zip codes, recent research has found
@@ -15,11 +24,63 @@ striking amounts of heterogeneity and divergence with respect to economic
 outcomes. Research like @ganong2017 has looked at the causes of income
 divergence between metropolitan regions in the United States. @chetty2014 looks
 at the variance in inter-generational economic mobility between commuting zones.
+The "New Economic Geography" literature begun by Paul Krugman^["New" in the
+sense of new to economics-- Paul Krugman regularly presented his work on NEG at
+geography conferences, garnering a markedly lukewarm reception.]
 
 I say that this is a recent turn because questions of space and place have
 typically been relegated to peripheral questions in economics proper. 
 
 [...]
+
+In the body of this dissertation prospectus, I will outline my plan for further
+research. In the first essay, I will develop a theoretical framework based on
+classical formulations of the land and housing questions to investigate the
+relationship between urban growth, land rents, and wages. I will begin by
+developing the concept of urban space as theorized by the radical geography
+tradition and relating it to the classical political economy though surrounding
+land and land rents, beginning with Adam Smith. I intend to demonstrate the ways
+in which the urban (productive) capitalist sector interact with workers and
+landlords in order to produce a given spatial structure, spatial hierarchy, and
+income distribution. This will consist of both a review of the history of
+economic thought on land rents and a theoretical argument regarding the role of
+urban growth on rents and wages. 
+
+In the next essay, I intend to apply the theoretical framework developed in the
+first essay to the case of urban growth in San Francisco. The city has several
+features that make it an interesting case study. First, it has rapidly
+transitioned to the type of urban economy that I propose drive many of the
+effects discussed in the previous section-- namely, one with a primary sector
+characterized by large agglomeration economies. Second, the city's (and the
+state of California's generally) political economy is influenced by a relatively
+powerful political class of landlords and developers. Third, the city exhibits
+physical limits to sprawl (in the form of the Pacific Ocean) and also varying
+levels of political constraints to expansion by the aforementioned landowning
+class. Thus, it is a useful case study to explore the way distributional
+conflict occurs across urban space. The essay will take a historical approach,
+outlining in broad strokes the evolution of land prices, wages and rents since
+WWII, and examining in particular detail the most recent period of expansion
+since 2012 and its associated housing crisis. The essay will rely on descriptive
+data on wages, profits, rents, housing construction,  evictions provided by the
+Census Bureau, HUD, and the City of San Francisco, archival data on housing
+developments and public construction, and data on housing and rents scraped from
+the Internet. 
+
+The final essay is an empirical investigation into one of the policies that
+municipalities may use to control rent growth and hence alter the
+distribution of income: rent control. Though the consensus of economists is
+tilted heavily against rent control as an appropriate mechanism for the
+promotion of housing affordability, empirical evidence for the proposed
+negative effects of rent control has been mixed. This essay, then, represents
+a contribution to the somewhat scant empirical literature on rent control in
+the United States. Using either restricted-use data from the Census Bureau's
+Rental Housing Finance survey or publicly available data on housing from the
+American Community Survey, this essay uses a quasi-experimental research
+design that designates either households qualifying for rent control or
+municipalities enacting rent control as the treatment group and compares them
+to a geographically-adjacent control region that did not enact rent control,
+following @dube2010. This essay is intended to causally identify the impacts of
+rent control on the housing supply, rental supply, and neighborhood stability. 
 
 # What do Landlords Do? The Political Economy of Urban Growth and Distribution
 
@@ -28,7 +89,7 @@ typically been relegated to peripheral questions in economics proper.
 This chapter is about urban growth. Who wins when a city grows? Who benefits
 from economies of scale and economies of agglomeration? In particular, how is
 the distribution of urban economic growth affected by the distribution of and
-control over land and housing? How are these distributional decisions made
+control over land (and housing)? How are these distributional decisions made
 and implemented? In this essay, I present a theoretical account of the way
 that cities grow, and the way that this growth is divided between wages,
 profits, and rents. The particularly urban features of agglomeration feature
@@ -37,7 +98,7 @@ treatments of urban growth have, since John Bates Clark, left out land as a
 particular factor of production. Without accounting for the role of
 landlords, any account of the role of rents in urban growth (which is likely
 to quite large) will likely be insufficient. I follow this with a
-presentation of the classical political-economic thought on land rents and
+presentation of the classical political economy thought on land rents and
 growth, followed by a formal presentation of a broadly Marxian-Georgist
 account of growth and distribution in an urban economy.
 
@@ -55,6 +116,18 @@ account of growth and distribution in an urban economy.
 
 ## Introduction
 
+>What you have to understand is that in the late 1980smainstream economists were
+>almost literally oblivious to the fact that economies aren’t dimensionless
+>points in space –and to what the spatial dimension of the economy had to say
+>about the nature of economic forces. You may find this implausible –how could
+>economists fail to take into account facts of life that are part of everyone’s
+>daily experience? –but I can assure you that it was true. I recall a
+>conversation at one conference on the “new growth theory” in which a fairly
+>eminent economist challengedsome of us, in belligerent tones, for any evidence
+>that increasing returns and positive external economies actually play any
+>important economic role. I think I replied “Cities” –to be greeted with a stare
+>of incomprehension. [@krugman2011a]
+
 This essay is motivated by a deceptively simple question: When cities expand,
 do rents rise or do they fall? The simple Economics 101 answer is that of
 course, when more space is brought into the urban system (by, e.g., expanding
@@ -65,19 +138,18 @@ cities with comparatively high levels of productivity, we have seen slowdowns
 in housing construction (this is true for the United States generally) and
 large increases in housing costs and property values.
 
-As mentioned in the introduction to this proposal, questions regarding land and
-land rents were central to the questions of economics for centuries prior to the
-marginal revolution, before being relegated to the comparatively small subfields
-of Urban and Real Estate Economics. In recent years, the recognition of
-geographic inequalities across and within cities and regions have brought
-attention back to the role that geographic space, in the somewhat truncated
-forms of "distance" and "place." 
-
-Meanwhile, the fields of Geography, Urban Planning, and Sociology, among others,
-continued to grapple with the issues of land rents and spatial structure and
-hierarchy in the interregnum, most notably in the radical urban geography
-tradition begun by Lefebvre and the discipline of urban sociology pioneered at
-the University of Chicago. 
+As mentioned in the introduction to this proposal, questions regarding land
+and land rents were central to the questions of economics for centuries prior
+to the marginal revolution, before being relegated to the comparatively small
+subfields of Urban and Real Estate Economics. In recent years, the
+recognition of geographic inequalities across and within cities and regions
+have brought attention back to the role that geographic space, in the
+somewhat truncated forms of "distance" and "place." Meanwhile, the fields of
+Geography, Urban Planning, and Sociology, among others, continued to grapple
+with the issues of land rents and spatial structure and hierarchy in the
+interregnum, most notably in the radical urban geography tradition begun by
+Lefebvre and the discipline of urban sociology pioneered at the University of
+Chicago.
 
 This essay is an attempt to engage some of the insights of classical economic
 thought on land and land-rents in answering modern economic questions of
@@ -101,9 +173,20 @@ surrounding the dynamics of modern urban land and housing prices (essentially:
 how do urban agglomerative effects interact with rents?). After that, I will
 develop these into a formal theoretical presentation.
 
-
+## Literature Review: Capitalist Urbanism, Capitalists on Urbanism
 
 # On Growth and Housing in San Francisco
+
+## Research Questions
+
+1. What are the structural features of the historical periods of expansion in
+   San Francisco during the Post-WWII Era? 
+
+2. How did these economic expansions show up in the distribution of wages, profits, and rents?
+
+3. From the perspective of growth in rents and the housing crisis, is the most
+   recent period different of expansion different than previous eras? If so,
+   what are the features driving the difference?
 
 ## Abstract
 
@@ -115,6 +198,15 @@ incomes of the population on the one hand, and housing costs and urban structure
 on the other hand.
 
 # Rent Control Revisited: Is it Good, Actually? 
+
+1. To what extent is new housing construction affected by the implementation of
+   rent controls?  
+
+2. To what extent is the supply of *rental housing* affected by the
+   implementation of rent controls? 
+
+3. To what extent do rent controls accomplish the goals of maintaining housing
+   affordability and neighborhood stability? 
 
 ## Abstract
 
@@ -130,3 +222,7 @@ addresses the difficulty of well-identified empirical work on housing in
 general, and estimates the impacts of municipal rent control policies on rents,
 tenure lengths, neighborhood amenity access, the rate of new housing
 construction, and the supply of rental housing. 
+
+\newpage
+
+# References
