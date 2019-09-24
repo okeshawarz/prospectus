@@ -43,15 +43,65 @@ account of growth and distribution in an urban economy.
 
 ## Research Questions
 
-1. To what extent are public goods and productivity gains captured by landlords?
+1. To what extent are gains from public goods and productivity increases
+   captured by landlords?
+
+2. How do the peculiarities of urban growth (agglomeration, long-lived
+   structures) affect the distributions of wages, profits and rents? 
+
+3. What is the relationship between wages, profits, and rents in an urban
+   economy? What are the structural features of this relationship, and what
+   drives their variation across cities? 
 
 ## Introduction
 
-This essay is motivated by a deceptively simple question: When cities expand, do
-rents rise or do they fall?  The simple Economics 101 answer is that of course,
-when more space is brought into the urban system (by, e.g., expanding the supply
-of housing through either new construction or upzoning existing neighborhoods
-for greater density), then housing costs, rents, should fall. 
+This essay is motivated by a deceptively simple question: When cities expand,
+do rents rise or do they fall? The simple Economics 101 answer is that of
+course, when more space is brought into the urban system (by, e.g., expanding
+the supply of housing through either new construction or upzoning existing
+neighborhoods for greater density), then rents should *ceteris paribus* fall.
+Yet, in descriptive sense, this is not quite what we have seen happen; in
+cities with comparatively high levels of productivity, we have seen slowdowns
+in housing construction (this is true for the United States generally) and
+large increases in housing costs and property values.
+
+As mentioned in the introduction to this proposal, questions regarding land and
+land rents were central to the questions of economics for centuries prior to the
+marginal revolution, before being relegated to the comparatively small subfields
+of Urban and Real Estate Economics. In recent years, the recognition of
+geographic inequalities across and within cities and regions have brought
+attention back to the role that geographic space, in the somewhat truncated
+forms of "distance" and "place." 
+
+Meanwhile, the fields of Geography, Urban Planning, and Sociology, among others,
+continued to grapple with the issues of land rents and spatial structure and
+hierarchy in the interregnum, most notably in the radical urban geography
+tradition begun by Lefebvre and the discipline of urban sociology pioneered at
+the University of Chicago. 
+
+This essay is an attempt to engage some of the insights of classical economic
+thought on land and land-rents in answering modern economic questions of
+growth and distribution. I intend to incorporate some of the contributions of
+radical geography, particularly notions of *space*, *spatiality,* and
+*spatial hierarchies.* It is important to note here that I will largely be
+talking about *land*, which is only a subset of *spatial relations* that
+comprise urban geographies. It is also important to note here that although
+much of the discussion in this chapter will center around housing costs in
+the form of residential rents, the focus of this chapter is on land rents and
+land ownership more generally, rather than on the particular problem of high
+housing costs. This last feature is an important element of my critique of
+some of the modern theoretical literature on urban growth, which I expand upon
+further in that respective section.
+
+The essay will be structured as follows: First, I discuss the role of land rents
+and urban structure in classical accounts of growth and distribution, paying
+particular attention to Karl Marx and Henry George. The essential focus here
+will be to adapt the classical thought on rents and landlords to questions
+surrounding the dynamics of modern urban land and housing prices (essentially:
+how do urban agglomerative effects interact with rents?). After that, I will
+develop these into a formal theoretical presentation.
+
+
 
 # On Growth and Housing in San Francisco
 
