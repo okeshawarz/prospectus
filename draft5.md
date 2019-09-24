@@ -8,24 +8,26 @@ abstract: This prospectus poses three questions in the field of urban political 
 
 # Introduction: Centering Space in Political Economy
 
-This dissertation proposal describes three dissertation essays that focus on
+This dissertation proposal describes three essays that focus on
 urban growth, distribution, rents, and housing policy in the United States.
 The overall motivation of this dissertation, in the broadest terms, is to
 understand how markets for land and housing (and their associated rents)
 under capitalist urbanism affect economic outcomes for those living and working
-in cities. Over the course of interrogating this question, this dissertation
+in cities. Over the course of evaluating this question, this dissertation
 will touch upon questions of income and wealth inequality, agglomeration
 economies, growth theory, and housing policy.
 
 The discipline of Economics has, at long last, been going through something
-of its own "spatial turn" in recent years. Looking at growth and welfare across
-different states, regions, cities, and even zip codes, recent research has found
-striking amounts of heterogeneity and divergence with respect to economic
-outcomes. Research like @ganong2017 has looked at the causes of income
-divergence between metropolitan regions in the United States. @chetty2014 looks
-at the variance in inter-generational economic mobility between commuting zones.
-The "New Economic Geography" literature begun by Paul Krugman^["New" in the
-sense of new to economics-- Paul Krugman regularly presented his work on NEG at
+of its own "spatial turn" in recent years. Looking at growth and welfare
+across different states, regions, cities, and even zip codes, recent research
+has found striking amounts of heterogeneity and divergence with respect to
+economic outcomes. It has become clear that questions of space and geography
+have are becoming more and more central to the basic questions of economics.
+Research like @ganong2017 has looked at the causes of income divergence
+between metropolitan regions in the United States. @chetty2014 looks at the
+variance in inter-generational economic mobility between commuting zones. The
+"New Economic Geography" literature begun by Paul Krugman^["New" in the sense
+of new to economics-- Paul Krugman regularly presented his work on NEG at
 geography conferences, garnering a markedly lukewarm reception.]
 
 I say that this is a recent turn because questions of space and place have
