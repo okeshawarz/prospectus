@@ -84,6 +84,12 @@ to a geographically-adjacent control region that did not enact rent control,
 following @dube2010. This essay is intended to causally identify the impacts of
 rent control on the housing supply, rental supply, and neighborhood stability.
 
+Taken together, these three essays represent a contribution to the
+understanding the function of landownership and land rents in influencing the
+distribution of incomes in advanced economies generally, with implications
+for the study of income and wealth inequality, spatial patterns of growth and
+decline, and housing and urban policy.
+
 # What do Landlords Do? The Political Economy of Urban Growth and Distribution
 
 ## Abstract
@@ -135,10 +141,11 @@ do rents rise or do they fall? The simple Economics 101 answer is that of
 course, when more space is brought into the urban system (by, e.g., expanding
 the supply of housing through either new construction or upzoning existing
 neighborhoods for greater density), then rents should *ceteris paribus* fall.
-Yet, in descriptive sense, this is not quite what we have seen happen; in
-cities with comparatively high levels of productivity, we have seen slowdowns
-in housing construction (this is true for the United States generally) and
-large increases in housing costs and property values.
+Of course, *ceteris* is never *paribus*, and the most confounding feature comes
+from the nature of cities themselves: they are an increasing-returns phenomenon,
+and the expansion of a city itself may be a function of the desirability and
+productivity of that city. In other words, when a city grows, the expansion of
+the housing supply may not result in a decrease in rents. 
 
 As mentioned in the introduction to this proposal, questions regarding land
 and land rents were central to the questions of economics for centuries prior
@@ -174,6 +181,7 @@ will be to adapt the classical thought on rents and landlords to questions
 surrounding the dynamics of modern urban land and housing prices (essentially:
 how do urban agglomerative effects interact with rents?). After that, I will
 develop these into a formal theoretical presentation.
+
 
 ## Literature Review: Capitalist Urbanism, Capitalists on Urbanism
 
@@ -267,3 +275,172 @@ suddenly brought a significant number of multi-family dwellings under the rent
 control law. They also estimate welfare effects in a general equilibrium
 framework using a structural spatial equilibrium model of the type detailed in
 section 2.1.
+
+The detail of the dataset is quite remarkable, as it allows the authors to test
+displacement effects on individuals. However, it may be subject to a few sources
+of bias, namely: scraped data from housing-transactions and rental websites may
+overestimate housing costs; the link between housing prices and rents need not
+be linear, and so it is not clear how accurate the imputations of rents are;
+and, the methodology used in 1) matching names to property records and 2)
+matching names to races may be subject to all sorts of biases and omissions.
+Additionally, the structural spatial equilibrium model is subject to the same
+critiques of spatial equilibrium models in general outlined in chapter 2. 
+
+My most major critique, and where I feel that this essay contributes the most to
+the literature, is that this study may have serious problems with external
+validity. It is based on a single case study centered on a single housing type
+in a single city. Moreover, the Costa-Hawkins Rental Housing Act was passed by
+California ballot initiative in 1995, one year after the change in housing
+regulations that the authors use as the source of exogenous variation in their
+study. This act established two things that radically undermined California rent
+control and almost assuredly affected their results: 1) the Act allowed for
+vacancy decontrol, which provides strong incentives for landlords to evict
+tneants when the gap between market and controlled rents becomes sufficiently
+large, and 2) the Act exempted condominiums and new construction from rent
+control. It is not clear how much two of the authors' main findings (that rent
+control led to higher eviction rates of lower-income tenants, and that landlords
+converted some of their stock of rental housing to condominiums in response to
+rent control) were influenced by the law. The aim of this essay is to draw more
+general and, hopefully, well-identified conclusions about the impacts of rent
+control.
+
+@sims2007 and @autor2014 both study the effects of the end of rent control in
+Massachusetts, as part of the wave of state-level anti-rent control legislature
+that swept much of the country during the 90s. In particular, they look at the
+effect o fthe passage of Question 9 by Massachusetts ballot referendum in 1994,
+which banned any rent control in Massachusetts cities. At the time of the law's
+enactment, only the cities of Boston, Cambridge, and Brookline still had rent
+control laws on the books^[Note here again the question of political scale. The
+anti-rent control advocates consistently failed in opposing the laws at the
+local level, where tenants formed a sizable political bloc. At the state level,
+the coalition becomes much weaker. Question 9 was passed by a margin of 51-49;
+the three rent-controlled towns overwhelmingly voted against, while many of the
+never-controlled towns voted for.]. After the passage of Question 9, almost all
+housing units in the three cities became decontrolled on January 1, 1995. 
+
+Sims uses public data from the American Housing Survey to estimate the impact of
+the removal of rent control on several housing characteristics, including the
+quantity of rental housing, the level of rent and housing costs, unit quality,
+and the length of renter tenure. He uses a DID identification strategy to
+compare Census zones in the Boston MSA that experienced decontrol to those that
+never experienced rent control, using a model with zone and year fixed effects
+and controlling for housing unit characteristics. 
+
+To test spillover effects of rent decontrol, Sims uses an instrumental variable
+strategy that takes a value of 1 if the unit was *in a zone* that was ever under
+rent control and zero otherwise. To test indirect spillover effects, the author
+constructs several instruments including the interaction of a 2-family house
+indicator (which was excluded from rent control), pre-treatment year indicator,
+and controlled-zone indicator. In other words, finding the effect of decontrol
+on 2-family homes in controlled zones should provide for the identification of
+spillover effects, since these units were never under control. The author
+similarly constructs IVs for other forms of never-controlled housing. 
+
+Sims finds that the end of rent control had little effect on the construction of
+new housing. He further found evidence that rent control decreases the available
+number of rental units and increases the number of condominiums (i.e., the
+amount of rent-control exempt housing). In other words, rent control seemed to
+affect the quantity of housing available for rental, but not the total number of
+housing units. He also finds insignificant negative effects of rent control on
+indicators of physical housing unit condition, but unsurprisingly, significant
+increases in rent charged after decontrol. Finally, he finds that rent
+controlled units had much longer tenure times, pointing to the neighborhood
+stability effects of rent control. 
+
+@autor2014 also examine the effects of the passage of Question 9 in
+Massachusetts in the context of spillover effects. The authors were less
+interested in specifically quantifying the impacts of rent (de)control, but
+instead exploited the exogenous change in regulations to see how residential
+externalities get capitalized into housing prices as price regulations were
+relaxed. Their identification strategy relies on the fact that both controlled
+and never-controlled apartments stood "side-by-side in Cambridge neighborhoods
+on the eve of rent control removal thus offering a tight temporal and geographic
+framework for assessing the impact of the law on residential prices. In other
+words, since the features of rent-controlled apartments (non-owner0occupied
+houses, condominiums, or apartments built prior to 1969) were distributed
+essentially randomly throughout the Cambridge housing stock, the effects of
+purely the exogenous variation in control status can be identified neatly^[Note
+here a possible source of exogeneity: age of the housing stock is likely not
+random, and in fact is likely to be 1) spatially correlated [@glaeser2014a], and
+2) NPV of the housing stock, itself affected by rent-controlled status, is
+   dependent on the age of the structure. I return to this point later.]. 
+
+The authors identified two major channels through which rent decontrol may have
+affected the market values of residential properties. The authors term the first
+the "direct effect," reflecting the ability of landlords to now charge
+market-rate rents; this both increases the maximum rent the landlord may charge
+and the net present value of the property. In the framework established in the
+first chapter, this is closer to the idea of monopoly rents, or DRII. The second
+channel they identify is the indirect effect, where decontrol raises the value
+of surrounding, never-controlled properties. The mechanism that the authors
+propose is that decontrol inventivizes landlords to "renovate and modernize
+decontrolled units, raising their rental values." This attracts higher-income
+tenants, which attracts *other* high-income tenants to the *never-controlled*
+properties, by means of "improved housing stock and more affluent neighbors."
+Read critically, this seems a bit difficult to parse; it is difficult to imagine
+that higher-income tenants will be drawn to never-controlled properties due to
+better amenities in the formerly-controlled house *next door*. The more
+plausible claim is that higher-income tenants will be drawn to never-controlled
+units by "better" neighbors in formerly-controlled ones. Given Boston's troubled
+history with desegregation, it is not difficult to imagine that "better"
+tenants, in this case, euphemistically refer to "whiter" ones [@rothstein2018].
+
+### Critical Questions
+
+Given the paucity of empirical studies on rent control, there are several
+interesting questions to be asked here. The ones that this essay will focus
+mainly upon are:
+
+A.  **How does rent control impact the supply of housing?** -- Most of the the
+    theoretical and empirical work regarding rent controls, such that it exists,
+    aims to answer this question. How much does rent control impact the expansion
+    of the supply of housing? How does the *type* of housing, as well as its
+    condition, change? What are its effects on land values and rental rates?
+    Aside from the very recent literature, outlined above, focusing on good
+    causal identification, most of the empirical literature assumes that rent
+    controls form *ex nihilo* and function as a brake on housing supply growth.
+    However, it is quite plausible that the direction of causation runs in the
+    opposite direction-- the implementation of rent control by a particular
+    electorate might be a *response* to growth in rents and evictions, caused by
+    one of the factors identified in the previous chapters. 
+
+B.  **What is the direction of causation?** -- Do rent controls cause rents to
+    increase, or do increasing rents cause the imposition of rent controls?
+    @diamond2018 found that implementing rent control in San Francisco seemed to
+    cause rents to rise in the long run, but @autor2014 and @sims2007 found that the
+    *removal* of rent control in Boston *also* led caused rents and land prices to
+    increase. Aside from the possibility I explore in the Chapter 2 of a de-linking
+    of rents and housing supply, is it that rent control *causes* rents to rise, or
+    is it that cities experiencing high rent growth tend to enact rent control
+    legislation? This relationship need not be linear either-- it could be that
+    further rises in land value shift the needle in the other direction due to the
+    relatively increasing payoff to a political coalition of landowners, as in the
+    abolition of Massachusetts rent control in 1995^[interestingly enough, this is
+    the same year that California passed the Costa-Hawkins Rental Housing Act. These
+    also corresponded to the beginning of the asset bubble that crashed in 2008, and
+    coincided with an apparent nationwide shift in the balance of power away from
+    tenants and towards landlords.].
+
+C.  **To what extent does rent control impact neighborhood stability and access
+    to public goods?** -- Aside from questions of housing supply and efficiency,
+    the empirical literature is in relative agreement on the role of rent
+    control in allowing tenants to remain in their homes^[except in cases with
+    vacancy decontrol, which incentivizes landlords to evict]. Aside from
+    utility directly obtained from not being evicted (and correspondingly for
+    the landlord, having a long-term, stable tenant), it might be the case that
+    in the face of highly place-based amenities and mobility effects (e.g.
+    @chetty2014), rent control may allow access to public amenities (e.g. public
+    schools) that allow for higher intergenerational mobility. For example--
+    does living in a reng-controlled neighborhood preserve access to
+    institutions that allow for mobility among those who would otherwise be
+    trapped in low-mobility environments? This type of question would be, in
+    principle, rather difficult to answer, as it requires determining where a
+    particular resident would be displaced to if the area were not rent
+    controlled. In a descriptive way, this essay can look at migrations and
+    evictions that occured as a result of blanket rent control bans by state
+    governments. 
+
+These will hereafter be referred to as *Question A*, *Question B*, and *Question
+C*. 
+
+
