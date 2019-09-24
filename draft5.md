@@ -116,14 +116,14 @@ account of growth and distribution in an urban economy.
 
 ## Introduction
 
->What you have to understand is that in the late 1980smainstream economists were
->almost literally oblivious to the fact that economies aren’t dimensionless
+>What you have to understand is that in the late 1980s mainstream economists
+>were almost literally oblivious to the fact that economies aren’t dimensionless
 >points in space –and to what the spatial dimension of the economy had to say
 >about the nature of economic forces. You may find this implausible –how could
 >economists fail to take into account facts of life that are part of everyone’s
 >daily experience? –but I can assure you that it was true. I recall a
 >conversation at one conference on the “new growth theory” in which a fairly
->eminent economist challengedsome of us, in belligerent tones, for any evidence
+>eminent economist challenged some of us, in belligerent tones, for any evidence
 >that increasing returns and positive external economies actually play any
 >important economic role. I think I replied “Cities” –to be greeted with a stare
 >of incomprehension. [@krugman2011a]
