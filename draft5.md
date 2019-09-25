@@ -2,6 +2,7 @@
 title: Three Essays on Urban Economics
 author: Osman Keshawarz
 toc: true
+numbersections: true
 bibliography: [prospectus.bib]
 abstract: This prospectus poses three questions in the field of urban political economy. The first is a theoretical question on the relationship between urban growth, density, wages, profits, and rents, based on classical political economy treatments of the land question. The second is a historical-descriptive question that attempts to apply the theoretical insights of the first chapter to the recent burst of growth and subsequent crisis of housing in San Francisco, California. The final question is an empirical study on the impacts of rent control laws in the United States.
 ---
@@ -151,11 +152,24 @@ do rents rise or do they fall? The simple Economics 101 answer is that of
 course, when more space is brought into the urban system (by, e.g., expanding
 the supply of housing through either new construction or upzoning existing
 neighborhoods for greater density), then rents should *ceteris paribus* fall.
+
+*This is a good place for a discussion on Glaeser, Gyourko, Hsieh & Moretti, in
+the context of Regulationist and supply-side explanations for urban growth
+constraints*
+
 Of course, *ceteris* is never *paribus*, and the most confounding feature comes
 from the nature of cities themselves: they are an increasing-returns phenomenon,
 and the expansion of a city itself may be a function of the desirability and
 productivity of that city. In other words, when a city grows, the expansion of
 the housing supply may not result in a decrease in rents. 
+
+Let us pursue this line a bit further. I ask here another deceptively simple
+question: why do we live in cities in the first place? Why not simply live in
+relatively undifferentiated gradations of density and transportation networks
+that sprawl over the available area? This question, at the root of the fields of
+urban economics, sociology, geography, planning, and many others, still remains
+elusive. Especially so in economics, as the (somewhat dated, but still quite
+relevant) quote at the beginning of this introduction suggests.  
 
 As mentioned in the introduction to this proposal, questions regarding land
 and land rents were central to the questions of economics for centuries prior
@@ -453,4 +467,6 @@ C.  **To what extent does rent control impact neighborhood stability and access*
 These will hereafter be referred to as *Question A*, *Question B*, and *Question
 C*. 
 
+\newpage
 
+# References
