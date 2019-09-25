@@ -8,14 +8,21 @@ abstract: This prospectus poses three questions in the field of urban political 
 
 # Introduction: Centering Space in Political Economy
 
-This dissertation proposal describes three essays that focus on
-urban growth, distribution, rents, and housing policy in the United States.
-The overall motivation of this dissertation, in the broadest terms, is to
+The world is urban. 
+
+The urban revolution dreamt of by Lefebvre is, for the most part, well under
+way. This is true in a literal sense, as the global *physical* urban population
+rises dramatically, but more to the geographer's point-- urban social relations
+have become generalized. 
+
+This prospectus outlines a proposal for three essays on the themes of urban
+growth, distribution, rents, and housing policy in the United States. The
+overall motivation of this dissertation, in the broadest terms, is to
 understand how markets for land and housing (and their associated rents)
-under capitalist urbanism affect economic outcomes for those living and working
-in cities. Over the course of evaluating this question, this dissertation
-will touch upon questions of income and wealth inequality, agglomeration
-economies, growth theory, and housing policy.
+under capitalist urbanism affect economic outcomes for those living and
+working in cities. Over the course of evaluating this question, this
+dissertation will touch upon questions of income and wealth inequality,
+agglomeration economies, growth theory, and housing policy.
 
 The discipline of Economics has, at long last, been going through something
 of its own "spatial turn" in recent years. Looking at growth and welfare
@@ -83,6 +90,9 @@ municipalities enacting rent control as the treatment group and compares them
 to a geographically-adjacent control region that did not enact rent control,
 following @dube2010. This essay is intended to causally identify the impacts of
 rent control on the housing supply, rental supply, and neighborhood stability.
+This essay is intended to provide more evidence on the debate over the
+appropriate policy to take in order to maintain housing affordability in U.S.
+cities. 
 
 Taken together, these three essays represent a contribution to the
 understanding the function of landownership and land rents in influencing the
@@ -307,7 +317,7 @@ control.
 @sims2007 and @autor2014 both study the effects of the end of rent control in
 Massachusetts, as part of the wave of state-level anti-rent control legislature
 that swept much of the country during the 90s. In particular, they look at the
-effect o fthe passage of Question 9 by Massachusetts ballot referendum in 1994,
+effect of the passage of Question 9 by Massachusetts ballot referendum in 1994,
 which banned any rent control in Massachusetts cities. At the time of the law's
 enactment, only the cities of Boston, Cambridge, and Brookline still had rent
 control laws on the books^[Note here again the question of political scale. The
@@ -383,7 +393,7 @@ better amenities in the formerly-controlled house *next door*. The more
 plausible claim is that higher-income tenants will be drawn to never-controlled
 units by "better" neighbors in formerly-controlled ones. Given Boston's troubled
 history with desegregation, it is not difficult to imagine that "better"
-tenants, in this case, euphemistically refer to "whiter" ones [@rothstein2018].
+tenants, in this case, probably refer to "whiter" ones [@rothstein2018].
 
 ### Critical Questions
 
@@ -421,8 +431,8 @@ B.  **What is the direction of causation?** -- Do rent controls cause rents to
     coincided with an apparent nationwide shift in the balance of power away from
     tenants and towards landlords.].
 
-C.  **To what extent does rent control impact neighborhood stability and access
-    to public goods?** -- Aside from questions of housing supply and efficiency,
+C.  **To what extent does rent control impact neighborhood stability and access**
+    **to public goods?** -- Aside from questions of housing supply and efficiency,
     the empirical literature is in relative agreement on the role of rent
     control in allowing tenants to remain in their homes^[except in cases with
     vacancy decontrol, which incentivizes landlords to evict]. Aside from
