@@ -36,26 +36,35 @@ between metropolitan regions in the United States. @chetty2014 looks at the
 variance in inter-generational economic mobility between commuting zones. The
 "New Economic Geography" literature begun by Paul Krugman^["New" in the sense
 of new to economics-- Paul Krugman regularly presented his work on NEG at
-geography conferences, garnering a markedly lukewarm reception.]
+geography conferences, garnering a markedly lukewarm reception.] in the 1980s
+represented an early attempt to bring questions of space into economic theory by
+way of models adapted from international trade theory.
 
-I say that this is a recent turn because questions of space and place have
-typically been relegated to peripheral questions in economics proper.
+*What is urban capitalism, as Lefebvre defines it? How does this make the
+concept spatiality have meaning? What does it mean for control over land?
+Finally, how do I bring this back into economics proper?*
 
 [...]
 
-In the body of this dissertation prospectus, I will outline my plan for further
-research. In the first essay, I will develop a theoretical framework based on
-classical formulations of the land and housing questions to investigate the
+In sum, the main principles that guide this dissertation are ones drawn from
+geography and classical political economy. The first: land, and the notion of
+control over space, has an independent existence as a factor of consumption
+and production that cannot simply be subsumed under the dynamics of capital
+or wealth.  
+
+In the body of this dissertation prospectus, I will outline my plan for
+further research on the role of land and rents in urban economics. In the
+first essay, I will develop a theoretical framework based on classical
+formulations of the land and housing questions to investigate the
 relationship between urban growth, land rents, and wages. I will begin by
 developing the concept of urban space as theorized by the radical geography
-tradition and relating it to the classical political economy though surrounding
-land and land rents, beginning with Adam Smith. I intend to demonstrate the ways
-in which the urban (productive) capitalist sector interact with workers and
-landlords in order to produce a given spatial structure, spatial hierarchy, and
-income distribution. This will consist of both a review of the history of
-economic thought on land rents and a theoretical argument regarding the role of
-urban growth on rents and wages.
-
+tradition and relating it to the classical political economy though
+surrounding land and land rents, beginning with Adam Smith. I intend to
+demonstrate the ways in which the urban (productive) capitalist sector
+interact with workers and landlords in order to produce a given spatial
+structure, spatial hierarchy, and income distribution. This will consist of
+both a review of the history of economic thought on land rents and a
+theoretical argument regarding the role of urban growth on rents and wages.
 In the next essay, I intend to apply the theoretical framework developed in the
 first essay to the case of urban growth in San Francisco. The city has several
 features that make it an interesting case study. First, it has rapidly
@@ -152,6 +161,9 @@ do rents rise or do they fall? The simple Economics 101 answer is that of
 course, when more space is brought into the urban system (by, e.g., expanding
 the supply of housing through either new construction or upzoning existing
 neighborhoods for greater density), then rents should *ceteris paribus* fall.
+
+Much of the recent urban economics literature has focused on particularly the
+relationship of the housing sector to urban growth.  
 
 *This is a good place for a discussion on Glaeser, Gyourko, Hsieh & Moretti, in
 the context of Regulationist and supply-side explanations for urban growth
