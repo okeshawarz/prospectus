@@ -11,6 +11,10 @@ abstract: This prospectus poses three questions in the field of urban political 
 
 The world is urban. 
 
+*talk a bit more about lefebvre and urban relations here.*
+*also, talk about the different problems in which land and geography*
+*show up. A brief intro to land and space.*
+
 The urban revolution dreamt of by Lefebvre is, for the most part, well under
 way. This is true in a literal sense, as the global *physical* urban population
 rises dramatically, but more to the geographer's point-- urban social relations
@@ -40,25 +44,14 @@ geography conferences, garnering a markedly lukewarm reception.] in the 1980s
 represented an early attempt to bring questions of space into economic theory by
 way of models adapted from international trade theory.
 
-*What is urban capitalism, as Lefebvre defines it? How does this make the
-concept spatiality have meaning? What does it mean for control over land?
-Finally, how do I bring this back into economics proper?*
-
-[...]
-
-In sum, the main principles that guide this dissertation are ones drawn from
-geography and classical political economy. The first: land, and the notion of
-control over space, has an independent existence as a factor of consumption
-and production that cannot simply be subsumed under the dynamics of capital
-or wealth. Second: Land and housing are related but distinct commodities under
-urban capitalism, with the first being marked by being relatively fixed in
-quantity, and the latter being marked by an extraordinarily long lifespan. As
-@proost2019 remark: 
+The rapid shift in the spatial awareness, so to speak, of economics, has become
+such that @proost2019, very firmly in the neoclassical camp, begin themselves to
+sound like the radical geographers: 
 
 > Space is the substratum of human affairs, but  it  is  also  a  consumption
 > and  production  good  in  the  form  of  land.  The  worldwide  supply of
 > land is perfectly inelastic but vastly exceeds  the  demand  for  it.
-> Therefore,  put-ting  aside  the  agricultural  land  rent,  the  price  of
+> Therefore,  putting  aside  the  agricultural  land  rent,  the  price  of
 > land  should  be  zero.  Yet,  housing  costs may be very high and vary
 > enormously with  the  size  and  composition  of  cities  for  reasons  that
 > do  not  depend  on  the  quality  of  the  housing  structure. 
@@ -80,6 +73,9 @@ interact with workers and landlords in order to produce a given spatial
 structure, spatial hierarchy, and income distribution. This will consist of
 both a review of the history of economic thought on land rents and a
 theoretical argument regarding the role of urban growth on rents and wages.
+*What is urban capitalism, as Lefebvre defines it? How does this make the
+concept spatiality have meaning? What does it mean for control over land?
+Finally, how do I bring this back into economics proper?*
 
 In the next essay, I intend to apply the theoretical framework developed in the
 first essay to the case of urban growth in San Francisco. The city has several
