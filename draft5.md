@@ -9,7 +9,7 @@ abstract: This prospectus poses three questions in the field of urban political 
 
 # Introduction: Centering Space in Political Economy
 
-The world is urban. 
+The world is urban.
 
 *talk a bit more about lefebvre and urban relations here.*
 *also, talk about the different problems in which land and geography*
@@ -18,7 +18,7 @@ The world is urban.
 The urban revolution dreamt of by Lefebvre is, for the most part, well under
 way. This is true in a literal sense, as the global *physical* urban population
 rises dramatically, but more to the geographer's point-- urban social relations
-have become generalized. 
+have become generalized.
 
 This prospectus outlines a proposal for three essays on the themes of urban
 growth, distribution, rents, and housing policy in the United States. The
@@ -34,7 +34,7 @@ of its own "spatial turn" in recent years. Looking at growth and welfare
 across different states, regions, cities, and even zip codes, recent research
 has found striking amounts of heterogeneity and divergence with respect to
 economic outcomes. It has become clear that questions of space and geography
-have are becoming more and more central to the basic questions of economics. 
+have are becoming more and more central to the basic questions of economics.
 Research like @ganong2017 has looked at the causes of income divergence
 between metropolitan regions in the United States. @chetty2014 looks at the
 variance in inter-generational economic mobility between commuting zones. The
@@ -46,7 +46,7 @@ way of models adapted from international trade theory.
 
 The rapid shift in the spatial awareness, so to speak, of economics, has become
 such that @proost2019, very firmly in the neoclassical camp, begin themselves to
-sound like the radical geographers: 
+sound like the radical geographers:
 
 > Space is the substratum of human affairs, but  it  is  also  a  consumption
 > and  production  good  in  the  form  of  land.  The  worldwide  supply of
@@ -54,7 +54,7 @@ sound like the radical geographers:
 > Therefore,  putting  aside  the  agricultural  land  rent,  the  price  of
 > land  should  be  zero.  Yet,  housing  costs may be very high and vary
 > enormously with  the  size  and  composition  of  cities  for  reasons  that
-> do  not  depend  on  the  quality  of  the  housing  structure. 
+> do  not  depend  on  the  quality  of  the  housing  structure.
 
 It is precisely this relationship, between the geographic unevenness of the
 scale of human activity (i.e., the agglomeration of cities), the price of land
@@ -114,7 +114,7 @@ following @dube2010. This essay is intended to causally identify the impacts of
 rent control on the housing supply, rental supply, and neighborhood stability.
 This essay is intended to provide more evidence on the debate over the
 appropriate policy to take in order to maintain housing affordability in U.S.
-cities. 
+cities.
 
 Taken together, these three essays represent a contribution to the
 understanding the function of landownership and land rents in influencing the
@@ -175,7 +175,7 @@ the supply of housing through either new construction or upzoning existing
 neighborhoods for greater density), then rents should *ceteris paribus* fall.
 
 Much of the recent urban economics literature has focused on particularly the
-relationship of the housing sector to urban growth.  
+relationship of the housing sector to urban growth.
 
 *This is a good place for a discussion on Glaeser, Gyourko, Hsieh & Moretti, in
 the context of Regulationist and supply-side explanations for urban growth
@@ -185,7 +185,7 @@ Of course, *ceteris* is never *paribus*, and the most confounding feature comes
 from the nature of cities themselves: they are an increasing-returns phenomenon,
 and the expansion of a city itself may be a function of the desirability and
 productivity of that city. In other words, when a city grows, the expansion of
-the housing supply may not result in a decrease in rents. 
+the housing supply may not result in a decrease in rents.
 
 Let us pursue this line a bit further. I ask here another deceptively simple
 question: why do we live in cities in the first place? Why not simply live in
@@ -193,7 +193,7 @@ relatively undifferentiated gradations of density and transportation networks
 that sprawl over the available area? This question, at the root of the fields of
 urban economics, sociology, geography, planning, and many others, still remains
 elusive. Especially so in economics, as the (somewhat dated, but still quite
-relevant) quote at the beginning of this introduction suggests.  
+relevant) quote at the beginning of this introduction suggests.
 
 As mentioned in the introduction to this proposal, questions regarding land
 and land rents were central to the questions of economics for centuries prior
@@ -332,7 +332,7 @@ be linear, and so it is not clear how accurate the imputations of rents are;
 and, the methodology used in 1) matching names to property records and 2)
 matching names to races may be subject to all sorts of biases and omissions.
 Additionally, the structural spatial equilibrium model is subject to the same
-critiques of spatial equilibrium models in general outlined in chapter 2. 
+critiques of spatial equilibrium models in general outlined in chapter 2.
 
 My most major critique, and where I feel that this essay contributes the most to
 the literature, is that this study may have serious problems with external
@@ -364,7 +364,7 @@ local level, where tenants formed a sizable political bloc. At the state level,
 the coalition becomes much weaker. Question 9 was passed by a margin of 51-49;
 the three rent-controlled towns overwhelmingly voted against, while many of the
 never-controlled towns voted for.]. After the passage of Question 9, almost all
-housing units in the three cities became decontrolled on January 1, 1995. 
+housing units in the three cities became decontrolled on January 1, 1995.
 
 Sims uses public data from the American Housing Survey to estimate the impact of
 the removal of rent control on several housing characteristics, including the
@@ -372,7 +372,7 @@ quantity of rental housing, the level of rent and housing costs, unit quality,
 and the length of renter tenure. He uses a DID identification strategy to
 compare Census zones in the Boston MSA that experienced decontrol to those that
 never experienced rent control, using a model with zone and year fixed effects
-and controlling for housing unit characteristics. 
+and controlling for housing unit characteristics.
 
 To test spillover effects of rent decontrol, Sims uses an instrumental variable
 strategy that takes a value of 1 if the unit was *in a zone* that was ever under
@@ -382,7 +382,7 @@ indicator (which was excluded from rent control), pre-treatment year indicator,
 and controlled-zone indicator. In other words, finding the effect of decontrol
 on 2-family homes in controlled zones should provide for the identification of
 spillover effects, since these units were never under control. The author
-similarly constructs IVs for other forms of never-controlled housing. 
+similarly constructs IVs for other forms of never-controlled housing.
 
 Sims finds that the end of rent control had little effect on the construction of
 new housing. He further found evidence that rent control decreases the available
@@ -393,7 +393,7 @@ housing units. He also finds insignificant negative effects of rent control on
 indicators of physical housing unit condition, but unsurprisingly, significant
 increases in rent charged after decontrol. Finally, he finds that rent
 controlled units had much longer tenure times, pointing to the neighborhood
-stability effects of rent control. 
+stability effects of rent control.
 
 @autor2014 also examine the effects of the passage of Question 9 in
 Massachusetts in the context of spillover effects. The authors were less
@@ -411,7 +411,7 @@ purely the exogenous variation in control status can be identified neatly^[Note
 here a possible source of exogeneity: age of the housing stock is likely not
 random, and in fact is likely to be 1) spatially correlated [@glaeser2014a], and
 2) NPV of the housing stock, itself affected by rent-controlled status, is
-   dependent on the age of the structure. I return to this point later.]. 
+   dependent on the age of the structure. I return to this point later.].
 
 The authors identified two major channels through which rent decontrol may have
 affected the market values of residential properties. The authors term the first
@@ -450,7 +450,7 @@ A.  **How does rent control impact the supply of housing?** -- Most of the the
     However, it is quite plausible that the direction of causation runs in the
     opposite direction-- the implementation of rent control by a particular
     electorate might be a *response* to growth in rents and evictions, caused by
-    one of the factors identified in the previous chapters. 
+    one of the factors identified in the previous chapters.
 
 B.  **What is the direction of causation?** -- Do rent controls cause rents to
     increase, or do increasing rents cause the imposition of rent controls?
@@ -486,7 +486,7 @@ C.  **To what extent does rent control impact neighborhood stability and access*
     particular resident would be displaced to if the area were not rent
     controlled. In a descriptive way, this essay can look at migrations and
     evictions that occured as a result of blanket rent control bans by state
-    governments. 
+    governments.
 
 These will hereafter be referred to as *Question A*, *Question B*, and *Question
 C*. In answering questions A and B, I take direct inspiration from the recent
@@ -510,7 +510,7 @@ the scale of the study. As such, the first necessary piece of data is a database
 of all municipal rent control laws in the country, their date of enactment,
 their date of expiration (if any), and the existence of any vacancy decontrol
 provisions. Since legislation is a matter of public record, this database should
-only require a bit of legwork to construct. 
+only require a bit of legwork to construct.
 
 The second set of data I require is a panel data set of (ideally) individual
 housing units, their date of construction, whether they are owned or rented,
@@ -537,7 +537,7 @@ by including both controlled and non-controlled areas. @sims2007 takes this
 approach, by using geographic levels that are not congruent with political
 boundaries, and in the absence of granular data, I will follow this approach as
 well. More details on the specific methodology are provided in the appropriate
-section. 
+section.
 
 ### US Rental Housing Finance Survey
 
@@ -568,7 +568,7 @@ avoided by using publicly available data on property values. Finally, using this
 dataset provides a limitation on the rent control policies that can be
 evaluated; the RHFS was conducted three times, in 2012, 2015, and 2018. This
 means that this strategy can only be employed for cities that enacted the policy
-within that time period. 
+within that time period.
 
 ### American Housing Survey
 
@@ -585,11 +585,11 @@ aggregation). This was the approach used by @diamond2018, where a change in rent
 control laws to suddenly incorporate multi-family housing units of a certain age
 under the law was used as a quasi-random treatment effect. This is the empirical
 strategy I will follow if the restricted-use national data from the RHFS becomes
-available in a reasonable amount of time. 
+available in a reasonable amount of time.
 
 If not, then I will instead follow an approach similar to @sims2007, which used
 the smallest geographic level available in the AHS; the zone. A zone is defined
-in the AHS codebook as follows: 
+in the AHS codebook as follows:
 
 >Zone codes are only available in the metropolitan files.  A zone is defined for
 >the AHS only as a socio-economically homogeneous area of more than 100,000
@@ -598,7 +598,7 @@ in the AHS codebook as follows:
 >Census tracts.  A zone may follow the boundaries of a county or cover a portion
 >of a county.  It may also cover several counties or townships or portion of
 >several counties.  The areas in a zone are not always adjacent.  The limited
->sample size in each zone precludes reliable analysis of any single zone  
+>sample size in each zone precludes reliable analysis of any single zone
 
 My goal is to compare zones in which rent control is enacted to zones that
 can plausibly be considered as part of the same rental market that were never
@@ -615,22 +615,32 @@ possibility of ommitted variable variation bias. It might be possible to rectify
 this using a higher geographic level of aggregation (i.e., using county
 subdivisions or counties). The problem here is that the higher level of
 aggregation makes the assumption of similar land, housing, and labor markets
-much less plausible. 
+much less plausible.
 
-### Question A
+### Question A and B
 
-To answer Question A, I want to estimate equations of the general form 
+To answer Question A, I want to estimate equations of the general form
 
 $$ y_{iy} = \alpha_{jy} + \delta_{i} + \beta_t T_{i} + \epsilon\_{iy} $$
 
-if the RHFS data become available, or 
+if the RHFS data become available, or
 
 $$ y_{jy} = \alpha_{jy} + \beta_t T_{j} + \epsilon\_{iy}, $$
 
 for the contiguous-zone DD specification where, for household $i$, zone $j$,
 and year $y$, $y_{iy}$ is a vector of the outcome variables [total housing
 stock, total rental units, median rent, length of rental tenure], $\alpha$ is
-county/city fixed effects, and $\delta$ is housing unit fixed effects.
+county/city fixed effects, and $\delta$ is housing unit fixed effects. By
+using AHS data that extends back many years, this will allow a plausible
+causal identification; if growth in the outcome variables is markedly
+different in the treatment group than in the control group immediately
+following the enaction of rent control, we have good reason to believe that rent
+control *causes* that divergence in outcomes.
+
+
+
+
+
 \newpage
 
 # References
