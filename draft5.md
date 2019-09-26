@@ -30,7 +30,7 @@ of its own "spatial turn" in recent years. Looking at growth and welfare
 across different states, regions, cities, and even zip codes, recent research
 has found striking amounts of heterogeneity and divergence with respect to
 economic outcomes. It has become clear that questions of space and geography
-have are becoming more and more central to the basic questions of economics.
+have are becoming more and more central to the basic questions of economics. 
 Research like @ganong2017 has looked at the causes of income divergence
 between metropolitan regions in the United States. @chetty2014 looks at the
 variance in inter-generational economic mobility between commuting zones. The
@@ -50,21 +50,37 @@ In sum, the main principles that guide this dissertation are ones drawn from
 geography and classical political economy. The first: land, and the notion of
 control over space, has an independent existence as a factor of consumption
 and production that cannot simply be subsumed under the dynamics of capital
-or wealth.  
+or wealth. Second: Land and housing are related but distinct commodities under
+urban capitalism, with the first being marked by being relatively fixed in
+quantity, and the latter being marked by an extraordinarily long lifespan. As
+@proost2019 remark: 
 
-In the body of this dissertation prospectus, I will outline my plan for
+> Space is the substratum of human affairs, but  it  is  also  a  consumption
+> and  production  good  in  the  form  of  land.  The  worldwide  supply of
+> land is perfectly inelastic but vastly exceeds  the  demand  for  it.
+> Therefore,  put-ting  aside  the  agricultural  land  rent,  the  price  of
+> land  should  be  zero.  Yet,  housing  costs may be very high and vary
+> enormously with  the  size  and  composition  of  cities  for  reasons  that
+> do  not  depend  on  the  quality  of  the  housing  structure. 
+
+It is precisely this relationship, between the geographic unevenness of the
+scale of human activity (i.e., the agglomeration of cities), the price of land
+and its associated necessity for any human activity, including production of
+commodities and the re-production of the labor force, that this dissertation
+will investigate. In the body of this prospectus, I will outline my plan for
 further research on the role of land and rents in urban economics. In the
 first essay, I will develop a theoretical framework based on classical
 formulations of the land and housing questions to investigate the
 relationship between urban growth, land rents, and wages. I will begin by
 developing the concept of urban space as theorized by the radical geography
-tradition and relating it to the classical political economy though
+tradition and relating it to the classical political economy thought
 surrounding land and land rents, beginning with Adam Smith. I intend to
 demonstrate the ways in which the urban (productive) capitalist sector
 interact with workers and landlords in order to produce a given spatial
 structure, spatial hierarchy, and income distribution. This will consist of
 both a review of the history of economic thought on land rents and a
 theoretical argument regarding the role of urban growth on rents and wages.
+
 In the next essay, I intend to apply the theoretical framework developed in the
 first essay to the case of urban growth in San Francisco. The city has several
 features that make it an interesting case study. First, it has rapidly
@@ -477,7 +493,151 @@ C.  **To what extent does rent control impact neighborhood stability and access*
     governments. 
 
 These will hereafter be referred to as *Question A*, *Question B*, and *Question
-C*. 
+C*. In answering questions A and B, I take direct inspiration from the recent
+minimum wage debates in the empirical labor literature. I wish to compare growth
+in rents and the housing supply in a particular treatment group vs. those in a
+well-defined control group. The details of the selection of each group will be
+discussed further in the Methodology section.
+
+## Data
+
+The first step in this investigation is to choose the appropriate scale. Diamond
+et. al, Autor et. al, and Sims all relied on single-city case studies focused
+around a single change in the rent control law. In the case of Diamond et. al's
+study, the source of exogenous variation was a very narrow change that brought a
+section of the housing stock under new rent control, which was followed almost
+immediately afterwards by a broader, statewide change in the law that had
+attenuating effects on the phenomena under consideration. In all three
+questions, the narrowness of focus draws questions about external validity. This
+essay attempts to bypass those questions by narrowing the scope and broadening
+the scale of the study. As such, the first necessary piece of data is a database
+of all municipal rent control laws in the country, their date of enactment,
+their date of expiration (if any), and the existence of any vacancy decontrol
+provisions. Since legislation is a matter of public record, this database should
+only require a bit of legwork to construct. 
+
+The second set of data I require is a panel data set of (ideally) individual
+housing units, their date of construction, whether they are owned or rented,
+rent charged, and household size. Granular data at the level of the household
+would allow for a ready quasi-experiment with city, year, and household-level
+fixed effects.
+
+However, such granular individual data on rents and occupancy are quite
+difficult to come by. The few studies that have done so have relied on
+proprietary data from data-mining companies (e.g. Diamond et. al) or on
+restricted-use versions of U.S. Census data [@desmond2019a] that provide
+household-level samples. In absence of such data, I will opt to use a
+difference-in-difference approach at a higher geographic level, using Census
+surveys that provide data on housing (the American Community Survey and the
+American Housing Survey). The goal with this strategy will be to provide
+geographies that are plausibly similar in characteristics such as housing
+demand, income and income growth, etc. where a subset of these are subject to
+the treatment effect (in this case, rent control). This approach presents some
+difficulties, however; rent controls are enacted at the local level, while the
+smallest local-federal consistent geographic level is the *county*. In other
+words, analysis at the tract level would result in many tracts being split at
+the city border, while analysis at the *county* level inhibits identification
+by including both controlled and non-controlled areas. @sims2007 takes this
+approach, by using geographic levels that are not congruent with political
+boundaries, and in the absence of granular data, I will follow this approach as
+well. More details on the specific methodology are provided in the appropriate
+section. 
+
+### US Rental Housing Finance Survey
+
+The RHFS is the only recent, nationally representative survey of property
+owners. The survey was conducted in 2012 and 2015. It uses a stratified
+random-selection procedure to conduct its sample. The first two strata
+created were: 1) all large cities (with more than 100,000 housing units)
+and 2) a random selection of smaller cities and rural areas. Second, four
+other strata were created: properties with 1) 2-4 units, 2) 5-24 units, 3)
+25-49 units, and 3) over 50 units. Multiunit rental property addresses
+were identified from the Census Master Address File and randomly selected
+from each of the eight strata. This procedure produced a representative
+survey of multifamily rental properties across the United States. The
+restricted version of the dataset is geocoded to provide locations for
+each building used in the sample. The RHFS excluded prefabricated homes,
+mobile homes, public housing, and single-unit rental properties. This last
+element, which includes condominiums, may pose a bias risk as mentioned
+above.
+
+The RHFS asked a battery of questions about housing finance,
+property values, expenses, and revenue, including: mortgages, landlord
+expenses (including property taxes, insurance payments, utilities,
+property management fees, maintenance, security, and repairs), potential
+rent revenues, and actual rent revenues. The survey bases property values
+on property owners' responses, which could introduce bias if landlords
+systematically over- or under-value their properties. This bias can be
+avoided by using publicly available data on property values. Finally, using this
+dataset provides a limitation on the rent control policies that can be
+evaluated; the RHFS was conducted three times, in 2012, 2015, and 2018. This
+means that this strategy can only be employed for cities that enacted the policy
+within that time period. 
+
+### American Housing Survey
+
+## Methodology
+
+To explore the effects of rent control on various housing and neighborhood
+characteristics, I will employ the *difference-in-differences* empirical
+strategy. This requires a panel data set of repeated observations over time. The
+regressor of interest is a variable that varies at the group or aggregate level
+over time given a treatment; in this case, whether or not the housing unit was
+subject to rent control (if at the household level) or if units in the
+geographic area were subject to rent control (if at a higher level of
+aggregation). This was the approach used by @diamond2018, where a change in rent
+control laws to suddenly incorporate multi-family housing units of a certain age
+under the law was used as a quasi-random treatment effect. This is the empirical
+strategy I will follow if the restricted-use national data from the RHFS becomes
+available in a reasonable amount of time. 
+
+If not, then I will instead follow an approach similar to @sims2007, which used
+the smallest geographic level available in the AHS; the zone. A zone is defined
+in the AHS codebook as follows: 
+
+>Zone codes are only available in the metropolitan files.  A zone is defined for
+>the AHS only as a socio-economically homogeneous area of more than 100,000
+>people.  It does not necessarily correspond to a geographic subdivision,
+>although in almost all cases each identified zone is equivalent to a group of
+>Census tracts.  A zone may follow the boundaries of a county or cover a portion
+>of a county.  It may also cover several counties or townships or portion of
+>several counties.  The areas in a zone are not always adjacent.  The limited
+>sample size in each zone precludes reliable analysis of any single zone  
+
+My goal is to compare zones in which rent control is enacted to zones that
+can plausibly be considered as part of the same rental market that were never
+controlled during that interval. Following @dube2010, I will take the
+approach of using contiguous zones with the assumption that employment and
+housing markets do not vary widely between zones. The cross-border effects of
+rent-control are not well-understood yet, so this may be a possible source of
+bias. The benefit to using the AHS data is that the Public Use Microdata are
+available going back several decades, making it possible to test many more
+implementations of the policy over time. The drawback is that any controlled
+zone is likely to be bordered by several uncontrolled zones, meaning that
+control sample is much larger than the treatment sample, introducing a greater
+possibility of ommitted variable variation bias. It might be possible to rectify
+this using a higher geographic level of aggregation (i.e., using county
+subdivisions or counties). The problem here is that the higher level of
+aggregation makes the assumption of similar land, housing, and labor markets
+much less plausible. 
+
+### Question A
+
+To answer Question A, I want to estimate equations of the general form 
+
+$$ y_{iy} = \alpha_{jy} + \delta_{i} + \beta_t T_{i} + \epsilon\_{iy} $$
+
+if the RHFS data become available, or 
+
+$$ y_{jy} = \alpha_{jy} + \beta_t T_{j} + \epsilon\_{iy}, $$
+
+for the contiguous-zone DD specification where, for household $i$, zone $j$, and
+year $y$, $y_{iy}$ is a vector of the outcome
+variables [total housing stock, total rental units, median rent, length of
+rental tenure], $\alpha$ is county/city fixed effects, and $\delta$ is
+housing unit fixed effects.
+
+
 
 \newpage
 
