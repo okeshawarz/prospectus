@@ -177,9 +177,9 @@ neighborhoods for greater density), then rents should *ceteris paribus* fall.
 Much of the recent urban economics literature has focused on particularly the
 relationship of the housing sector to urban growth.
 
-*This is a good place for a discussion on Glaeser, Gyourko, Hsieh & Moretti, in
-the context of Regulationist and supply-side explanations for urban growth
-constraints*
+*This is a good place for a discussion on Glaeser, Gyourko, Hsieh & Moretti, in*
+*the context of Regulationist and supply-side explanations for urban growth*
+*constraints*
 
 Of course, *ceteris* is never *paribus*, and the most confounding feature comes
 from the nature of cities themselves: they are an increasing-returns phenomenon,
@@ -232,6 +232,35 @@ develop these into a formal theoretical presentation.
 
 
 ## Literature Review: Capitalist Urbanism, Capitalists on Urbanism
+
+## Methodology and Conclusion
+
+In this essay, I intend to proceed as follows: I begin with a more comprehensive
+review of the contemporary literature in urban economics, as a jump-off point to
+the issues of urbanization, housing, and rents. I then focus on a detailed
+history of economic thought on the topics of land rents and urbanization,
+focusing primarily on the thinking of Marx and George, along with the respective
+literatures that they began. Finally, I condense this into a classical
+presentation of a theoretical relationship between wages, profits, rents, and
+urbanization. The intent of this essay is summed up by the following conjecture:
+
+Cities are, by nature, an increasing-returns phenomenon. In light of that
+fact, when cities become more dense, it may be the case that the productivity
+of cities increases, leading to higher relocations of firms, and greater
+demand for land and housing within the city. Given the peculiar nature of the
+land commodity, this has implications for many feature of urban growth. For
+example, if increased density increases the amount captured by landlords, in
+other words, increases rents, then the market urbanist prescription of simply
+upzoning and constructing more market-rate housing may result in an increase
+in housing supply without any decrease in rents. Additionally, the long-lived
+nature of the housing commodity, and the increasing costs of building to density
+mean that out-of-equilibrium dynamics of urban economies become highly
+important. It doesn't seem likely that, even if we grant the assumptions of the
+canonical spatial equilibrium model, that land and housing markets adjust as
+quickly as labor markets do, especially in the case of an urban *decline*-- the
+Rust Belt is evidence of cities that were once highly productive, with
+relatively high wages, and now have land and housing once highly valuable but
+are now no longer so.
 
 # On Growth and Housing in San Francisco
 
