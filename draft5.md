@@ -627,14 +627,10 @@ if the RHFS data become available, or
 
 $$ y_{jy} = \alpha_{jy} + \beta_t T_{j} + \epsilon\_{iy}, $$
 
-for the contiguous-zone DD specification where, for household $i$, zone $j$, and
-year $y$, $y_{iy}$ is a vector of the outcome
-variables [total housing stock, total rental units, median rent, length of
-rental tenure], $\alpha$ is county/city fixed effects, and $\delta$ is
-housing unit fixed effects.
-
-
-
+for the contiguous-zone DD specification where, for household $i$, zone $j$,
+and year $y$, $y_{iy}$ is a vector of the outcome variables [total housing
+stock, total rental units, median rent, length of rental tenure], $\alpha$ is
+county/city fixed effects, and $\delta$ is housing unit fixed effects.
 \newpage
 
 # References
