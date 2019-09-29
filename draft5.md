@@ -433,7 +433,7 @@ relaxed. Their identification strategy relies on the fact that both controlled
 and never-controlled apartments stood "side-by-side in Cambridge neighborhoods
 on the eve of rent control removal thus offering a tight temporal and geographic
 framework for assessing the impact of the law on residential prices. In other
-words, since the features of rent-controlled apartments (non-owner0occupied
+words, since the features of rent-controlled apartments (non-owner-occupied
 houses, condominiums, or apartments built prior to 1969) were distributed
 essentially randomly throughout the Cambridge housing stock, the effects of
 purely the exogenous variation in control status can be identified neatly^[Note
@@ -498,31 +498,13 @@ B.  **What is the direction of causation?** -- Do rent controls cause rents to
     coincided with an apparent nationwide shift in the balance of power away from
     tenants and towards landlords.].
 
-C.  **To what extent does rent control impact neighborhood stability and access**
-    **to public goods?** -- Aside from questions of housing supply and efficiency,
-    the empirical literature is in relative agreement on the role of rent
-    control in allowing tenants to remain in their homes^[except in cases with
-    vacancy decontrol, which incentivizes landlords to evict]. Aside from
-    utility directly obtained from not being evicted (and correspondingly for
-    the landlord, having a long-term, stable tenant), it might be the case that
-    in the face of highly place-based amenities and mobility effects (e.g.
-    @chetty2014), rent control may allow access to public amenities (e.g. public
-    schools) that allow for higher intergenerational mobility. For example--
-    does living in a reng-controlled neighborhood preserve access to
-    institutions that allow for mobility among those who would otherwise be
-    trapped in low-mobility environments? This type of question would be, in
-    principle, rather difficult to answer, as it requires determining where a
-    particular resident would be displaced to if the area were not rent
-    controlled. In a descriptive way, this essay can look at migrations and
-    evictions that occured as a result of blanket rent control bans by state
-    governments.
 
-These will hereafter be referred to as *Question A*, *Question B*, and *Question
-C*. In answering questions A and B, I take direct inspiration from the recent
-minimum wage debates in the empirical labor literature. I wish to compare growth
-in rents and the housing supply in a particular treatment group vs. those in a
-well-defined control group. The details of the selection of each group will be
-discussed further in the Methodology section.
+These will hereafter be referred to as *Question A* and *Question B*. In
+answering questions A and B, I take direct inspiration from the recent
+minimum wage debates in the empirical labor literature. I wish to compare
+growth in rents and the housing supply in a particular treatment group vs.
+those in a well-defined control group. The details of the selection of each
+group will be discussed further in the Methodology section.
 
 ## Data
 
@@ -629,42 +611,27 @@ in the AHS codebook as follows:
 >several counties.  The areas in a zone are not always adjacent.  The limited
 >sample size in each zone precludes reliable analysis of any single zone
 
-My goal is to compare zones in which rent control is enacted to zones that
-can plausibly be considered as part of the same rental market that were never
-controlled during that interval. Following @dube2010, I will take the
-approach of using contiguous zones with the assumption that employment and
-housing markets do not vary widely between zones. The cross-border effects of
-rent-control are not well-understood yet, so this may be a possible source of
-bias. The benefit to using the AHS data is that the Public Use Microdata are
-available going back several decades, making it possible to test many more
-implementations of the policy over time. The drawback is that any controlled
-zone is likely to be bordered by several uncontrolled zones, meaning that
-control sample is much larger than the treatment sample, introducing a greater
-possibility of ommitted variable variation bias. It might be possible to rectify
-this using a higher geographic level of aggregation (i.e., using county
-subdivisions or counties). The problem here is that the higher level of
-aggregation makes the assumption of similar land, housing, and labor markets
-much less plausible.
 
-### Question A and B
+The logic behind this approach is relatively straightforward. My goal is to
+compare zones in which rent control is enacted to zones that can plausibly be
+considered as part of the same rental market that were never controlled
+during that interval. Since a metropolitan area consists of many such zones,
+some of which fell under rent control and some of which did not, this
+approach can be considered as a type of generalized case study approach
+(following @dube2010) evaluating the impacts of rent controls in each
+metropolitan area. 
 
-To answer Question A, I want to estimate equations of the general form
+To answer Question A, I want to estimate equations of the general form 
 
-$$ y_{iy} = \alpha_{jy} + \delta_{i} + \beta_t T_{i} + \epsilon\_{iy} $$
+$$ y_{ijy} =  \delta_{jy} + \alpha_{jy} + \beta_t T_{ijy} + \epsilon_{iy}, $$
 
-if the RHFS data become available, or
-
-$$ y_{jy} = \alpha_{jy} + \beta_t T_{j} + \epsilon\_{iy}, $$
-
-for the contiguous-zone DD specification where, for household $i$, zone $j$,
-and year $y$, $y_{iy}$ is a vector of the outcome variables [total housing
-stock, total rental units, median rent, length of rental tenure], $\alpha$ is
-county/city fixed effects, and $\delta$ is housing unit fixed effects. By
-using AHS data that extends back many years, this will allow a plausible
-causal identification; if growth in the outcome variables is markedly
-different in the treatment group than in the control group immediately
-following the enaction of rent control, we have good reason to believe that rent
-control *causes* that divergence in outcomes.
+for the metropolitan-level DD specification where, for zone $j$ in
+metropolitan area $i$, and year $y$, $y_{iy}$ is a vector of the outcome
+variables [total housing stock, total rental units, median rent, length of
+rental tenure], $\alpha$ is zone fixed effects, $\delta$ is housing unit
+fixed effects, and $\epsilon$ is year fixed effects. T_{ijy} is a dummy variable
+that takes the value 1 if the zone was subject to rent control during year *y*
+and 0 otherwise.  
 
 
 
