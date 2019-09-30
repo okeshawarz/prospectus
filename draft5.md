@@ -210,7 +210,9 @@ Chicago.
 
 This essay is an attempt to engage some of the insights of classical economic
 thought on land and land-rents in answering modern economic questions of
-growth and distribution. I intend to incorporate some of the contributions of
+growth and distribution; although the study of landlords and rents was central
+to the focus of political economy, the study of housing rents and urban real
+estate is conspicuously absent. I intend to incorporate some of the contributions of
 radical geography, particularly notions of *space*, *spatiality,* and
 *spatial hierarchies.* It is important to note here that I will largely be
 talking about *land*, which is only a subset of *spatial relations* that
