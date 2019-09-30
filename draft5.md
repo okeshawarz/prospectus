@@ -2,23 +2,13 @@
 title: Three Essays on Urban Economics
 author: Osman Keshawarz
 toc: true
+toc-depth: 2
 numbersections: true
 bibliography: [prospectus.bib]
 abstract: This prospectus poses three questions in the field of urban political economy. The first is a theoretical question on the relationship between urban growth, density, wages, profits, and rents, based on classical political economy treatments of the land question. The second is a historical-descriptive question that attempts to apply the theoretical insights of the first chapter to the recent burst of growth and subsequent crisis of housing in San Francisco, California. The final question is an empirical study on the impacts of rent control laws in the United States.
 ---
 
 # Introduction: Centering Space in Political Economy
-
-The world is urban.
-
-*talk a bit more about lefebvre and urban relations here.*
-*also, talk about the different problems in which land and geography*
-*show up. A brief intro to land and space.*
-
-The urban revolution dreamt of by Lefebvre is, for the most part, well under
-way. This is true in a literal sense, as the global *physical* urban population
-rises dramatically, but more to the geographer's point-- urban social relations
-have become generalized.
 
 This prospectus outlines a proposal for three essays on the themes of urban
 growth, distribution, rents, and housing policy in the United States. The
@@ -37,12 +27,19 @@ economic outcomes. It has become clear that questions of space and geography
 have are becoming more and more central to the basic questions of economics.
 Research like @ganong2017 has looked at the causes of income divergence
 between metropolitan regions in the United States. @chetty2014 looks at the
-variance in inter-generational economic mobility between commuting zones. The
+variance in inter-generational economic mobility between commuting zones.
+Much of the work urban and spatial economics is based on spatial general
+equilibrium models, whose primary functions are 1) determining optimal city
+size, and 2) determining optimal locations for firms and workers. The
+neoclassical spatial model relies on equilibrium conditions where no city
+resident or firm could be better off by changing locations. There is also a
 "New Economic Geography" literature begun by Paul Krugman^["New" in the sense
 of new to economics-- Paul Krugman regularly presented his work on NEG at
 geography conferences, garnering a markedly lukewarm reception.] in the 1980s
-represented an early attempt to bring questions of space into economic theory by
-way of models adapted from international trade theory.
+represented an early attempt to bring questions of space into economic theory
+by way of models adapted from international trade theory; these largely
+attempted to explain geographic heterogeneity using North-South models of
+trade.
 
 The rapid shift in the spatial awareness, so to speak, of economics, has become
 such that @proost2019, very firmly in the neoclassical camp, begin themselves to
@@ -168,18 +165,11 @@ account of growth and distribution in an urban economy.
 >important economic role. I think I replied “Cities” –to be greeted with a stare
 >of incomprehension. [@krugman2011a]
 
-This essay is motivated by a deceptively simple question: When cities expand,
+This essay is motivated by a deceptively simple question: When cities grow,
 do rents rise or do they fall? The simple Economics 101 answer is that of
 course, when more space is brought into the urban system (by, e.g., expanding
 the supply of housing through either new construction or upzoning existing
 neighborhoods for greater density), then rents should *ceteris paribus* fall.
-
-Much of the recent urban economics literature has focused on particularly the
-relationship of the housing sector to urban growth.
-
-*This is a good place for a discussion on Glaeser, Gyourko, Hsieh & Moretti, in*
-*the context of Regulationist and supply-side explanations for urban growth*
-*constraints*
 
 Of course, *ceteris* is never *paribus*, and the most confounding feature comes
 from the nature of cities themselves: they are an increasing-returns phenomenon,
@@ -233,7 +223,274 @@ how do urban agglomerative effects interact with rents?). After that, I will
 develop these into a formal theoretical presentation.
 
 
-## Literature Review: Capitalist Urbanism, Capitalists on Urbanism
+## Literature Review 
+
+
+Much of the recent urban economics literature on growth has focused on two
+things: human capital theories of urban growth (including skill-biased technical
+change and sorting) and the effects of housing-supply constraints. All of these
+rely broadly on spatial equilibrium models and "spatial mismatch" explanations--
+in other words, some factor is preventing labor and investment from being
+directed to its most efficient location. 
+
+@moretti2013 begins with observations on the vast inter-city inequalities that
+had begun to emerge at the turn of the millennium. He identifies significant and
+persistent heterogeneity in American economic geography, but points out that
+only recently has the heterogeneity been driven by high rates of human capital
+(as measured by college degree attainment) in so-called skilled cities. His
+theory of urban agglomeration is centered around knowledge spillovers; a
+consequence of this is that if the gains to knowledge spillovers are high, then
+a city with a "small-firm" ecosystem will tend to do better, pay higher wages,
+and grow more, than a city with a "large-firm" ecosystem. However, growth in
+productivity will, absent growth in the housing stock, will tend to drive up
+rents, leading to declines in inter-city mobility and a skill-sorting
+equilibrium where human capital is drained out of declining cities. Indeed,
+@ganong2017 has found that both income divergence and migration between cities
+has declined since the 90s, and @giannone2017 fits Census data to a structural
+spatial equilibrium model to show that skill-biased technical change explains in
+part the decline in regional income convergence-- in essence low-skilled workers
+become "trapped" in low-skilled cities. @hsieh2019 estimates the
+effects of housing restrictions on inter-city mobility and finds that they
+reduced aggergate U.S. growth by 50% over the period 1964-2009.
+
+In their 2002 paper, Glaeser and Gyourko use the divergence between housing prices and construction costs to show that prices in certain markets are much higher than they "should" be. Under the perfect-competition assumptions of the spatial equilibrium model, this is perfectly valid; any distortions such that prices do not equal marginal costs should be the result of market failure or government intervention. However, it is not clear to me that the construction industry can be called perfectly competitive, especially in densely-built urban sectors. 
+
+The few empirical papers that have been done on the topic of land rents have
+found mixed results. @freemark2019 finds no evidence that supply-side
+policies (in particular, zoning for greater density in Chicago) do not
+necessarily result in the reduction of rents or the expansion of the housing
+stock (let alone the expansion of the supply of *affordable* housing).
+Finally, the effects identified by @agarwal2019 are precisely the phenomenon
+that this essay wishes to investigate: they find that 5 years after an
+increase in the minimum wage in 25 states, rent increases had absorbed almost
+the entirety of the increased income.
+
+Finally, Knoll et. al also find that 87% of housing price shifts in the United
+States during the last century can be attributed to changes in the price of
+land. So it is again unclear whether we can attribute prices in excess of
+marginal costs solely to regulation or something else. Here the spatial
+equilibrium approach is particularly poorly-suited to deal with the question of
+land, treating returns to land the same as capital income. Thus, I propose a
+re-spatialization of economics, using the classical approach with land as a
+separate factor of production as a base. 
+
+### Classical Views of Rent 
+
+Land rents emerged as a chief concern for the early study of political economy,
+though largely in the realm of agricultural production.
+@ricardo1821 began with the assumption that the quantity of land available for
+cultivation was fixed, and therefore itself had no price of production. He
+observed that land of different fertility levels produced different levels of
+output, and the most fertile land was generally the most limited in supply.
+Consider three plots of land $n_1,$ $n_2$, and $n_3$. Each $i$ plot yields,
+given identical inputs of labor and capital, an output of corn $x_1<x_2<x_3$.
+Each plot is owned by a landowner, who is paid a *rent* by a (capitalist)
+farmer, who then pays a wage $w$, and faces a market price of $p$. The profit
+earned on the marginal ("rent-free") land is then $r_1 = x_1p-w$. It is easy to
+see that a farmer on the worst plot of land would pay up to $r_2-r_1$ as rent to
+the landlord in order to earn $r_2$. This forms the basis of *Ricardian rent--*
+any surplus generated by land that is more productive than the marginal piece of
+land is captured by the landlord. Ricardo used this as the basis of his argument
+against the Corn Laws; as population (and the demand for food) increased, worse
+and worse marginal land would be brought into cultivation, causing differential
+rents to increase and profits to fall, choking out investment. The solution, in
+abolishing the Corn Laws, was to essentially re-locate the most marginal land
+under cultivation to any farmland in the world. 
+
+Marx's discussion of ground-rent is spread throughout *Capital Vols. II,
+III*, and *Theories of Surplus Value.* Following Ricardo, Marx also deals
+primarily with the case of rents in agriculture and mining, paid to a class
+of landlords by a class of capitalists. We can make use of @resnick1989's
+framework here and think of the insitution of land ownership as a *subsumed
+class process*, where the surplus value generated by the productive sector is
+then distributed to the landlord class as a condition for the existence of
+the *fundamental class process* (i.e., the direct extraction of surplus
+value). Marx begins with the premise that "landed property is based on the
+monopoly by certain persons over definite portions of the globe, as exclusive
+spheres of their private will to the exclusion of all others." Under
+capitalist relations, the relationship between the landlord and the
+industrial capitalist "... totally separates land as an instrument of
+production from landed property and landowner-- *for whom the land merely
+represents a certain money assessment which he collects by virtue of his
+monopoly from the industrial capitalist*, the capitalist farmer..." (emphasis
+added). In other words, land becomes an expression of monetary value, which
+represents a claim on the production generated by the capitalist by virtue of
+the institution of private property. In other words, ownership of the land
+represents a *claim* on *future productivity* of that land. @basu2018
+remarks: "Under capitalist relations of production... limited quantity and
+private ownership of the non-produced resource come together to create
+impediments to the free movement to capital into [the sector taking the
+non-produced resource as an input]. That creates the basis for the emergence
+of rent^[this formulation may have some interesting extensions into the
+production process for commodities whose reproduction costs are essentially
+zero, for example software.].
+
+In addition to Ricardian differential rent as noted above, Marx added to this
+notion a second form of differential rent that emerged from different quantities
+of capital invested on different plots of land, and in addition to this, the
+notion of *absolute rent:*
+
+>Assuming then that demand requires the taking up of new land which is,
+>say,less fertile than that previously cultivated, will the owner of this land
+>lease it for nothing just because the market price of its product has risen
+>high enough for capital investment to pay the farmer the price of production
+>and thus yield him the customary profit? In no way. The capital investment
+>must yield him a rent.He leases only when a lease-price can be paid. @marx1991
+
+Absolute rent represents the distribution of surplus value to the subsumed
+class process. Since landowners have monopoly control over the disposal of
+their property, landlords can capture enough surplus from the capitalist as
+rent, such that the capitalist is forced to earn the average economy-wide
+rate of profit. Following Basu, we begin with a definition of surplus profit
+in agriculture on the $i$th plot of land and economy-wide average profit $\alpha$:
+
+$$SP_i = (c_i + v_i)r_i - (c_i + v_i)\alpha,$$
+
+$$DRI_i=(c_i+v_i)(r_i-r_1)$$
+
+$$DRII_i=[(c_i+v_i)-(c_1+v_1)](r_1-\alpha)$$
+
+$$AR=(c_1+v_1)(r-\alpha),$$
+
+where total ground-rent becomes 
+
+$$GR_i=DRI_i+DRII_i+AR_i= (c_i+v_i)r_i-(c_i+v_i)\alpha = (c_i+v_i)(r_i-\alpha).$$
+
+Thus, the absolute rent on a particular plot of land is related to the rate
+of profit on the individual plot of land and the economy-wide rate of profit.
+It is important here to note three points: Marx and Ricardo both analyzed
+agricultural production, with differential rents arising from different
+levels of fertility. They both mention "locational advantage" as other forms
+of differential productivity, but what this means and how it works was not
+elucidated. Second, this section deals primarily with land as a direct input
+into production, i.e., as *commercial* real estate. Neither Marx nor Ricardo
+deal with *residential* real estate, which does not enter directly into the
+production of commodities, but indirectly as an input to the production of
+*labor-power.* In this case, private landownership still functions as a
+subsumed class process, a necessary condition of existence for capitalist
+production, but the relationship between *wages* and ground-rents are not
+discussed-- in this formulation, rents simply appear as a transfer from the
+capitalist class to the landowning class, and the existence of a private
+market in land existed fundamentally as a barrier to the accumulation of
+*capital,* rather than as a source of declining living-standards for the
+worker^[This was a point brought up by @lenin1907 in his criticism of the
+Narodniks: "The Narodnik thinks that repudiation of private landownership is
+repudiation of capitalism. That is wrong. The repudiation of private
+landownership expresses the demands for the purest capitalist development.
+And we have to revive in the minds of Marxists the, “forgotten words” of
+Marx, who criticised private landownership from the point of view of the
+conditions of capitalist economy...Consequently, the abolition of private
+landownership is the maximum that can be done in bourgeois society for the
+removal of all obstacles to the free investment of capital in agriculture and
+to the free flow of capital from one branch of production to another. The
+free, wide, and rapid development of capitalism, complete freedom for the
+class struggle, the disappearance of all superfluous intermediaries who make.
+agriculture something like the “sweated” industries—that is what
+nationalisation of the land implies under the capitalist system of
+production."]
+Finally, the mechanism for the
+extraction of absolute rent is not clearly defined-- can landlords really
+bargain away *the entirety* of superprofits in agriculture? What are the
+constraints on this process? How does it operate in the context of *urban* real
+estate? 
+
+**add a better section on Engels here**
+
+While Marx focused on the relationship between labor and capital in relatively
+land-scarce Europe, Henry George directed his analysis on the relationship
+between labor and land in the land-abundant United States. At the time, land
+interests were perceived as holding back the rapid industrialization of the
+United States. Mirroring the American Transcendentalists of his day, he held
+that land should either be held in common by all people, as "an endowment from
+God," [@george2015], or the entire value of bare land should be taxed away and
+used for public investment. 
+
+George was among the first to write about land rents in an explicitly urban
+context, in which both economies of scale and agglomeration play a role. The
+first arises, remarks @whitaker2001, from an increase in scope of the potential
+division of labor that comes with a general increase in population:
+
+>increased population,of itself, and without any advance in the arts, implies
+>an increase in the productive power of labor... with every additional pair of
+>hands which increasing population brings, there is a more than proportionate
+>addition to the productive power of labor. [@george2015]
+
+Whereas this scale affect arises simply from an increase in population, George
+also focuses on agglomeration effects that arise from the concentration of
+people in a specific, i.e., urban, area:
+
+>for the increased powers of co-operation and exchange which come with
+>increased >population are equivalent to-- nay, I think we can say without
+>metaphor, that they give an increased capacity to land. rings out a superior
+>power in labor, which is localized on land—- which attaches not to labor
+>generally, but only to labor exerted on particular land; and which thus
+>inheres in the land as much as any qualities of soil, climate, mineral
+>deposit, or natural situation, and passes, as they do, with the possession of
+>the land...
+
+In other words, the specialization that is afforded to production on a specific
+piece of dense urban land itself increases the productivity of that land in much
+the same way as a difference in natural fertility in the Ricardian story. And,
+as in the Ricardian story, the difference between the current "productivity" of
+the land and the surplus on the no-rent margin can be captured by landlords as
+differential rents. Thus, any action that increases the concentration of
+population in a particular urban space also increased the productivity of that
+space (what can we say about the "productivity" of a particular space?), but
+because of the nature of private land ownership, any gains to that productivity
+are captured by landlords. In other words, an additional worker that moves to an
+urban agglomeration has *external effects* on the productivity of other workers
+for which he or she is not compensated for by an increase in the wage, *and*
+that these gains are a pure redistribution away from the productive sector of
+the economy^[Marxist accounts of this, e.g. @harvey1974, point out that this
+need not be entirely redistributive; capitalist land markets do have an
+efficiency-enhancing function by directing production to its most *locationally*
+profitable use]. 
+
+The Henry George Theorem^[in its general form (Arnott 2004): "in any
+constrained Pareto optimal and nontrivial allocation of population in a
+spatial economy, the aggregate shadow losses from increasing returns to scale
+activities just equal the aggregate shadow profits from the decreasing
+returns to scale activities."], first formalized by @arnott1979, is now a
+staple of public finance. It shows that, under certain conditions, aggregate
+spending on public goods will increase aggregate rent based on land value by
+at least that amount, thereby leading to calculations of optimal city sizes,
+among other things. Technical discussion of the HGT and its implications are
+beyond the scope of this essay, but the salient point I wish to focus on is
+that the theorem highlights the _externality_ problem facing urban planners
+and would-be city dwellers: each landlord's absolute control over their own
+personal fiefdom allows them to accrue external benefits from both public
+*and private actions* undertaken outside their property; for George the idea
+really was that *any* locationally-specific increase in productivity would we
+bargained away into land rents. Again, the question arises-- what are the
+parameters of this value capture? George was limited by his analysis of the
+relationship between labor and capital-- for him, the ratio of wages to
+profits remained constant, and they both rose and fell in the same proportion
+in the face of rising or falling rents. One of the questions this
+dissertation intends to address is, if land rents are the result of
+distributional conflict between land and labor, how does this affect (and is
+affected by) the distributional conflict between labor and capital^[Marx
+famously commented harshly on the Georgist Single Tax Movement, writing in a
+letter to Friedrich Sorge "All these “socialists” since Colins have this much in
+common that they leave wage labour and therefore capitalist production in
+existence and try to bamboozle themselves or the world into believing that if
+ground rent were transformed into a state tax all the evils of capitalist
+production would disappear of themselves. The whole thing is therefore simply an
+attempt, decked out with socialism, to save capitalist domination and indeed to
+establish it afresh on an even wider basis than its present one."]?
+
+In George's own words: 
+
+>To recapitulate: The effect of increasing population upon the distribution of
+>wealth is to increase rent, and consequently to diminish the proportion of the
+>produce which goes to capital and labor, in two ways: First, by lowering the
+>margin of cultivation. Second, by bringing out in land special capabilities
+>otherwise latent, and by attaching special capabilities to particular lands. I
+>am disposed to think that the latter mode, to which little attention has been
+>given by political economists, is really the more important.
+
+On this point, the author of this dissertation proposal agrees.
+
+
 
 ## Methodology and Conclusion
 
@@ -435,7 +692,7 @@ relaxed. Their identification strategy relies on the fact that both controlled
 and never-controlled apartments stood "side-by-side in Cambridge neighborhoods
 on the eve of rent control removal thus offering a tight temporal and geographic
 framework for assessing the impact of the law on residential prices. In other
-words, since the features of rent-controlled apartments (non-owner0occupied
+words, since the features of rent-controlled apartments (non-owner-occupied
 houses, condominiums, or apartments built prior to 1969) were distributed
 essentially randomly throughout the Cambridge housing stock, the effects of
 purely the exogenous variation in control status can be identified neatly^[Note
@@ -500,31 +757,13 @@ B.  **What is the direction of causation?** -- Do rent controls cause rents to
     coincided with an apparent nationwide shift in the balance of power away from
     tenants and towards landlords.].
 
-C.  **To what extent does rent control impact neighborhood stability and access**
-    **to public goods?** -- Aside from questions of housing supply and efficiency,
-    the empirical literature is in relative agreement on the role of rent
-    control in allowing tenants to remain in their homes^[except in cases with
-    vacancy decontrol, which incentivizes landlords to evict]. Aside from
-    utility directly obtained from not being evicted (and correspondingly for
-    the landlord, having a long-term, stable tenant), it might be the case that
-    in the face of highly place-based amenities and mobility effects (e.g.
-    @chetty2014), rent control may allow access to public amenities (e.g. public
-    schools) that allow for higher intergenerational mobility. For example--
-    does living in a reng-controlled neighborhood preserve access to
-    institutions that allow for mobility among those who would otherwise be
-    trapped in low-mobility environments? This type of question would be, in
-    principle, rather difficult to answer, as it requires determining where a
-    particular resident would be displaced to if the area were not rent
-    controlled. In a descriptive way, this essay can look at migrations and
-    evictions that occured as a result of blanket rent control bans by state
-    governments.
 
-These will hereafter be referred to as *Question A*, *Question B*, and *Question
-C*. In answering questions A and B, I take direct inspiration from the recent
-minimum wage debates in the empirical labor literature. I wish to compare growth
-in rents and the housing supply in a particular treatment group vs. those in a
-well-defined control group. The details of the selection of each group will be
-discussed further in the Methodology section.
+These will hereafter be referred to as *Question A* and *Question B*. In
+answering questions A and B, I take direct inspiration from the recent
+minimum wage debates in the empirical labor literature. I wish to compare
+growth in rents and the housing supply in a particular treatment group vs.
+those in a well-defined control group. The details of the selection of each
+group will be discussed further in the Methodology section.
 
 ## Data
 
@@ -603,6 +842,26 @@ within that time period.
 
 ### American Housing Survey
 
+The American Housing Survey (AHS) is a sample survey of cities across the
+United States. The survey is at the level of the housing unit. The AHS
+provides data on housing unit characteristics such as rent, maintenance, and
+physical condition. Due to privacy concerns, the smallest available
+geographic level is the zone. A zone is defined in the AHS codebook as
+follows:
+
+>Zone codes are only available in the metropolitan files.  A zone is defined for
+>the AHS only as a socio-economically homogeneous area of more than 100,000
+>people.  It does not necessarily correspond to a geographic subdivision,
+>although in almost all cases each identified zone is equivalent to a group of
+>Census tracts.  A zone may follow the boundaries of a county or cover a portion
+>of a county.  It may also cover several counties or townships or portion of
+>several counties.  The areas in a zone are not always adjacent.  The limited
+>sample size in each zone precludes reliable analysis of any single zone 
+
+Thus, following @sims2007, I will use the zone as the basis of the analysis,
+and the empirical question will become the effects of being in a
+rent-controlled zone vs being in a non rent-controlled zone.
+
 ## Methodology
 
 To explore the effects of rent control on various housing and neighborhood
@@ -619,58 +878,28 @@ strategy I will follow if the restricted-use national data from the RHFS becomes
 available in a reasonable amount of time.
 
 If not, then I will instead follow an approach similar to @sims2007, which used
-the smallest geographic level available in the AHS; the zone. A zone is defined
-in the AHS codebook as follows:
+zone-level fixed effects. 
 
->Zone codes are only available in the metropolitan files.  A zone is defined for
->the AHS only as a socio-economically homogeneous area of more than 100,000
->people.  It does not necessarily correspond to a geographic subdivision,
->although in almost all cases each identified zone is equivalent to a group of
->Census tracts.  A zone may follow the boundaries of a county or cover a portion
->of a county.  It may also cover several counties or townships or portion of
->several counties.  The areas in a zone are not always adjacent.  The limited
->sample size in each zone precludes reliable analysis of any single zone
+The logic behind this approach is relatively straightforward. My goal is to
+compare zones in which rent control is enacted to zones that can plausibly be
+considered as part of the same rental market that were never controlled
+during that interval. Since a metropolitan area consists of many such zones,
+some of which fell under rent control and some of which did not, this
+approach can be considered as a type of generalized case study approach
+(following @dube2010) evaluating the impacts of rent controls in each
+metropolitan area. 
 
-My goal is to compare zones in which rent control is enacted to zones that
-can plausibly be considered as part of the same rental market that were never
-controlled during that interval. Following @dube2010, I will take the
-approach of using contiguous zones with the assumption that employment and
-housing markets do not vary widely between zones. The cross-border effects of
-rent-control are not well-understood yet, so this may be a possible source of
-bias. The benefit to using the AHS data is that the Public Use Microdata are
-available going back several decades, making it possible to test many more
-implementations of the policy over time. The drawback is that any controlled
-zone is likely to be bordered by several uncontrolled zones, meaning that
-control sample is much larger than the treatment sample, introducing a greater
-possibility of ommitted variable variation bias. It might be possible to rectify
-this using a higher geographic level of aggregation (i.e., using county
-subdivisions or counties). The problem here is that the higher level of
-aggregation makes the assumption of similar land, housing, and labor markets
-much less plausible.
+To answer Question A, I want to estimate equations of the general form 
 
-### Question A and B
+$$ y_{ijy} =  \delta_{jy} + \alpha_{jy} + \beta_t T_{ijy} + \epsilon_{iy}, $$
 
-To answer Question A, I want to estimate equations of the general form
-
-$$ y_{iy} = \alpha_{jy} + \delta_{i} + \beta_t T_{i} + \epsilon\_{iy} $$
-
-if the RHFS data become available, or
-
-$$ y_{jy} = \alpha_{jy} + \beta_t T_{j} + \epsilon\_{iy}, $$
-
-for the contiguous-zone DD specification where, for household $i$, zone $j$,
-and year $y$, $y_{iy}$ is a vector of the outcome variables [total housing
-stock, total rental units, median rent, length of rental tenure], $\alpha$ is
-county/city fixed effects, and $\delta$ is housing unit fixed effects. By
-using AHS data that extends back many years, this will allow a plausible
-causal identification; if growth in the outcome variables is markedly
-different in the treatment group than in the control group immediately
-following the enaction of rent control, we have good reason to believe that rent
-control *causes* that divergence in outcomes.
-
-
-
-
+for the metropolitan-level DD specification where, for zone $j$ in
+metropolitan area $i$, and year $y$, $y_{iy}$ is a vector of the outcome
+variables [total housing stock, total rental units, median rent, length of
+rental tenure], $\alpha$ is zone fixed effects, $\delta$ is housing unit
+fixed effects, and $\epsilon$ is year fixed effects. T_{ijy} is a dummy variable
+that takes the value 1 if the zone was subject to rent control during year *y*
+and 0 otherwise. 
 
 \newpage
 
