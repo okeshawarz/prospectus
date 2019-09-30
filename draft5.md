@@ -223,7 +223,7 @@ how do urban agglomerative effects interact with rents?). After that, I will
 develop these into a formal theoretical presentation.
 
 
-## Literature Review 
+## Literature Review
 
 
 Much of the recent urban economics literature on growth has focused on two
@@ -231,7 +231,7 @@ things: human capital theories of urban growth (including skill-biased technical
 change and sorting) and the effects of housing-supply constraints. All of these
 rely broadly on spatial equilibrium models and "spatial mismatch" explanations--
 in other words, some factor is preventing labor and investment from being
-directed to its most efficient location. 
+directed to its most efficient location.
 
 @moretti2013 begins with observations on the vast inter-city inequalities that
 had begun to emerge at the turn of the millennium. He identifies significant and
@@ -253,7 +253,14 @@ become "trapped" in low-skilled cities. @hsieh2019 estimates the
 effects of housing restrictions on inter-city mobility and finds that they
 reduced aggergate U.S. growth by 50% over the period 1964-2009.
 
-In their 2002 paper, Glaeser and Gyourko use the divergence between housing prices and construction costs to show that prices in certain markets are much higher than they "should" be. Under the perfect-competition assumptions of the spatial equilibrium model, this is perfectly valid; any distortions such that prices do not equal marginal costs should be the result of market failure or government intervention. However, it is not clear to me that the construction industry can be called perfectly competitive, especially in densely-built urban sectors. 
+In their 2002 paper, Glaeser and Gyourko use the divergence between housing
+prices and construction costs to show that prices in certain markets are much
+higher than they "should" be. Under the perfect-competition assumptions of
+the spatial equilibrium model, this is perfectly valid; any distortions such
+that prices do not equal marginal costs should be the result of market
+failure or government intervention. However, it is not clear to me that the
+construction industry can be called perfectly competitive, especially in
+densely-built urban sectors.
 
 The few empirical papers that have been done on the topic of land rents have
 found mixed results. @freemark2019 finds no evidence that supply-side
@@ -272,9 +279,9 @@ marginal costs solely to regulation or something else. Here the spatial
 equilibrium approach is particularly poorly-suited to deal with the question of
 land, treating returns to land the same as capital income. Thus, I propose a
 re-spatialization of economics, using the classical approach with land as a
-separate factor of production as a base. 
+separate factor of production as a base.
 
-### Classical Views of Rent 
+### Classical Views of Rent
 
 Land rents emerged as a chief concern for the early study of political economy,
 though largely in the realm of agricultural production.
@@ -295,7 +302,7 @@ against the Corn Laws; as population (and the demand for food) increased, worse
 and worse marginal land would be brought into cultivation, causing differential
 rents to increase and profits to fall, choking out investment. The solution, in
 abolishing the Corn Laws, was to essentially re-locate the most marginal land
-under cultivation to any farmland in the world. 
+under cultivation to any farmland in the world.
 
 Marx's discussion of ground-rent is spread throughout *Capital Vols. II,
 III*, and *Theories of Surplus Value.* Following Ricardo, Marx also deals
@@ -352,7 +359,7 @@ $$DRII_i=[(c_i+v_i)-(c_1+v_1)](r_1-\alpha)$$
 
 $$AR=(c_1+v_1)(r-\alpha),$$
 
-where total ground-rent becomes 
+where total ground-rent becomes
 
 $$GR_i=DRI_i+DRII_i+AR_i= (c_i+v_i)r_i-(c_i+v_i)\alpha = (c_i+v_i)(r_i-\alpha).$$
 
@@ -392,7 +399,7 @@ Finally, the mechanism for the
 extraction of absolute rent is not clearly defined-- can landlords really
 bargain away *the entirety* of superprofits in agriculture? What are the
 constraints on this process? How does it operate in the context of *urban* real
-estate? 
+estate?
 
 **add a better section on Engels here**
 
@@ -403,7 +410,7 @@ interests were perceived as holding back the rapid industrialization of the
 United States. Mirroring the American Transcendentalists of his day, he held
 that land should either be held in common by all people, as "an endowment from
 God," [@george2015], or the entire value of bare land should be taxed away and
-used for public investment. 
+used for public investment.
 
 George was among the first to write about land rents in an explicitly urban
 context, in which both economies of scale and agglomeration play a role. The
@@ -444,7 +451,7 @@ that these gains are a pure redistribution away from the productive sector of
 the economy^[Marxist accounts of this, e.g. @harvey1974, point out that this
 need not be entirely redistributive; capitalist land markets do have an
 efficiency-enhancing function by directing production to its most *locationally*
-profitable use]. 
+profitable use].
 
 The Henry George Theorem^[in its general form (Arnott 2004): "in any
 constrained Pareto optimal and nontrivial allocation of population in a
@@ -478,7 +485,7 @@ production would disappear of themselves. The whole thing is therefore simply an
 attempt, decked out with socialism, to save capitalist domination and indeed to
 establish it afresh on an even wider basis than its present one."]?
 
-In George's own words: 
+In George's own words:
 
 >To recapitulate: The effect of increasing population upon the distribution of
 >wealth is to increase rent, and consequently to diminish the proportion of the
@@ -542,6 +549,10 @@ Francisco. In many ways, it is a story about the structural transformation of
 the technology economy, and how its rapid growth affected the demographic and
 incomes of the population on the one hand, and housing costs and urban structure
 on the other hand.
+
+# Introduction
+
+For Edward @soja
 
 # Rent Control Revisited: Is it Good, Actually?
 
@@ -856,7 +867,7 @@ follows:
 >Census tracts.  A zone may follow the boundaries of a county or cover a portion
 >of a county.  It may also cover several counties or townships or portion of
 >several counties.  The areas in a zone are not always adjacent.  The limited
->sample size in each zone precludes reliable analysis of any single zone 
+>sample size in each zone precludes reliable analysis of any single zone
 
 Thus, following @sims2007, I will use the zone as the basis of the analysis,
 and the empirical question will become the effects of being in a
@@ -878,7 +889,7 @@ strategy I will follow if the restricted-use national data from the RHFS becomes
 available in a reasonable amount of time.
 
 If not, then I will instead follow an approach similar to @sims2007, which used
-zone-level fixed effects. 
+zone-level fixed effects.
 
 The logic behind this approach is relatively straightforward. My goal is to
 compare zones in which rent control is enacted to zones that can plausibly be
@@ -887,9 +898,9 @@ during that interval. Since a metropolitan area consists of many such zones,
 some of which fell under rent control and some of which did not, this
 approach can be considered as a type of generalized case study approach
 (following @dube2010) evaluating the impacts of rent controls in each
-metropolitan area. 
+metropolitan area.
 
-To answer Question A, I want to estimate equations of the general form 
+To answer Question A, I want to estimate equations of the general form
 
 $$ y_{ijy} =  \delta_{jy} + \alpha_{jy} + \beta_t T_{ijy} + \epsilon_{iy}, $$
 
@@ -899,7 +910,7 @@ variables [total housing stock, total rental units, median rent, length of
 rental tenure], $\alpha$ is zone fixed effects, $\delta$ is housing unit
 fixed effects, and $\epsilon$ is year fixed effects. T_{ijy} is a dummy variable
 that takes the value 1 if the zone was subject to rent control during year *y*
-and 0 otherwise. 
+and 0 otherwise.
 
 \newpage
 
