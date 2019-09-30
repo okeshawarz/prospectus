@@ -2,6 +2,7 @@
 title: Three Essays on Urban Economics
 author: Osman Keshawarz
 toc: true
+toc-depth: 2
 numbersections: true
 bibliography: [prospectus.bib]
 abstract: This prospectus poses three questions in the field of urban political economy. The first is a theoretical question on the relationship between urban growth, density, wages, profits, and rents, based on classical political economy treatments of the land question. The second is a historical-descriptive question that attempts to apply the theoretical insights of the first chapter to the recent burst of growth and subsequent crisis of housing in San Francisco, California. The final question is an empirical study on the impacts of rent control laws in the United States.
