@@ -26,12 +26,19 @@ economic outcomes. It has become clear that questions of space and geography
 have are becoming more and more central to the basic questions of economics.
 Research like @ganong2017 has looked at the causes of income divergence
 between metropolitan regions in the United States. @chetty2014 looks at the
-variance in inter-generational economic mobility between commuting zones. The
+variance in inter-generational economic mobility between commuting zones.
+Much of the work urban and spatial economics is based on spatial general
+equilibrium models, whose primary functions are 1) determining optimal city
+size, and 2) determining optimal locations for firms and workers. The
+neoclassical spatial model relies on equilibrium conditions where no city
+resident or firm could be better off by changing locations. There is also a
 "New Economic Geography" literature begun by Paul Krugman^["New" in the sense
 of new to economics-- Paul Krugman regularly presented his work on NEG at
 geography conferences, garnering a markedly lukewarm reception.] in the 1980s
-represented an early attempt to bring questions of space into economic theory by
-way of models adapted from international trade theory.
+represented an early attempt to bring questions of space into economic theory
+by way of models adapted from international trade theory; these largely
+attempted to explain geographic heterogeneity using North-South models of
+trade.
 
 The rapid shift in the spatial awareness, so to speak, of economics, has become
 such that @proost2019, very firmly in the neoclassical camp, begin themselves to
@@ -163,15 +170,6 @@ course, when more space is brought into the urban system (by, e.g., expanding
 the supply of housing through either new construction or upzoning existing
 neighborhoods for greater density), then rents should *ceteris paribus* fall.
 
-
-
-Much of the recent urban economics literature has focused on particularly the
-relationship of the housing sector to urban growth.
-
-*This is a good place for a discussion on Glaeser, Gyourko, Hsieh & Moretti, in*
-*the context of Regulationist and supply-side explanations for urban growth*
-*constraints*
-
 Of course, *ceteris* is never *paribus*, and the most confounding feature comes
 from the nature of cities themselves: they are an increasing-returns phenomenon,
 and the expansion of a city itself may be a function of the desirability and
@@ -224,14 +222,35 @@ develop these into a formal theoretical presentation.
 
 ## Literature Review 
 
-The dominant view of the mainstream literature on urban economics and rents in
-particular is that high rents are largely a result of restrictions on the supply
-of housing [@glaeser2008; @ganong2017; @hsieh2015]. Broadly, most of this
-literature is concerned with "spatial misallocation," in which skill-biased
-technical change in the urban sector drives high-skilled migration to a few
-"superstar cities," where the supply of housing is constricted by incumbent
-landowners who continually vote to undersupply housing to new entrants in the
-form of restrictive zoning. 
+
+Much of the recent urban economics literature on growth has focused on two
+things: human capital theories of urban growth (including skill-biased technical
+change and sorting) and the effects of housing-supply constraints. All of these
+rely broadly on spatial equilibrium models and "spatial mismatch" explanations--
+in other words, some factor is preventing labor and investment from being
+directed to its most efficient location. 
+
+@moretti2013 begins with observations on the vast inter-city inequalities that
+had begun to emerge at the turn of the millennium. He identifies significant and
+persistent heterogeneity in American economic geography, but points out that
+only recently has the heterogeneity been driven by high rates of human capital
+(as measured by college degree attainment) in so-called skilled cities. His
+theory of urban agglomeration is centered around knowledge spillovers; a
+consequence of this is that if the gains to knowledge spillovers are high, then
+a city with a "small-firm" ecosystem will tend to do better, pay higher wages,
+and grow more, than a city with a "large-firm" ecosystem. However, growth in
+productivity will, absent growth in the housing stock, will tend to drive up
+rents, leading to declines in inter-city mobility and a skill-sorting
+equilibrium where human capital is drained out of declining cities. Indeed,
+@ganong2017 has found that both income divergence and migration between cities
+has declined since the 90s, and @giannone2017 fits Census data to a structural
+spatial equilibrium model to show that skill-biased technical change explains in
+part the decline in regional income convergence-- in essence low-skilled workers
+become "trapped" in low-skilled cities. @hsieh2019 estimates the
+effects of housing restrictions on inter-city mobility and finds that they
+reduced aggergate U.S. growth by 50% over the period 1964-2009.
+
+In their 2002 paper, Glaeser and Gyourko use the divergence between housing prices and construction costs to show that prices in certain markets are much higher than they "should" be. Under the perfect-competition assumptions of the spatial equilibrium model, this is perfectly valid; any distortions such that prices do not equal marginal costs should be the result of market failure or government intervention. However, it is not clear to me that the construction industry can be called perfectly competitive, especially in densely-built urban sectors. 
 
 The few empirical papers that have been done on the topic of land rents have
 found mixed results. @freemark2019 finds no evidence that supply-side
@@ -242,6 +261,15 @@ Finally, the effects identified by @agarwal2019 are precisely the phenomenon
 that this essay wishes to investigate: they find that 5 years after an
 increase in the minimum wage in 25 states, rent increases had absorbed almost
 the entirety of the increased income.
+
+Finally, Knoll et. al also find that 87% of housing price shifts in the United
+States during the last century can be attributed to changes in the price of
+land. So it is again unclear whether we can attribute prices in excess of
+marginal costs solely to regulation or something else. Here the spatial
+equilibrium approach is particularly poorly-suited to deal with the question of
+land, treating returns to land the same as capital income. Thus, I propose a
+re-spatialization of economics, using the classical approach with land as a
+separate factor of production as a base. 
 
 ### Classical Views of Rent 
 
@@ -325,19 +353,39 @@ where total ground-rent becomes
 
 $$GR_i=DRI_i+DRII_i+AR_i= (c_i+v_i)r_i-(c_i+v_i)\alpha = (c_i+v_i)(r_i-\alpha).$$
 
-Thus, the absolute rent on a particular plot of land is related to the rate of
-profit on the individual plot of land and the economy-wide rate of profit. It is
-important here to note three points: Marx and Ricardo both analyzed agricultural
-production, with differential rents arising from different levels of fertility.
-They both mention "locational advantage" as other forms of differential
-productivity, but what this means and how it works was not elucidated. Second,
-this section deals primarily with land as a direct input into production, i.e.,
-as *commercial* real estate. Neither Marx nor Ricardo deal with *residential*
-real estate, which does not enter directly into the production of commodities,
-but indirectly as an input to the production of *labor-power.* In this case,
-private landownership still functions as a subsumed class process, a necessary
-condition of existence for capitalist production, but the relationship between
-*wages* and ground-rents are not discussed. Finally, the mechanism for the
+Thus, the absolute rent on a particular plot of land is related to the rate
+of profit on the individual plot of land and the economy-wide rate of profit.
+It is important here to note three points: Marx and Ricardo both analyzed
+agricultural production, with differential rents arising from different
+levels of fertility. They both mention "locational advantage" as other forms
+of differential productivity, but what this means and how it works was not
+elucidated. Second, this section deals primarily with land as a direct input
+into production, i.e., as *commercial* real estate. Neither Marx nor Ricardo
+deal with *residential* real estate, which does not enter directly into the
+production of commodities, but indirectly as an input to the production of
+*labor-power.* In this case, private landownership still functions as a
+subsumed class process, a necessary condition of existence for capitalist
+production, but the relationship between *wages* and ground-rents are not
+discussed-- in this formulation, rents simply appear as a transfer from the
+capitalist class to the landowning class, and the existence of a private
+market in land existed fundamentally as a barrier to the accumulation of
+*capital,* rather than as a source of declining living-standards for the
+worker^[This was a point brought up by @lenin1907 in his criticism of the
+Narodniks: "The Narodnik thinks that repudiation of private landownership is
+repudiation of capitalism. That is wrong. The repudiation of private
+landownership expresses the demands for the purest capitalist development.
+And we have to revive in the minds of Marxists the, “forgotten words” of
+Marx, who criticised private landownership from the point of view of the
+conditions of capitalist economy...Consequently, the abolition of private
+landownership is the maximum that can be done in bourgeois society for the
+removal of all obstacles to the free investment of capital in agriculture and
+to the free flow of capital from one branch of production to another. The
+free, wide, and rapid development of capitalism, complete freedom for the
+class struggle, the disappearance of all superfluous intermediaries who make.
+agriculture something like the “sweated” industries—that is what
+nationalisation of the land implies under the capitalist system of
+production."]
+Finally, the mechanism for the
 extraction of absolute rent is not clearly defined-- can landlords really
 bargain away *the entirety* of superprofits in agriculture? What are the
 constraints on this process? How does it operate in the context of *urban* real
@@ -417,7 +465,15 @@ profits remained constant, and they both rose and fell in the same proportion
 in the face of rising or falling rents. One of the questions this
 dissertation intends to address is, if land rents are the result of
 distributional conflict between land and labor, how does this affect (and is
-affected by) the distributional conflict between labor and capital?
+affected by) the distributional conflict between labor and capital^[Marx
+famously commented harshly on the Georgist Single Tax Movement, writing in a
+letter to Friedrich Sorge "All these “socialists” since Colins have this much in
+common that they leave wage labour and therefore capitalist production in
+existence and try to bamboozle themselves or the world into believing that if
+ground rent were transformed into a state tax all the evils of capitalist
+production would disappear of themselves. The whole thing is therefore simply an
+attempt, decked out with socialism, to save capitalist domination and indeed to
+establish it afresh on an even wider basis than its present one."]?
 
 In George's own words: 
 
