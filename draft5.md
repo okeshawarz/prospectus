@@ -363,43 +363,42 @@ where total ground-rent becomes
 
 $$GR_i=DRI_i+DRII_i+AR_i= (c_i+v_i)r_i-(c_i+v_i)\alpha = (c_i+v_i)(r_i-\alpha).$$
 
-Thus, the absolute rent on a particular plot of land is related to the rate
-of profit on the individual plot of land and the economy-wide rate of profit.
-It is important here to note three points: Marx and Ricardo both analyzed
-agricultural production, with differential rents arising from different
-levels of fertility. They both mention "locational advantage" as other forms
-of differential productivity, but what this means and how it works was not
-elucidated. Second, this section deals primarily with land as a direct input
-into production, i.e., as *commercial* real estate. Neither Marx nor Ricardo
-deal with *residential* real estate, which does not enter directly into the
-production of commodities, but indirectly as an input to the production of
-*labor-power.* In this case, private landownership still functions as a
-subsumed class process, a necessary condition of existence for capitalist
-production, but the relationship between *wages* and ground-rents are not
-discussed-- in this formulation, rents simply appear as a transfer from the
-capitalist class to the landowning class, and the existence of a private
-market in land existed fundamentally as a barrier to the accumulation of
-*capital,* rather than as a source of declining living-standards for the
-worker^[This was a point brought up by @lenin1907 in his criticism of the
-Narodniks: "The Narodnik thinks that repudiation of private landownership is
-repudiation of capitalism. That is wrong. The repudiation of private
-landownership expresses the demands for the purest capitalist development.
-And we have to revive in the minds of Marxists the, “forgotten words” of
-Marx, who criticised private landownership from the point of view of the
-conditions of capitalist economy...Consequently, the abolition of private
+Thus, the absolute rent on a particular plot of land is related to the
+rate of profit on the individual plot of land and the economy-wide rate of
+profit. It is important here to note three points: Marx and Ricardo both
+analyzed agricultural production, with differential rents arising from
+different levels of fertility. They both mention "locational advantage" as
+other forms of differential productivity, but what this means and how it
+works was not elucidated. Second, this section deals primarily with land
+as a direct input into production, i.e., as *commercial* real estate.
+Neither Marx nor Ricardo deal with *residential* real estate, which does
+not enter directly into the production of commodities, but indirectly as
+an input to the production of *labor-power.* In this case, private
+landownership still functions as a subsumed class process, a necessary
+condition of existence for capitalist production, but the relationship
+between *wages* and ground-rents are not discussed-- in this formulation,
+rents simply appear as a transfer from the capitalist class to the
+landowning class, and the existence of a private market in land existed
+fundamentally as a barrier to the accumulation of *capital,* rather than
+as a source of declining living-standards for the worker^[This was a point
+brought up by @lenin1907 in his criticism of the Narodniks: "The Narodnik
+thinks that repudiation of private landownership is repudiation of
+capitalism. That is wrong. The repudiation of private landownership
+expresses the demands for the purest capitalist development. And we have
+to revive in the minds of Marxists the, “forgotten words” of Marx, who
+criticised private landownership from the point of view of the conditions
+of capitalist economy...Consequently, the abolition of private
 landownership is the maximum that can be done in bourgeois society for the
-removal of all obstacles to the free investment of capital in agriculture and
-to the free flow of capital from one branch of production to another. The
-free, wide, and rapid development of capitalism, complete freedom for the
-class struggle, the disappearance of all superfluous intermediaries who make.
-agriculture something like the “sweated” industries—that is what
+removal of all obstacles to the free investment of capital in agriculture
+and to the free flow of capital from one branch of production to another.
+The free, wide, and rapid development of capitalism, complete freedom for
+the class struggle, the disappearance of all superfluous intermediaries
+who make. agriculture something like the “sweated” industries—that is what
 nationalisation of the land implies under the capitalist system of
-production."]
-Finally, the mechanism for the
-extraction of absolute rent is not clearly defined-- can landlords really
-bargain away *the entirety* of superprofits in agriculture? What are the
-constraints on this process? How does it operate in the context of *urban* real
-estate?
+production."] Finally, the mechanism for the extraction of absolute rent
+is not clearly defined-- can landlords really bargain away *the entirety*
+of superprofits in agriculture? What are the constraints on this process?
+How does it operate in the context of *urban* real estate?
 
 **add a better section on Engels here**
 
@@ -443,46 +442,61 @@ the land and the surplus on the no-rent margin can be captured by landlords as
 differential rents. Thus, any action that increases the concentration of
 population in a particular urban space also increased the productivity of that
 space (what can we say about the "productivity" of a particular space?), but
-because of the nature of private land ownership, any gains to that productivity
-are captured by landlords. In other words, an additional worker that moves to an
-urban agglomeration has *external effects* on the productivity of other workers
-for which he or she is not compensated for by an increase in the wage, *and*
-that these gains are a pure redistribution away from the productive sector of
-the economy^[Marxist accounts of this, e.g. @harvey1974, point out that this
-need not be entirely redistributive; capitalist land markets do have an
-efficiency-enhancing function by directing production to its most *locationally*
-profitable use].
+because of the nature of private land ownership, any gains to that
+productivity are captured by landlords; an additional worker that moves to
+an urban agglomeration has *external effects* on the productivity of other
+workers for which he or she is not compensated for by an increase in the
+wage, *and* that these gains are a pure redistribution away from the
+productive sector of the economy^[Marxist accounts of this, e.g.
+@harvey1974, point out that this need not be entirely redistributive;
+capitalist land markets do have an efficiency-enhancing function by
+directing production to its most *locationally* profitable use]. 
+
+It seems somewhat unreasonable that landlords are able to obtain the
+*entire* surplus, in a sort of Ultimatum Game equilibrium-- obviously
+workers are (sometimes!) made better off when productivity increases, and
+firms are able to make profit over and above the amount paid to rent.
+Likewise, rather than a new feudal class rising up and snuffing out
+corporate capital and impoverished workers, the gains to landed property
+ebb and flow, high in some areas and lower in others. If, as in the
+question of wages, the rent payment is determined by relative bargaining
+power, then what are the parameters of the bargaining problem? What
+strengthens land against labor and land against capital? At what point do
+their incentives align? These are questions that this essay intends to
+investigate. 
 
 The Henry George Theorem^[in its general form (Arnott 2004): "in any
-constrained Pareto optimal and nontrivial allocation of population in a
-spatial economy, the aggregate shadow losses from increasing returns to scale
-activities just equal the aggregate shadow profits from the decreasing
-returns to scale activities."], first formalized by @arnott1979, is now a
-staple of public finance. It shows that, under certain conditions, aggregate
-spending on public goods will increase aggregate rent based on land value by
-at least that amount, thereby leading to calculations of optimal city sizes,
-among other things. Technical discussion of the HGT and its implications are
-beyond the scope of this essay, but the salient point I wish to focus on is
-that the theorem highlights the _externality_ problem facing urban planners
-and would-be city dwellers: each landlord's absolute control over their own
+constrained Pareto optimal and nontrivial allocation of population in
+a spatial economy, the aggregate shadow losses from increasing returns to
+scale activities just equal the aggregate shadow profits from the
+decreasing returns to scale activities."], first formalized by
+@arnott1979, is now a staple of public finance. It shows that, under
+certain conditions, aggregate spending on public goods will increase
+aggregate rent based on land value by at least that amount, thereby
+leading to calculations of optimal city sizes, among other things.
+Technical discussion of the HGT and its implications are beyond the scope
+of this essay, but the salient point I wish to focus on is that the
+theorem highlights the _externality_ problem facing urban planners and
+would-be city dwellers: each landlord's absolute control over their own
 personal fiefdom allows them to accrue external benefits from both public
-*and private actions* undertaken outside their property; for George the idea
-really was that *any* locationally-specific increase in productivity would we
-bargained away into land rents. Again, the question arises-- what are the
-parameters of this value capture? George was limited by his analysis of the
-relationship between labor and capital-- for him, the ratio of wages to
-profits remained constant, and they both rose and fell in the same proportion
-in the face of rising or falling rents. One of the questions this
-dissertation intends to address is, if land rents are the result of
-distributional conflict between land and labor, how does this affect (and is
-affected by) the distributional conflict between labor and capital^[Marx
-famously commented harshly on the Georgist Single Tax Movement, writing in a
-letter to Friedrich Sorge "All these “socialists” since Colins have this much in
-common that they leave wage labour and therefore capitalist production in
-existence and try to bamboozle themselves or the world into believing that if
-ground rent were transformed into a state tax all the evils of capitalist
-production would disappear of themselves. The whole thing is therefore simply an
-attempt, decked out with socialism, to save capitalist domination and indeed to
+*and private actions* undertaken outside their property; for George the
+idea really was that *any* locationally-specific increase in productivity
+would we bargained away into land rents. Again, the question arises-- what
+are the parameters of this value capture? George was limited by his
+analysis of the relationship between labor and capital-- for him, the
+ratio of wages to profits remained constant, and they both rose and fell
+in the same proportion in the face of rising or falling rents. One of the
+questions this dissertation intends to address is, if land rents are the
+result of distributional conflict between land and labor, how does this
+affect (and is affected by) the distributional conflict between labor and
+capital^[Marx famously commented harshly on the Georgist Single Tax
+Movement, writing in a letter to Friedrich Sorge "All these “socialists”
+since Colins have this much in common that they leave wage labour and
+therefore capitalist production in existence and try to bamboozle
+themselves or the world into believing that if ground rent were
+transformed into a state tax all the evils of capitalist production would
+disappear of themselves. The whole thing is therefore simply an attempt,
+decked out with socialism, to save capitalist domination and indeed to
 establish it afresh on an even wider basis than its present one."]?
 
 In George's own words:
@@ -607,6 +621,11 @@ mobility to those households that would have otherwise been displaced by rising
 housing costs.
 
 ## Literature Review
+
+@pastor2018 provides a general overview of the recent empirical literature
+on rent control. They find that the literature is relatively
+straightforward on the effect of rent control on rents-- that is, rent
+control reduces rents for rent-regulated housing units. 
 
 @diamond2018 provides the most recent well-identified empirical analysis of rent
 control, and is the most similar in methodology and substance to this essay.
