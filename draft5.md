@@ -566,7 +566,18 @@ on the other hand.
 
 # Introduction
 
-For Edward @soja
+How do patterns of land ownership determine the Right to the City? for
+@soja2000, this  was perhaps one of the fundamental practical questions for
+thinking about the relationship between the social and the spatial. The
+historical phases of business cycles, crises, labor and capital movements all
+imprint themselves quite literally in the structures of the built environment.
+All of these historical phenomena affected and were affected by the development
+of urban cityspace (in both the sense of urban social relations in general and
+of the specific cases of particular cities), creating a sort of urban
+archaeology-- layers of bones and sinew upon which successive generations of
+spatial structures were built. 
+
+Soja uses the term *synekism* to refer to the "stimulus of urban agglomeration:" 
 
 # Rent Control Revisited: Is it Good, Actually?
 
