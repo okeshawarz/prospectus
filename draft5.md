@@ -14,32 +14,97 @@ This prospectus outlines a proposal for three essays on the themes of urban
 growth, distribution, rents, and housing policy in the United States. The
 overall motivation of this dissertation, in the broadest terms, is to
 understand how markets for land and housing (and their associated rents)
-under capitalist urbanism affect economic outcomes for those living and
-working in cities. Over the course of evaluating this question, this
-dissertation will touch upon questions of income and wealth inequality,
-agglomeration economies, growth theory, and housing policy.
+affect economic outcomes for those living and working in cities. Over the
+course of evaluating this question, this dissertation will touch upon
+questions of income and wealth inequality, agglomeration economies, growth
+theory, and housing policy.
 
-The discipline of Economics has, at long last, been going through something
-of its own "spatial turn" in recent years. Looking at growth and welfare
-across different states, regions, cities, and even zip codes, recent research
-has found striking amounts of heterogeneity and divergence with respect to
-economic outcomes. It has become clear that questions of space and geography
-have are becoming more and more central to the basic questions of economics.
-Research like @ganong2017 has looked at the causes of income divergence
-between metropolitan regions in the United States. @chetty2014 looks at the
-variance in inter-generational economic mobility between commuting zones.
-Much of the work urban and spatial economics is based on spatial general
-equilibrium models, whose primary functions are 1) determining optimal city
-size, and 2) determining optimal locations for firms and workers. The
-neoclassical spatial model relies on equilibrium conditions where no city
-resident or firm could be better off by changing locations. There is also a
-"New Economic Geography" literature begun by Paul Krugman^["New" in the sense
-of new to economics-- Paul Krugman regularly presented his work on NEG at
-geography conferences, garnering a markedly lukewarm reception.] in the 1980s
-represented an early attempt to bring questions of space into economic theory
-by way of models adapted from international trade theory; these largely
-attempted to explain geographic heterogeneity using North-South models of
-trade.
+The discipline of Economics has been going through something of its own
+"spatial turn," lagging somewhat embarassingly behind most of the other
+social sciences. It has become increasingly obvious that heterogeneity of
+outcomes across space, as well as time, is key to understanding crucial
+economic phenomena. In the past few years much has been made about "superstar
+cities," "superstar firms," and other high-powered agents within the American
+economy that seem to have distinct economic centers of gravity. At the same
+time, housing crises are being proclaimed in the most prosperous of American
+cities while others are still mired in stagnation and decay. The *spatiality* of
+American economic life is finally getting its own as problems of growth and
+decline are recognized as fundamentally place-linked. This dissertation is a
+contribution to the spatialization of economics. 
+
+@soja1980 conceived of a socio-spatial dialectic, where social relations
+shape spatial relations, which are in turn shaped by them. This shows up as an
+unevenness of social relations across space and scale, as people and production
+shift from rural to urban to suburban and back again, with concomitant shifts in
+social practice, political culture, and economic inequality. The tradition of
+radical geography, starting with @lefebvre2003, has always fundamentally been
+about the right to the city-- for whom does the city work for, and to whom does
+it belong? And further, for Soja, one of the key questions was "how do patterns
+of land ownership determine the right to the city?" It is broadly this question
+that my dissertation hopes to engage with. In fact, the essays outlined in this
+proposal are concerned with a proper subset of spatial relations, though perhaps
+the most obvious ones: land ownership and rents.  
+
+Land and land-rents, of course, have not always been relegated to the periphery
+of the economics discipline; it, and the problem of landed property, was a
+primary concern of the classical political economists. In *The Wealth of
+Nations*, Adam Smith writes:
+
+>Ground-rents, so far as they exceed the ordinary rent of land, are altogether
+>owing to the good government of the sovereign, which, by protecting the
+>industry of either the whole people, or of the inhabitants of some particular
+>place, enables them to pay so much more than its real value for the ground
+>which they build their houses upon... Nothing can be more reasonable than that
+>a fund, which owes its existence to the good government of the state should be
+>taxed peculiarly, or should contribute something more than the greater part of
+>other funds, towards the support of that government. 
+
+The peculiarity of the institution of land-ownership was well-known to the
+classics, Smith, Ricardo, and Marx. The existence of a monopoly on *space*,
+which is something of a fundamental condition of existence posed huge
+barriers to the well-organized accumulation of capital (Ricardo, for example,
+famously argued for the abolition of the Corn Laws, leading to the
+liquidation of the English landlords as a class). The tripartite division of
+the national product into wages, profits, and rents was a relatively
+uncontroversial tenet of political economy until John Bates Clark's marginal
+productivity theory, lacking any theory of land or land-rent, became the
+groundwork for the neoclassical school of economics. This precise bit of
+history of economic thought will be elaborated on further in Essay 1, but I
+mention it here because it informs the necessity of the contribution of this
+dissertation. 
+
+After land disappeared from the production function, it returned to the general
+equilibrium model through the work of Von Thunen [@harvey1981], who incorporated
+the ideas of distance and transportation costs. This later turned into the
+location theory of Hotelling, and the workhorse spatial equilibrium that is now
+standard in urban economic theory. In this model, markets (particularly for
+housing) are considered perfectly competitive, and workers and firms choose a
+location in equilibrium such that neither can be made better off by moving to a
+different location (hence the vigorous debate by authors such as @byrne2002 over
+whether gentrification is Good Actually). Neither space nor land have any
+existence in this view; they both merely reduce to *distance*, which appears
+merely as a transportation cost-- the "annihilation of space by time" @marx2005
+in a very real sense. There are no neighborhoods here (and hence, no reason to
+speak of neighborhood stability), and there are no landowners-- merely owners of
+a particular capital good that earn a return equal to that good's contribution
+to production. It is here that my dissertation proposes to make an intervention;
+this view misses a few very key points about urban economic processes because it
+is 1) aspatial, and 2) ahistorical. 
+
+I say that it is aspatial because space, to the extent that land appears, it is
+merely as a cost rather than a social relation. Specifically, ownership of land
+conveys a monopoly right of exclusion (within limits, of course, but these
+limits are *politically* determined). Land ownership also confers benefits
+wholly dependent on the social activity occurring on or around it, with the idea
+of the "marginal contribution" of land making little sense outside of the
+context of spatial relations (this was one of Henry George's key insights). I
+say that it is ahistorical because returns to scale and returns to agglomeration
+are clearly central phenomena in the existence of cities, and the existence of
+these mean a high sensitivity to initial conditions and perhaps even divergence
+as a generalized phenomenon^[I will note here that a separate literature on spatial relations in economics
+became prominent in the 80s, called "New Economic Geography" [@krugman2011a].
+This was an attempt to model increasing returns by cribbing North-South models
+of trade.]
 
 The rapid shift in the spatial awareness, so to speak, of economics, has become
 such that @proost2019, very firmly in the neoclassical camp, begin themselves to
@@ -70,9 +135,6 @@ interact with workers and landlords in order to produce a given spatial
 structure, spatial hierarchy, and income distribution. This will consist of
 both a review of the history of economic thought on land rents and a
 theoretical argument regarding the role of urban growth on rents and wages.
-*What is urban capitalism, as Lefebvre defines it? How does this make the
-concept spatiality have meaning? What does it mean for control over land?
-Finally, how do I bring this back into economics proper?*
 
 In the next essay, I intend to apply the theoretical framework developed in the
 first essay to the case of urban growth in San Francisco. The city has several
@@ -177,14 +239,6 @@ and the expansion of a city itself may be a function of the desirability and
 productivity of that city. In other words, when a city grows, the expansion of
 the housing supply may not result in a decrease in rents.
 
-Let us pursue this line a bit further. I ask here another deceptively simple
-question: why do we live in cities in the first place? Why not simply live in
-relatively undifferentiated gradations of density and transportation networks
-that sprawl over the available area? This question, at the root of the fields of
-urban economics, sociology, geography, planning, and many others, still remains
-elusive. Especially so in economics, as the (somewhat dated, but still quite
-relevant) quote at the beginning of this introduction suggests.
-
 As mentioned in the introduction to this proposal, questions regarding land
 and land rents were central to the questions of economics for centuries prior
 to the marginal revolution, before being relegated to the comparatively small
@@ -200,31 +254,28 @@ Chicago.
 
 This essay is an attempt to engage some of the insights of classical economic
 thought on land and land-rents in answering modern economic questions of
-growth and distribution; although the study of landlords and rents was central
-to the focus of political economy, the study of housing rents and urban real
-estate is conspicuously absent. I intend to incorporate some of the contributions of
-radical geography, particularly notions of *space*, *spatiality,* and
-*spatial hierarchies.* It is important to note here that I will largely be
-talking about *land*, which is only a subset of *spatial relations* that
-comprise urban geographies. It is also important to note here that although
-much of the discussion in this chapter will center around housing costs in
-the form of residential rents, the focus of this chapter is on land rents and
-land ownership more generally, rather than on the particular problem of high
-housing costs. This last feature is an important element of my critique of
-some of the modern theoretical literature on urban growth, which I expand upon
-further in that respective section.
-
-The essay will be structured as follows: First, I discuss the role of land rents
-and urban structure in classical accounts of growth and distribution, paying
+growth and distribution; although the study of landlords and rents was
+central to the focus of political economy, the study of housing rents and
+urban real estate is conspicuously absent. I intend to incorporate some of
+the contributions of radical geography, particularly notions of *space*,
+*spatiality,* and spatial hierarchies.* It is important to note here that I
+will largely be talking about *land*, which is only a subset of *spatial
+relations* that comprise urban geographies. It is also important to note here
+that although much of the discussion in this chapter will center around
+housing costs in the form of residential rents, the focus of this chapter is
+on land rents and land ownership more generally, rather than on the
+particular problem of high housing costs. This last feature is an important
+element of my critique of some of the modern theoretical literature on urban
+growth, which I expand upon further in that respective section. The essay
+will be structured as follows: First, I discuss the role of land rents and
+urban structure in classical accounts of growth and distribution, paying
 particular attention to Karl Marx and Henry George. The essential focus here
 will be to adapt the classical thought on rents and landlords to questions
-surrounding the dynamics of modern urban land and housing prices (essentially:
-how do urban agglomerative effects interact with rents?). After that, I will
-develop these into a formal theoretical presentation.
-
+surrounding the dynamics of modern urban land and housing prices
+(essentially: how do urban agglomerative effects interact with rents?). After
+that, I will develop these into a formal theoretical presentation.
 
 ## Literature Review
-
 
 Much of the recent urban economics literature on growth has focused on two
 things: human capital theories of urban growth (including skill-biased technical
@@ -511,8 +562,6 @@ In George's own words:
 
 On this point, the author of this dissertation proposal agrees.
 
-
-
 ## Methodology and Conclusion
 
 In this essay, I intend to proceed as follows: I begin with a more comprehensive
@@ -563,10 +612,6 @@ Francisco. In many ways, it is a story about the structural transformation of
 the technology economy, and how its rapid growth affected the demographic and
 incomes of the population on the one hand, and housing costs and urban structure
 on the other hand.
-
-# Introduction
-
-For Edward @soja
 
 # Rent Control Revisited: Is it Good, Actually?
 
@@ -625,7 +670,32 @@ housing costs.
 @pastor2018 provides a general overview of the recent empirical literature
 on rent control. They find that the literature is relatively
 straightforward on the effect of rent control on rents-- that is, rent
-control reduces rents for rent-regulated housing units. 
+control reduces rents for rent-regulated housing units. They also find the
+evidence to be much more lukewarm than the theory on the supposed
+destructiveness of rent regulation. 
+
+@gilderbloom2007 estimates the impacts of second-generation rent controls on a
+cross-section of New Jersey cities. The authors assert that New Jersey has a
+"moderate" form of rent control allowing for guaranteed rent increases every
+year, with some cities including a vacancy decontrol provision. They use data
+from a survey by the New Jersey Tenants Organization at the city level of
+observation, and tested using OLS. They found that "moderate rent control had no
+significant impact on median monthly contract rent." They also found evidence
+that rent controls *increased* the supply of rental housing by incentivizing
+landlords to subdivide their rental units. Overall, the total effect on the
+housing supply and maintenance of the housing stock was relatively minor. 
+
+@ambrosius2015 replicates the results of @gilderbloom2007, and adds an
+additional decade to the analysis. They find, as before that the impact of rent
+controls in New Jersey had negligible effect on the housing supply, and suggest
+that the relatively generous provisions of the laws combined with widespread
+vacancy decontrol meant that the rent controls were rarely binding. These two
+analyses have the benefit of being relatively more general than single-city case
+studies; they both have drawbacks in that the methodology used does not lead to
+causal identification. Taken together, both these studies take two points in
+time and show that there has been little statistical divergence in the outcome
+variables-- whether that is due to the non-bindingness of rent controls or to
+some other hidden effect is not clear. 
 
 @diamond2018 provides the most recent well-identified empirical analysis of rent
 control, and is the most similar in methodology and substance to this essay.
@@ -770,24 +840,24 @@ A.  **How does rent control impact the supply of housing?** -- Most of the the
     electorate might be a *response* to growth in rents and evictions, caused by
     one of the factors identified in the previous chapters.
 
-B.  **What is the direction of causation?** -- Do rent controls cause rents to
-    increase, or do increasing rents cause the imposition of rent controls?
-    @diamond2018 found that implementing rent control in San Francisco seemed to
-    cause rents to rise in the long run, but @autor2014 and @sims2007 found that the
-    *removal* of rent control in Boston *also* led caused rents and land prices to
-    increase. Aside from the possibility I explore in the Chapter 2 of a de-linking
-    of rents and housing supply, is it that rent control *causes* rents to rise, or
-    is it that cities experiencing high rent growth tend to enact rent control
-    legislation? This relationship need not be linear either-- it could be that
-    further rises in land value shift the needle in the other direction due to the
-    relatively increasing payoff to a political coalition of landowners, as in the
-    abolition of Massachusetts rent control in 1995^[interestingly enough, this is
-    the same year that California passed the Costa-Hawkins Rental Housing Act. These
-    also corresponded to the beginning of the asset bubble that crashed in 2008, and
-    coincided with an apparent nationwide shift in the balance of power away from
-    tenants and towards landlords.].
-
-
+B. **What is the direction of causation?** -- Do rent controls cause rents to
+increase, or do increasing rents cause the imposition of rent controls?
+@diamond2018 found that implementing rent control in San Francisco seemed to
+cause rents to rise in the long run, but @autor2014 and @sims2007 found that
+the
+*removal* of rent control in Boston *also* led caused rents and land prices to
+increase. Aside from the possibility I explore in the Chapter 2 of a
+de-linking of rents and housing supply, is it that rent control *causes*
+rents to rise, or is it that cities experiencing high rent growth tend to
+enact rent control legislation? This relationship need not be linear either--
+it could be that further rises in land value shift the needle in the other
+direction due to the relatively increasing payoff to a political coalition of
+landowners, as in the abolition of Massachusetts rent control in
+1995^[interestingly enough, this is the same year that California passed the
+Costa-Hawkins Rental Housing Act. These also corresponded to the beginning of
+the asset bubble that crashed in 2008, and coincided with an apparent
+nationwide shift in the balance of power away from tenants and towards
+landlords.].
 These will hereafter be referred to as *Question A* and *Question B*. In
 answering questions A and B, I take direct inspiration from the recent
 minimum wage debates in the empirical labor literature. I wish to compare
