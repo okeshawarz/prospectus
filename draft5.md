@@ -1002,19 +1002,20 @@ during that interval. Since a metropolitan area consists of many such zones,
 some of which fell under rent control and some of which did not, this
 approach can be considered as a type of generalized case study approach
 (following @dube2010) evaluating the impacts of rent controls in each
-metropolitan area.
-
-To answer Question A, I want to estimate equations of the general form
+metropolitan area. 
 
 $$ y_{ijy} =  \delta_{jy} + \alpha_{jy} + \beta_t T_{ijy} + \epsilon_{iy}, $$
 
 for the metropolitan-level DD specification where, for zone $j$ in
 metropolitan area $i$, and year $y$, $y_{iy}$ is a vector of the outcome
 variables [total housing stock, total rental units, median rent, length of
-rental tenure], $\alpha$ is zone fixed effects, $\delta$ is housing unit
-fixed effects, and $\epsilon$ is year fixed effects. T_{ijy} is a dummy variable
-that takes the value 1 if the zone was subject to rent control during year *y*
-and 0 otherwise.
+rental tenure], $\alpha$ is metropolitan-area fixed effects, $\delta$ is
+housing unit fixed effects, and $\epsilon$ is year fixed effects. T_{ijy} is
+a dummy variable that takes the value 1 if the zone was subject to rent
+control during year *y* and 0 otherwise.The null hypothesis is that the presence
+of rent controls do not have a significantly different effect on the outcome
+variables in $y_{ijy} in the treatment group vs. the control group. The
+alternative hypothesis is that 
 
 \newpage
 
