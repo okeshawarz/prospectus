@@ -626,7 +626,30 @@ of the specific cases of particular cities), creating a sort of urban
 archaeology-- layers of bones and sinew upon which successive generations of
 spatial structures were built. 
 
-Soja uses the term *synekism* to refer to the "stimulus of urban agglomeration:" 
+@soja2003 uses the term *synekism* to refer to the "stimulus of urban agglomeration:
+
+>[synekism is] seen as a continuous and highly politicized process of urban
+>growth and development, a dynamic process that provides a constantly evolving
+>source of stimulating social synergy and is part of the very essence of urban
+>life... [it] involves the creativity, innovation, territorial identity,
+>political consciousness, and societal development, political consciousness, and
+>societal development that areise from living together in dense urban regions.
+>It is in this sense that I define synekism as the *stimulus of urban
+>agglomeration* and connect it directly to what can be described as the *spatial
+>specificity of urbanism*-- the real and imagined, material and symbolic,
+>geographies or spatialities of urban life.
+
+Soja continues: "What exactly is meant by the stimulus of urban agglomeration?
+...[W]hat is it in particular about spatial agglomeration or clustering that
+leads to new ideas and accelerates societal development? Just how significant is
+this specifically urban stimulus and energy?"
+
+This essay, by examining the historical development of land ownership and
+land rents in a particular city, seeks to investigate some of Soja's questions
+in at least an oblique way. In particular: what are the causes and consequences
+of the recent burst of growth in San Francisco? How did this affect, and get
+affected by, changes in land ownership and the supply of housing? And finally,
+how generalizable are these conclusions? 
 
 # Rent Control Revisited: Is it Good, Actually?
 
