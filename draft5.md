@@ -30,7 +30,7 @@ time, housing crises are being proclaimed in the most prosperous of American
 cities while others are still mired in stagnation and decay. The *spatiality* of
 American economic life is finally getting its own as problems of growth and
 decline are recognized as fundamentally place-linked. This dissertation is a
-contribution to the spatialization of economics. 
+contribution to the spatialization of economics.
 
 @soja1980 conceived of a socio-spatial dialectic, where social relations
 shape spatial relations, which are in turn shaped by them. This shows up as an
@@ -43,7 +43,7 @@ it belong? And further, for Soja, one of the key questions was "how do patterns
 of land ownership determine the right to the city?" It is broadly this question
 that my dissertation hopes to engage with. In fact, the essays outlined in this
 proposal are concerned with a proper subset of spatial relations, though perhaps
-the most obvious ones: land ownership and rents.  
+the most obvious ones: land ownership and rents.
 
 Land and land-rents, of course, have not always been relegated to the periphery
 of the economics discipline; it, and the problem of landed property, was a
@@ -57,7 +57,7 @@ Nations*, Adam Smith writes:
 >which they build their houses upon... Nothing can be more reasonable than that
 >a fund, which owes its existence to the good government of the state should be
 >taxed peculiarly, or should contribute something more than the greater part of
->other funds, towards the support of that government. 
+>other funds, towards the support of that government.
 
 The peculiarity of the institution of land-ownership was well-known to the
 classics, Smith, Ricardo, and Marx. The existence of a monopoly on *space*,
@@ -71,7 +71,7 @@ productivity theory, lacking any theory of land or land-rent, became the
 groundwork for the neoclassical school of economics. This precise bit of
 history of economic thought will be elaborated on further in Essay 1, but I
 mention it here because it informs the necessity of the contribution of this
-dissertation. 
+dissertation.
 
 After land disappeared from the production function, it returned to the general
 equilibrium model through the work of Von Thunen [@harvey1981], who incorporated
@@ -89,7 +89,7 @@ speak of neighborhood stability), and there are no landowners-- merely owners of
 a particular capital good that earn a return equal to that good's contribution
 to production. It is here that my dissertation proposes to make an intervention;
 this view misses a few very key points about urban economic processes because it
-is 1) aspatial, and 2) ahistorical. 
+is 1) aspatial, and 2) ahistorical.
 
 I say that it is aspatial because space, to the extent that land appears, it is
 merely as a cost rather than a social relation. Specifically, ownership of land
@@ -501,7 +501,7 @@ wage, *and* that these gains are a pure redistribution away from the
 productive sector of the economy^[Marxist accounts of this, e.g.
 @harvey1974, point out that this need not be entirely redistributive;
 capitalist land markets do have an efficiency-enhancing function by
-directing production to its most *locationally* profitable use]. 
+directing production to its most *locationally* profitable use].
 
 It seems somewhat unreasonable that landlords are able to obtain the
 *entire* surplus, in a sort of Ultimatum Game equilibrium-- obviously
@@ -514,7 +514,7 @@ question of wages, the rent payment is determined by relative bargaining
 power, then what are the parameters of the bargaining problem? What
 strengthens land against labor and land against capital? At what point do
 their incentives align? These are questions that this essay intends to
-investigate. 
+investigate.
 
 The Henry George Theorem^[in its general form (Arnott 2004): "in any
 constrained Pareto optimal and nontrivial allocation of population in
@@ -624,7 +624,7 @@ All of these historical phenomena affected and were affected by the development
 of urban cityspace (in both the sense of urban social relations in general and
 of the specific cases of particular cities), creating a sort of urban
 archaeology-- layers of bones and sinew upon which successive generations of
-spatial structures were built. 
+spatial structures were built.
 
 @soja2003 uses the term *synekism* to refer to the "stimulus of urban agglomeration:
 
@@ -649,7 +649,7 @@ land rents in a particular city, seeks to investigate some of Soja's questions
 in at least an oblique way. In particular: what are the causes and consequences
 of the recent burst of growth in San Francisco? How did this affect, and get
 affected by, changes in land ownership and the supply of housing? And finally,
-how generalizable are these conclusions? 
+how generalizable are these conclusions?
 
 # Rent Control Revisited: Is it Good, Actually?
 
@@ -710,7 +710,7 @@ on rent control. They find that the literature is relatively
 straightforward on the effect of rent control on rents-- that is, rent
 control reduces rents for rent-regulated housing units. They also find the
 evidence to be much more lukewarm than the theory on the supposed
-destructiveness of rent regulation. 
+destructiveness of rent regulation.
 
 @gilderbloom2007 estimates the impacts of second-generation rent controls on a
 cross-section of New Jersey cities. The authors assert that New Jersey has a
@@ -721,7 +721,7 @@ observation, and tested using OLS. They found that "moderate rent control had no
 significant impact on median monthly contract rent." They also found evidence
 that rent controls *increased* the supply of rental housing by incentivizing
 landlords to subdivide their rental units. Overall, the total effect on the
-housing supply and maintenance of the housing stock was relatively minor. 
+housing supply and maintenance of the housing stock was relatively minor.
 
 @ambrosius2015 replicates the results of @gilderbloom2007, and adds an
 additional decade to the analysis. They find, as before that the impact of rent
@@ -733,7 +733,7 @@ studies; they both have drawbacks in that the methodology used does not lead to
 causal identification. Taken together, both these studies take two points in
 time and show that there has been little statistical divergence in the outcome
 variables-- whether that is due to the non-bindingness of rent controls or to
-some other hidden effect is not clear. 
+some other hidden effect is not clear.
 
 @diamond2018 provides the most recent well-identified empirical analysis of rent
 control, and is the most similar in methodology and substance to this essay.
@@ -983,9 +983,14 @@ within that time period.
 The American Housing Survey (AHS) is a sample survey of cities across the
 United States. The survey is at the level of the housing unit. The AHS
 provides data on housing unit characteristics such as rent, maintenance, and
-physical condition. Due to privacy concerns, the smallest available
-geographic level is the zone. A zone is defined in the AHS codebook as
-follows:
+physical condition. The particular subset of the data that I will be doing is
+the AHS-MSA, which is a survey of 25 metropolitan regions in the United States.
+each metropolitan area is sampled once every 4 years starting in 1979, resulting
+in a data set that covers the period of most of the imposition of
+second-generation rent control laws.
+
+Due to privacy concerns, the smallest available geographic level is the zone.
+A zone is defined in the AHS codebook as follows:
 
 >Zone codes are only available in the metropolitan files.  A zone is defined for
 >the AHS only as a socio-economically homogeneous area of more than 100,000
@@ -1004,19 +1009,16 @@ rent-controlled zone vs being in a non rent-controlled zone.
 
 To explore the effects of rent control on various housing and neighborhood
 characteristics, I will employ the *difference-in-differences* empirical
-strategy. This requires a panel data set of repeated observations over time. The
-regressor of interest is a variable that varies at the group or aggregate level
-over time given a treatment; in this case, whether or not the housing unit was
-subject to rent control (if at the household level) or if units in the
-geographic area were subject to rent control (if at a higher level of
-aggregation). This was the approach used by @diamond2018, where a change in rent
-control laws to suddenly incorporate multi-family housing units of a certain age
-under the law was used as a quasi-random treatment effect. This is the empirical
-strategy I will follow if the restricted-use national data from the RHFS becomes
-available in a reasonable amount of time.
-
-If not, then I will instead follow an approach similar to @sims2007, which used
-zone-level fixed effects.
+strategy, following in general the approach of @sims2007. This requires a
+panel data set of repeated observations over time. The regressor of interest
+is a variable that varies at the group or aggregate level over time given a
+treatment; in this case, whether or not the housing unit was subject to rent
+control (if at the household level) or if units in the geographic area were
+subject to rent control (if at a higher level of aggregation). The American
+Housing Survey Metropolitan Area microdata set contains data down to the level
+of the zone, which is a contiguous geography consisting of 100,000 people. This
+is the unit this essay will primarily use, treating *zones* as rent controlled
+or non controlled.
 
 The logic behind this approach is relatively straightforward. My goal is to
 compare zones in which rent control is enacted to zones that can plausibly be
@@ -1025,7 +1027,26 @@ during that interval. Since a metropolitan area consists of many such zones,
 some of which fell under rent control and some of which did not, this
 approach can be considered as a type of generalized case study approach
 (following @dube2010) evaluating the impacts of rent controls in each
-metropolitan area. 
+metropolitan area. One of the difficulties noted in the introduction and by
+authors such as @arnott1995 is that there is significant heterogeneity within
+the type of rent control policies that are enacted by cities, ranging from hard
+rent controls that remain in place for a small number of housing units in New
+York City and the West Coast, to relatively "soft" rent controls that provide
+for vacancy decontrol. This policy heterogeneity means that a single dummy
+variable will not accurately reflect the treatment effect of a wide variety of
+control types; @gilderbloom2007, for example, finds evidence that rent control policies
+in New Jersey cities are not particularly salient. An alternate specification
+will attempt to test for the salience of rent control laws by accounting for
+differences in rent control types, primarily with respect to the presence or
+absence of vacancy decontrol and condo conversion provisions. Finally, the
+direction of causality is important; a final specification will use distributed
+lags using AHS data every 4 years^[Each metropolitan area in the AHS survey is
+sampled on a rotating basis every two years, leading to 4-year data cycles.]
+
+### Specification 1
+
+The simplest empirical specification is a Difference-in-Differences (DD) model
+with year- and metropolitan area-fixed effects
 
 $$ y_{ijy} =  \delta_{jy} + \alpha_{jy} + \beta_t T_{ijy} + \epsilon_{iy}, $$
 
@@ -1033,12 +1054,54 @@ for the metropolitan-level DD specification where, for zone $j$ in
 metropolitan area $i$, and year $y$, $y_{iy}$ is a vector of the outcome
 variables [total housing stock, total rental units, median rent, length of
 rental tenure], $\alpha$ is metropolitan-area fixed effects, $\delta$ is
-housing unit fixed effects, and $\epsilon$ is year fixed effects. T_{ijy} is
+housing unit fixed effects, and $\epsilon$ is year fixed effects. $T_{ijy}$ is
 a dummy variable that takes the value 1 if the zone was subject to rent
-control during year *y* and 0 otherwise.The null hypothesis is that the presence
+control during year *y* and 0 otherwise. The null hypothesis is that the presence
 of rent controls do not have a significantly different effect on the outcome
-variables in $y_{ijy} in the treatment group vs. the control group. The
-alternative hypothesis is that 
+variables in $y_{ijy}$ in the treatment group vs. the control group. The
+alternative hypothesis is that, in the years following the imposition of rent
+controls, there will be a significant divergence in some or all of the outcome
+variables $y$.
+
+In this case, both the sign of the coefficient and its magnitude are important--
+I am interested in *how much* rent regulation policies might affect rents and
+the housing stock-- it may be that the effects are negligible. Thus, the
+biasness of the estimation is important.
+
+### Specification 2
+
+In this specification, I employ a specification that accounts for heterogeneity
+across rent regulation regimes. There are three major sources of variation:
+
+1. *Variation in rent caps.* The amount of allowed rent growth varies from city
+   to city. If the allowable rent increase is higher than the actual rent
+   increase, then the rent regulation has no salience (though this does not
+   necessarily mean that rent control has no effect on the housing supply).
+
+2. *Vacancy decontrol.* Vacancy decontrol provisions allow for adjustment of
+   rents to the market rate after a vacancy. @diamond2018 saw this as
+   incentivizing *de facto* and *de jure* evictions by landlords in San
+   Francisco, and @gilderbloom2007 saw this as a primary factor leading to the
+   ineffectiveness of rent controls in New Jersey.
+
+3. *Rental Conversions.* Different policies have different rules regarding e.g.
+   condo conversions. Depending on the relative ease of converting a controlled
+   unit to a non-controlled unit, landlords might respond to an implementation
+   of rent control by converting their housing units to those of an uncontrolled
+   type.
+
+To examine the effects of rent control type, I estimate a modified version of
+specification 1 considering only the :
+
+$$ y_{ijy} = \alpha_{jy} + \Beta_1 T_{ijy} + \Beta_2 gap_{ijy} + \Beta_3 D_{ijy}
++Beta_4 C_{ijy} + \epsilon_{ijy}$$
+
+where $gap$ is the difference between allowed rent growth and actual rent
+growth, $D$ is a dummy variable indicating the presence of vacancy decontrol,
+and $C$ is the number of net rental conversions in that zone.
+
+
+
 
 \newpage
 
