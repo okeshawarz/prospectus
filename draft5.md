@@ -1094,7 +1094,7 @@ To examine the effects of rent control type, I estimate a modified version of
 specification 1 considering only the :
 
 $$ y_{ijy} = \alpha_{jy} + \beta_1 T_{ijy} + \beta_2 gap_{ijy} + \beta_3 D_{ijy}
-+Beta_4 C_{ijy} + \epsilon_{ijy}$$
++\beta_4 C_{ijy} + \epsilon_{ijy}$$
 
 where $gap$ is the difference between allowed rent growth and actual rent
 growth, $D$ is a dummy variable indicating the presence of vacancy decontrol,
