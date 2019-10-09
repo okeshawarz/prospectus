@@ -1020,53 +1020,56 @@ of the zone, which is a contiguous geography consisting of 100,000 people. This
 is the unit this essay will primarily use, treating *zones* as rent controlled
 or non controlled.
 
-The logic behind this approach is relatively straightforward. My goal is to
-compare zones in which rent control is enacted to zones that can plausibly be
-considered as part of the same rental market that were never controlled
-during that interval. Since a metropolitan area consists of many such zones,
-some of which fell under rent control and some of which did not, this
-approach can be considered as a type of generalized case study approach
-(following @dube2010) evaluating the impacts of rent controls in each
-metropolitan area. One of the difficulties noted in the introduction and by
-authors such as @arnott1995 is that there is significant heterogeneity within
-the type of rent control policies that are enacted by cities, ranging from hard
-rent controls that remain in place for a small number of housing units in New
-York City and the West Coast, to relatively "soft" rent controls that provide
-for vacancy decontrol. This policy heterogeneity means that a single dummy
-variable will not accurately reflect the treatment effect of a wide variety of
-control types; @gilderbloom2007, for example, finds evidence that rent control policies
-in New Jersey cities are not particularly salient. An alternate specification
-will attempt to test for the salience of rent control laws by accounting for
-differences in rent control types, primarily with respect to the presence or
-absence of vacancy decontrol and condo conversion provisions. Finally, the
-direction of causality is important; a final specification will use distributed
-lags using AHS data every 4 years^[Each metropolitan area in the AHS survey is
-sampled on a rotating basis every two years, leading to 4-year data cycles.]
+The logic behind this approach is relatively straightforward. 
+My goal is to compare zones in which rent control is enacted 
+to zones that can plausibly be considered part of the same rental market
+but were never controlled during that interval. 
+Since a metropolitan area consists of many such zones,
+some of which fell under rent control and some of which did not,
+this approach can be considered as a type of generalized case study approach
+(following @dube2010) evaluating the impacts of rent controls in each metropolitan area.
+One of the difficulties noted in the introduction 
+and by authors such as @arnott1995 
+is that there is significant heterogeneity within
+the type of rent control policies that are enacted by cities, 
+ranging from relatively "hard" rent controls that remain in place for a small number of housing units in New York City and the West Coast, 
+to "soft" rent controls that involve generous yearly rent increases and vacancy decontrol. 
+This policy heterogeneity means that a single dummy variable 
+will not accurately reflect the treatment effect of a wide variety of control types; @gilderbloom2007, for example, 
+finds evidence that rent control policies in New Jersey cities are not particularly salient. 
+An alternate specification will attempt to test for the salience of rent control
+laws by accounting for differences in rent control types, primarily with
+respect to the presence or absence of vacancy decontrol and condo conversion
+provisions. Finally, the direction of causality is important; a final
+specification will use distributed lags using AHS data every 4 years^[Each
+metropolitan area in the AHS survey is sampled on a rotating basis every two
+years, leading to 4-year data cycles.]
 
 ### Specification 1
 
 The simplest empirical specification is a Difference-in-Differences (DD) model
-with year- and metropolitan area-fixed effects
+with year- and zone-fixed effects
 
-$$ y_{ijy} =  \delta_{jy} + \alpha_{jy} + \beta_t T_{ijy} + \epsilon_{iy}, $$
+$$ y_{ijy} =  \delta_{jy} + \alpha_{jy} + \beta_t R_{ijy} + \epsilon_{iy}, $$
 
 for the metropolitan-level DD specification where, for zone $j$ in
-metropolitan area $i$, and year $y$, $y_{iy}$ is a vector of the outcome
-variables [total housing stock, total rental units, median rent, length of
-rental tenure], $\alpha$ is metropolitan-area fixed effects, $\delta$ is
-housing unit fixed effects, and $\epsilon$ is year fixed effects. $T_{ijy}$ is
-a dummy variable that takes the value 1 if the zone was subject to rent
-control during year *y* and 0 otherwise. The null hypothesis is that the presence
-of rent controls do not have a significantly different effect on the outcome
-variables in $y_{ijy}$ in the treatment group vs. the control group. The
-alternative hypothesis is that, in the years following the imposition of rent
-controls, there will be a significant divergence in some or all of the outcome
-variables $y$.
+metropolitan area $i$, and year $y$,
+$y_{iy}$ is a vector of the outcome variables [total housing stock, total rental
+units, median rent, length of rental tenure],
+$\alpha$ is zone fixed effects, 
+$\delta$ is housing unit fixed effects, and 
+$\epsilon$ is year fixed effects. 
+$R_{ijy}$ is a dummy variable that takes the value 1 if the zone was subject to rent
+control during year *y* and 0 otherwise. 
+The null hypothesis is that the presence of rent controls do not have a
+significantly different effect on the outcome variables in $y_{ijy}$ in the
+treatment group vs. the control group. The alternative hypothesis is that, in
+the years following the imposition of rent controls, there will be a significant
+divergence in some or all of the outcome variables $y$.
 
 In this case, both the sign of the coefficient and its magnitude are important--
 I am interested in *how much* rent regulation policies might affect rents and
-the housing stock-- it may be that the effects are negligible. Thus, the
-biasness of the estimation is important.
+the housing stock-- it may be that the effects are negligible. 
 
 ### Specification 2
 
@@ -1091,14 +1094,14 @@ across rent regulation regimes. There are three major sources of variation:
    type.
 
 To examine the effects of rent control type, I estimate a modified version of
-specification 1 considering only the :
+specification 1:
 
-$$ y_{ijy} = \alpha_{jy} + \beta_1 T_{ijy} + \beta_2 gap_{ijy} + \beta_3 D_{ijy}
-+\beta_4 C_{ijy} + \epsilon_{ijy}$$
+$$ y_{ijy} =  \delta_{jy} + \alpha_{jy} + \beta_t R^t_{ijy} + \epsilon_{iy}, $$
 
-where $gap$ is the difference between allowed rent growth and actual rent
-growth, $D$ is a dummy variable indicating the presence of vacancy decontrol,
-and $C$ is the number of net rental conversions in that zone.
+where $R^t$ now takes the value of 0 if the zone was never controlled in year $i$,
+1 if the zone is in a "strong" rent control city (i.e., does not allow for vacancy decontrol) in year i), and
+2 if zone is in a "weak" rent control city (i.e., allows for vacancy decontrol).
+
 
 
 
