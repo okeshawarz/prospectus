@@ -648,7 +648,7 @@ Of course, questions of agglomeration have always been at the root of enquiry in
 In this essay, I form a descriptive account of the latest period of urban expansion in the city of San Francisco, California.
 The story is, essentially, about synekism;
 the geography of the new high-tech firms that re-emerged in the Bay Area after the dot-com crash,
-but also how this particular spatial-temporal process affected land prices, real estate development, landlords, and tenants. 
+but also how this particular spatial-temporal process affected land prices, real estate development, landlords, and tenants.
 
 This essay, by examining the historical development of land ownership and
 land rents in a particular city, seeks to investigate some of Soja's questions
@@ -1017,23 +1017,23 @@ A zone is defined in the AHS codebook as follows:
 
 Thus, following @sims2007, I will use the zone as the basis of the analysis,
 and the empirical question will become the effects of being in a
-rent-controlled zone vs being in a non rent-controlled zone. 
-It may be possible to get access to the restricted-use AHS-MA dataset at the level of the housing unit, 
+rent-controlled zone vs being in a non rent-controlled zone.
+It may be possible to get access to the restricted-use AHS-MA dataset at the level of the housing unit,
 though it is unknown how timely this access will be.
 If I do get access, then instead of estimating zone-level difference-in-differences,
-I will be able to estimate at the level of the household. 
+I will be able to estimate at the level of the household.
 
 Once the data from the AHS is arranged into panel form by zone,
 I will use city boundary data from the U.S. Census TIGER/Line GIS database
 to link zone boundaries to city boundaries.
-As an example of this procedure, I include here Figure 1 from Sims' paper.
+As an example of this procedure, I include here *Figure 1* from Sims' paper.
 
 ![AHS zones comprising the 1998 Boston MSA. Source: Sims (2007)](images/sims-zonemap.png)
 
-$Fig. 1$ shows the zones comprising the Boston metropolitan area.
+*Fig. 1* shows the zones comprising the Boston metropolitan area.
 In Sims' study, the treatment group consisted of zone 112,
 containing the rent-controlled city of Cambridge and the non-controlled city of Somerville,
-zone 110, containing rent-controlled Brookline and and non-controlled Newton, 
+zone 110, containing rent-controlled Brookline and and non-controlled Newton,
 and zones 1-5 comprising the City of Boston itself.
 The control group, then were all of remaining zones within the Boston MSA.
 
@@ -1059,8 +1059,8 @@ considered as part of the same rental market that were never controlled
 during that interval. Since a metropolitan area consists of many such zones,
 some of which fell under rent control and some of which did not, this
 approach can be considered as a type of generalized case study approach
-(following @dube2010) evaluating the impacts of rent controls in each
-metropolitan area. One of the difficulties noted in the introduction and by
+(following @dube2010) evaluating the impacts of rent controls in *every
+metropolitan area* in the United States. One of the difficulties noted in the introduction and by
 authors such as @arnott1995 is that there is significant heterogeneity within
 the type of rent control policies that are enacted by cities, ranging from hard
 rent controls that still remain in place for a small number of housing units in New
@@ -1083,16 +1083,16 @@ with year and zone fixed effects:
 
 $$ y_{ijy} = \alpha_{i} + \delta_j + \gamma_{y} + \beta_t R_{ijy} +  \epsilon_{ijy}, $$
 
-for the zone-level DD specification where, for zone $i$ in metropolitan area $j$, and year $y$, 
-$y_{ijy}$ is a vector of the outcome variables 
+for the zone-level DD specification where, for zone $i$ in metropolitan area $j$, and year $y$,
+$y_{ijy}$ is a vector of the outcome variables
 [total housing stock in zone $i$, percent of rental units in $i$, average rent, average length of rental tenure],
-$\alpha$ is zone fixed effects, 
-$\delta$ is metropolitan area fixed effects, and 
-$\gamma$ is year fixed effects. 
+$\alpha$ is zone fixed effects,
+$\delta$ is metropolitan area fixed effects, and
+$\gamma$ is year fixed effects.
 $R_{ijy}$ is a dummy variable that takes the value 1 if the zone was subject to rent control during year *y* and 0 otherwise,
-and $\epsilon_{ijy}$ is the error term. 
-The null hypothesis is that the presence of rent controls does not have a significantly different effect on the outcome variables in $y_{ijy}$ in the treatment group vs. the control group. 
-The alternative hypothesis is that, in the years following the imposition of rent controls, 
+and $\epsilon_{ijy}$ is the error term.
+The null hypothesis is that the presence of rent controls does not have a significantly different effect on the outcome variables in $y_{ijy}$ in the treatment group vs. the control group.
+The alternative hypothesis is that, in the years following the imposition of rent controls,
 there will be a significant divergence in some or all of the outcome variables $y$.
 
 In this case, both the sign of the coefficient and its magnitude are important--
@@ -1102,14 +1102,14 @@ biasness of the estimation is important.
 
 ### Specification 2
 
-In this specification, I employ a specification that accounts for heterogeneity across rent regulation regimes. 
-In particular, I want to examine the impact of vacancy decontrol provisions on the outcome variables of interest. 
+In this specification, I employ a specification that accounts for heterogeneity across rent regulation regimes.
+In particular, I want to examine the impact of vacancy decontrol provisions on the outcome variables of interest.
 To do this, I simply estimate a similar equation
 
 $$ y_{ijy} = \alpha_{i} + \delta_j + \gamma_{y} + \beta_t R^T_{ijy} +  \epsilon_{ijy}, $$
 
-where 
-$R^T$ now takes the value 
+where
+$R^T$ now takes the value
 0 if the zone is not rent-controlled in year $y$,
 1 if the zone is rent controlled but without decontrol provisions in year $y$, or
 2 if the zone is rent controlled with a decontrol provision in year $y$.
