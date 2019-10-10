@@ -626,7 +626,7 @@ of the specific cases of particular cities), creating a sort of urban
 archaeology-- layers of bones and sinew upon which successive generations of
 spatial structures were built.
 
-@soja2003 uses the term *synekism* to refer to the "stimulus of urban agglomeration:
+@soja2003 uses the term *synekism* to refer to the "stimulus of urban agglomeration:"
 
 >[synekism is] seen as a continuous and highly politicized process of urban
 >growth and development, a dynamic process that provides a constantly evolving
@@ -657,7 +657,7 @@ and how these combine to create winners and losers during the period of neoliber
 The story is about the rise of high-tech capital, yes,
 though "traditional" jobs (at e.g. Lyft, Uber, Twitter, etc.) account for a relatively small fraction of the city's employment growth [@kimmelman2014].
 The story is also about tenants and developers,
-and how political control over space and land use evolved through decades of conflict between them.
+and how political control over space and land use evolved through decades of conflict between the two groups.
 
 This essay, by examining the historical development of land ownership and
 land rents in a particular city, seeks to investigate some of Soja's questions
