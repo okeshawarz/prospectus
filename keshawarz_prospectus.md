@@ -646,9 +646,18 @@ this specifically urban stimulus and energy?"
 
 Of course, questions of agglomeration have always been at the root of enquiry into the nature of cities.
 In this essay, I form a descriptive account of the latest period of urban expansion in the city of San Francisco, California.
+Using descriptive and historical data on the formation and location of firms,
+the geographic dispersion of wages, land prices, and rents,
+and historical records on land-use decisions and housing transactions,
+this essay will investigate the role of city-scale responses to the business cycle and structural change in the corporate sector.
 The story is, essentially, about synekism;
-the geography of the new high-tech firms that re-emerged in the Bay Area after the dot-com crash,
-but also how this particular spatial-temporal process affected land prices, real estate development, landlords, and tenants.
+an important part of the story is the geography of the new firms that re-emerged in the Bay Area after the dot-com crash,
+the role of real estate development and its political constraints,
+and how these combine to create winners and losers during the period of neoliberal urban growth.
+The story is about the rise of high-tech capital, yes,
+though "traditional" jobs (at e.g. Lyft, Uber, Twitter, etc.) account for a relatively small fraction of the city's employment growth [@kimmelman2014].
+The story is also about tenants and developers,
+and how political control over space and land use evolved through decades of conflict between them.
 
 This essay, by examining the historical development of land ownership and
 land rents in a particular city, seeks to investigate some of Soja's questions
