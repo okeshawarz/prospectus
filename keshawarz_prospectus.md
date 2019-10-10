@@ -654,7 +654,7 @@ The story is, essentially, about synekism;
 an important part of the story is the geography of the new firms that re-emerged in the Bay Area after the dot-com crash,
 the role of real estate development and its political constraints,
 and how these combine to create winners and losers during the period of neoliberal urban growth.
-The story is about the rise of high-tech capital, yes,
+The story is partially about the rise of high-tech capital,
 though "traditional" jobs (at e.g. Lyft, Uber, Twitter, etc.) account for a relatively small fraction of the city's employment growth [@kimmelman2014].
 The story is also about tenants and developers,
 and how political control over space and land use evolved through decades of conflict between the two groups.
