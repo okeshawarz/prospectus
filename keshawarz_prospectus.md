@@ -655,9 +655,9 @@ an important part of the story is the geography of the new firms that re-emerged
 the role of real estate development and its political constraints,
 and how these combine to create winners and losers during the period of neoliberal urban growth.
 The story is partially about the rise of high-tech capital,
-though "traditional" jobs (at e.g. Lyft, Uber, Twitter, etc.) account for a relatively small fraction of the city's employment growth [@kimmelman2014].
-The story is also about tenants and developers,
-and how political control over space and land use evolved through decades of conflict between the two groups.
+though "traditional" tech jobs (at e.g. Lyft, Uber, Twitter, etc.) account for a relatively small fraction of the city's employment growth [@kimmelman2014].
+The story is also about tenants, landlords, and developers,
+and how political control over space and land use evolved through decades of conflict between the three groups.
 
 This essay, by examining the historical development of land ownership and
 land rents in a particular city, seeks to investigate some of Soja's questions
