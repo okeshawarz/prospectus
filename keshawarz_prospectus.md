@@ -296,7 +296,7 @@ and grow more, than a city with a "large-firm" ecosystem. However, growth in
 productivity will, absent growth in the housing stock, will tend to drive up
 rents, leading to declines in inter-city mobility and a skill-sorting
 equilibrium where human capital is drained out of declining cities. Indeed,
-@ganong2017 has found that both income divergence and migration between cities
+@ganong2017 have found that both income divergence and migration between cities
 has declined since the 90s, and @giannone2017 fits Census data to a structural
 spatial equilibrium model to show that skill-biased technical change explains in
 part the decline in regional income convergence-- in essence low-skilled workers
@@ -591,7 +591,7 @@ Rust Belt is evidence of cities that were once highly productive, with
 relatively high wages, and now have land and housing once highly valuable but
 are now no longer so.
 
-# On Growth and Housing in San Francisco
+# On Growth and Rent in San Francisco
 
 ## Research Questions
 
@@ -893,24 +893,23 @@ A.  **How does rent control impact the supply of housing?** -- Most of the the
     electorate might be a *response* to growth in rents and evictions, caused by
     one of the factors identified in the previous chapters.
 
-B. **What is the direction of causation?** -- Do rent controls cause rents to
-    increase, or do increasing rents cause the imposition of rent controls?
-    @diamond2018 found that implementing rent control in San Francisco seemed to
+B. 	**What is the direction of causation?** -- Do rent controls cause rents to
+   	increase, or do increasing rents cause the imposition of rent controls?
+  	@diamond2018 found that implementing rent control in San Francisco seemed to
     cause rents to rise in the long run, but @autor2014 and @sims2007 found that
-    the
-    *removal* of rent control in Boston *also* led caused rents and land prices to
-    increase. Aside from the possibility I explore in the Chapter 2 of a
-    de-linking of rents and housing supply, is it that rent control *causes*
+    the *removal* of rent control in Boston *also* led caused rents and land
+    prices to increase. Aside from the possibility I explore in the Chapter 2 of
+    a de-linking of rents and housing supply, is it that rent control *causes*
     rents to rise, or is it that cities experiencing high rent growth tend to
-    enact rent control legislation? This relationship need not be linear either--
-    it could be that further rises in land value shift the needle in the other
-    direction due to the relatively increasing payoff to a political coalition of
-    landowners, as in the abolition of Massachusetts rent control in
-    1995^[interestingly enough, this is the same year that California passed the
-    Costa-Hawkins Rental Housing Act. These also corresponded to the beginning of
-    the asset bubble that crashed in 2008, and coincided with an apparent
-    nationwide shift in the balance of power away from tenants and towards
-    landlords.].
+    enact rent control legislation? This relationship need not be linear
+    either-- it could be that further rises in land value shift the needle in
+    the other direction due to the relatively increasing payoff to a political
+    coalition of landowners, as in the abolition of Massachusetts rent control
+    in 1995^[interestingly enough, this is the same year that California passed
+    the Costa-Hawkins Rental Housing Act. These also corresponded to the
+    beginning of the asset bubble that crashed in 2008, and coincided with an
+    apparent nationwide shift in the balance of power away from tenants and
+    towards landlords.].
 
 These will hereafter be referred to as *Question A* and *Question B*. In
 answering questions A and B, I take direct inspiration from the recent
@@ -1103,8 +1102,13 @@ and $\epsilon_{ijy}$ is the error term.
 The null hypothesis is that the presence of rent controls does not have a significantly different effect on the outcome variables in $y_{ijy}$ in the treatment group vs. the control group.
 The alternative hypothesis is that, in the years following the imposition of rent controls,
 there will be a significant divergence in some or all of the outcome variables $y$.
+In particular, the standard expectation is that rent control, if binding will result in
+a decrease in the growth of the housing stock in zone $i$,
+a decrease in the number of rental units as a fraction of the total housing stock in $i$, 
+a decrease in rents for controlled units in zone $i$, and
+an increase in the average length of rental tenure in $i$. 
 
-In this case, both the sign of the coefficient and its magnitude are important--
+In this case, both the signs of the coefficients and their magnitudes are important--
 I am interested in *how much* rent regulation policies might affect rents and
 the housing stock-- it may be that the effects are negligible. Thus, the
 biasness of the estimation is important.
