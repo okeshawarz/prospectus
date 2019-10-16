@@ -666,6 +666,17 @@ of the recent burst of growth in San Francisco? How did this affect, and get
 affected by, changes in land ownership and the supply of housing? And finally,
 how generalizable are these conclusions?
 
+## Data and Methodology
+
+This essay will rely on several primary sources of data. 
+The Bureau of Labor Statistics provides data on quarterly wages at the level of the county.
+The American Community Survey (ACS) 5-year estimates provide data on wages and rents to the level of the census tract and zip code tabulation area (ZCTA). 
+In addition to federal Census data, 
+the city of San Francisco offers granular, geocoded data on rents, wages, and housing construction at http://www.datasf.org.
+
+
+
+
 # Rent Control Revisited: Is it Good, Actually?
 
 1. To what extent is new housing construction affected by the implementation of
