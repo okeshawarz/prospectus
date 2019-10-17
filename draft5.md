@@ -888,8 +888,7 @@ B. **What is the direction of causation?** -- Do rent controls cause rents to
     increase, or do increasing rents cause the imposition of rent controls?
     @diamond2018 found that implementing rent control in San Francisco seemed to
     cause rents to rise in the long run, but @autor2014 and @sims2007 found that
-    the
-    *removal* of rent control in Boston *also* led caused rents and land prices to
+    the *removal* of rent control in Boston *also* led caused rents and land prices to
     increase. Aside from the possibility I explore in the Chapter 2 of a
     de-linking of rents and housing supply, is it that rent control *causes*
     rents to rise, or is it that cities experiencing high rent growth tend to
@@ -1085,7 +1084,7 @@ $$ y_{ijy} = \alpha_{i} + \delta_j + \gamma_{y} + \beta_t R_{ijy} +  \epsilon_{i
 
 for the zone-level DD specification where, for zone $i$ in metropolitan area $j$, and year $y$,
 $y_{ijy}$ is a vector of the outcome variables
-[total housing stock in zone $i$, percent of rental units in $i$, average rent, average length of rental tenure],
+[total housing stock in zone $i$, percent of rental units in $i$, average rent, average length of rental tenure, land value],
 $\alpha$ is zone fixed effects,
 $\delta$ is metropolitan area fixed effects, and
 $\gamma$ is year fixed effects.
