@@ -712,7 +712,7 @@ price control, and the consensus view is that it results in social waste, lower
 housing quality, housing shortages, and paradoxically higher rents. Despite
 this, in the face of spiralling housing costs in many of the metro areas of the
 USA, many state and local governments are calling for (and enacting) rent
-control regulation.
+control regulation. 
 
 Similar to academic consensus on the minimum wage debates prior to the 1990s
 empirical labor literature, the negative view of economists on rent control
