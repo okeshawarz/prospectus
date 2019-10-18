@@ -733,7 +733,13 @@ This essay represents a contribution to the empirical literature on rent control
 While much of the literature focuses on exploiting single-city changes in laws to identify the impacts of rent regulation,
 relatively few have looked at modern rent controls at wider scales.
 This in part can be attributed to the relative rarity of rent regulations in the United States.
-
+As of 2019, the approximately 200 cities that have some sort of rent regulation are conentrated in New York, New Jersey, and California.
+This essay selects a subset of these cities, namely 99 cities with more than 10,000 people in New Jersey, for empirical study
+^[See Appendix A for a list of rent-controlled municipalities provided by the New Jersey Department of Community Affairs].
+I choose this subset of cities because, as part of a single metropolitan region,
+cities in the New Jersey area can be plausibly seen to be part of related rental markets.
+New Jersey municipalities are also relatively free from interference from state rent control laws,
+as opposed to the powerful political opposition to rent regulation in California.
 
 ## Literature Review
 
@@ -745,7 +751,7 @@ evidence to be much more lukewarm than the theory on the supposed
 destructiveness of rent regulation.
 
 @gilderbloom2007 estimates the impacts of second-generation rent controls on a
-cross-section of New Jersey cities. The authors assert that New Jersey has a
+cross-section of New Jersey cities, similar to this study. The authors assert that New Jersey has a
 "moderate" form of rent control allowing for guaranteed rent increases every
 year, with some cities including a vacancy decontrol provision. They use data
 from a survey by the New Jersey Tenants Organization at the city level of
@@ -951,15 +957,15 @@ the scale of the study.
 As such, the first necessary piece of data is a database
 of all municipal rent control laws in the country, their date of enactment,
 their date of expiration (if any), and the existence of any vacancy decontrol
-provisions. Since legislation is a matter of public record, this database should
-only require a bit of legwork to construct.
-The database, when constructed, will have the following format:
-
-|    City     | Metro Area  | Enacted | Abolished | Decontrol |   Coords.   |
-| ----------- | ----------- | ------- | --------- | --------- | ----------- |
-| Newark      |             | 19xx    | NA        | Vacancy   | 63.35-23.22 |
-| Jersey City | NYC-NWK-PHL | 198x    | 2005      | None      | 42.46-55.24 |
-
+provisions. 
+@newjerseydca2009 provides an extensive list of cities in New Jersey with rent regulations,
+including summaries of their applicability to buildings of various ages and densities. 
+To this I will need to add start dates of the rent control law in each city. 
+This also brings into focus a potential difficulty in the analysis;
+there is widespread heterogeneity in rent control laws between states.
+As the DCA survey indicates, 
+controls vary widely on the basis of number of rooms and age of building,
+as well as on the basis of decontrol. 
 
 The second set of data I require is a panel data set of (ideally) individual
 housing units, their date of construction, whether they are owned or rented,
@@ -1068,7 +1074,7 @@ The control group, then were all of remaining zones within the Boston MSA.
 ## Methodology
 
 To explore the effects of rent control on various housing and neighborhood
-characteristics, I will employ the *difference-in-differences* empirical
+characteristics in New Jersey cities, I will employ the *difference-in-differences* empirical
 strategy, following in general the approach of @sims2007. This requires a
 panel data set of repeated observations over time. The regressor of interest
 is a variable that varies at the group or aggregate level over time given a
@@ -1097,10 +1103,11 @@ methods of adjusting rents to the market rate. This policy heterogeneity
 means that a single dummy variable will not accurately reflect the treatment
 effect of a wide variety of control types; @gilderbloom2007, for example,
 finds evidence that rent control policies in New Jersey cities are not
-particularly salient. An alternate specification will attempt to test for the
-salience of rent control laws by accounting for differences in rent control
-types, primarily with respect to the presence or absence of vacancy decontrol
-and condo conversion provisions. Finally, the direction of causality is
+particularly salient. 
+They attempt to correct for this by introducing an index of relative moderation and strictness as an estimand.
+
+
+Finally, the direction of causality is
 important; a final specification will use distributed lags using AHS data
 every 4 years^[Each metropolitan area in the AHS survey is sampled on a
 rotating basis every 3 years, leading to 6-year data cycles.]
