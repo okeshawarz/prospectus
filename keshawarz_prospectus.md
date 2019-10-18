@@ -729,6 +729,12 @@ access to the institutions and amenities that promote inter-generational
 mobility to those households that would have otherwise been displaced by rising
 housing costs.
 
+This essay represents a contribution to the empirical literature on rent control. 
+While much of the literature focuses on exploiting single-city changes in laws to identify the impacts of rent regulation,
+relatively few have looked at modern rent controls at wider scales.
+This in part can be attributed to the relative rarity of rent regulations in the United States.
+
+
 ## Literature Review
 
 @pastor2018 provides a general overview of the recent empirical literature
@@ -940,17 +946,19 @@ immediately afterwards by a broader, statewide change in the law that had
 attenuating effects on the phenomena under consideration. In all three
 questions, the narrowness of focus draws questions about external validity. This
 essay attempts to bypass those questions by narrowing the scope and broadening
-the scale of the study. As such, the first necessary piece of data is a database
+the scale of the study. 
+
+As such, the first necessary piece of data is a database
 of all municipal rent control laws in the country, their date of enactment,
 their date of expiration (if any), and the existence of any vacancy decontrol
 provisions. Since legislation is a matter of public record, this database should
 only require a bit of legwork to construct.
 The database, when constructed, will have the following format:
 
-| State |    City     | Metro Area  | Enacted | Abolished | Decontrol |   Coords.   |
-| ----- | ----------- | ----------- | ------- | --------- | --------- | ----------- |
-| CA    | Sacramento  | SF-SJ       | 19xx    | NA        | Vacancy   | 63.35-23.22 |
-| NJ    | Jersey City | NYC-NWK-PHL | 198x    | 2005      | None      | 42.46-55.24 |
+|    City     | Metro Area  | Enacted | Abolished | Decontrol |   Coords.   |
+| ----------- | ----------- | ------- | --------- | --------- | ----------- |
+| Newark      |             | 19xx    | NA        | Vacancy   | 63.35-23.22 |
+| Jersey City | NYC-NWK-PHL | 198x    | 2005      | None      | 42.46-55.24 |
 
 
 The second set of data I require is a panel data set of (ideally) individual
@@ -1079,21 +1087,23 @@ during that interval. Since a metropolitan area consists of many such zones,
 some of which fell under rent control and some of which did not, this
 approach can be considered as a type of generalized case study approach
 (following @dube2010) evaluating the impacts of rent controls in *every
-metropolitan area* in the United States. One of the difficulties noted in the introduction and by
-authors such as @arnott1995 is that there is significant heterogeneity within
-the type of rent control policies that are enacted by cities, ranging from hard
-rent controls that still remain in place for a small number of housing units in New
-York City and the West Coast, to relatively "soft" rent controls that provide
-for vacancy decontrol and other methods of adjusting rents to the market rate. This policy heterogeneity means that a single dummy
-variable will not accurately reflect the treatment effect of a wide variety of
-control types; @gilderbloom2007, for example, finds evidence that rent control policies
-in New Jersey cities are not particularly salient. An alternate specification
-will attempt to test for the salience of rent control laws by accounting for
-differences in rent control types, primarily with respect to the presence or
-absence of vacancy decontrol and condo conversion provisions. Finally, the
-direction of causality is important; a final specification will use distributed
-lags using AHS data every 4 years^[Each metropolitan area in the AHS survey is
-sampled on a rotating basis every 3 years, leading to 6-year data cycles.]
+metropolitan area* in the United States. One of the difficulties noted in the
+introduction and by authors such as @arnott1995 is that there is significant
+heterogeneity within the type of rent control policies that are enacted by
+cities, ranging from hard rent controls that still remain in place for a
+small number of housing units in New York City and the West Coast, to
+relatively "soft" rent controls that provide for vacancy decontrol and other
+methods of adjusting rents to the market rate. This policy heterogeneity
+means that a single dummy variable will not accurately reflect the treatment
+effect of a wide variety of control types; @gilderbloom2007, for example,
+finds evidence that rent control policies in New Jersey cities are not
+particularly salient. An alternate specification will attempt to test for the
+salience of rent control laws by accounting for differences in rent control
+types, primarily with respect to the presence or absence of vacancy decontrol
+and condo conversion provisions. Finally, the direction of causality is
+important; a final specification will use distributed lags using AHS data
+every 4 years^[Each metropolitan area in the AHS survey is sampled on a
+rotating basis every 3 years, leading to 6-year data cycles.]
 
 ### Specification 1
 
@@ -1137,6 +1147,10 @@ $R^T$ now takes the value
 0 if the zone is not rent-controlled in year $y$,
 1 if the zone is rent controlled but without decontrol provisions in year $y$, or
 2 if the zone is rent controlled with a decontrol provision in year $y$.
+
+# Appendix
+
+## Appendix A: Rent-Controlled Cities in New Jersey
 
 \newpage
 
