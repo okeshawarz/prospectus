@@ -670,9 +670,13 @@ how generalizable are these conclusions?
 
 This essay will rely on several primary sources of data. 
 The Bureau of Labor Statistics provides data on quarterly wages at the level of the county.
-The American Community Survey (ACS) 5-year estimates provide data on wages and rents to the level of the census tract and zip code tabulation area (ZCTA). 
+The American Community Survey (ACS) 5-year estimates provide data on wages, rents, and migration to the level of the census tract and zip code tabulation area (ZCTA). 
 In addition to federal Census data, 
 the city of San Francisco offers granular, geocoded data on rents, wages, and housing construction at http://www.datasf.org.
+Zillow, a real estate price tracking firm, 
+provides access to ZTRAX,
+a national database at the parcel-level containing transaction price histories and assessed values. 
+Finally, I will rely on short-term rental data from Airbnb. 
 
 
 
@@ -1102,10 +1106,7 @@ relatively "soft" rent controls that provide for vacancy decontrol and other
 methods of adjusting rents to the market rate. This policy heterogeneity
 means that a single dummy variable will not accurately reflect the treatment
 effect of a wide variety of control types; @gilderbloom2007, for example,
-finds evidence that rent control policies in New Jersey cities are not
-particularly salient. 
-They attempt to correct for this by introducing an index of relative moderation and strictness as an estimand.
-
+construct an index of rent control strictness and include this as an independent variable.
 
 Finally, the direction of causality is
 important; a final specification will use distributed lags using AHS data
