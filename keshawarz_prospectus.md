@@ -451,8 +451,6 @@ is not clearly defined-- can landlords really bargain away *the entirety*
 of superprofits in agriculture? What are the constraints on this process?
 How does it operate in the context of *urban* real estate?
 
-**add a better section on Engels here**
-
 While Marx focused on the relationship between labor and capital in relatively
 land-scarce Europe, Henry George directed his analysis on the relationship
 between labor and land in the land-abundant United States. At the time, land
