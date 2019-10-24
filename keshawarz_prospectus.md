@@ -624,6 +624,33 @@ of the specific cases of particular cities), creating a sort of urban
 archaeology-- layers of bones and sinew upon which successive generations of
 spatial structures were built.
 
+This essay is an attempt to historicize the theoretical argument made in the previous essay for the case of a single city.
+The San Francisco Bay Area, and the city of San Francisco in particular,
+has become something of a central point for debates over land, space, density, and housing in the past decade.
+The Bay Area features some of the highest salaries in the nation,
+as well as the highest land values and rents.
+At the same time, San Francisco has some of the lowest rates of density and homebuilding among American urban areas.
+The Bay Area is the epicenter for the rise in hi-tech capital,
+and serves as an interesting focal point for the study of intra-class conflict between this new form of networked capital,
+real estate capital,
+and traditional industries,
+as well as between the corporate capitalist sector and the real estate sector.
+These conflicts have erupted in battles by tenant movements, landlords, and developers over zoning laws, densification, and new construction.
+
+In this essay, I trace changes in the urban political economy of San Francisco through the relationship between the geography of urban accumulation and neighborhood-level changes in wages, land values, and rents.
+I will use an approach that combines historical research with descriptive data.
+Broadly, I am interested in looking at patterns of urban growth and distribution in the city;
+how did increases in productivity from both technological change and public investment become capitalized into land prices and rents?
+To what extent did they lead to increases in wages, and to what extent did they show up as higher housing costs?
+I am also interested in the political economy of the built environment in San Francisco.
+In other words, how does the conflict over the urban surplus show up in political struggles over zoning, migration, and housing supply?
+This essay will focus particularly on the role of real estate developers in the political economy of the city.
+Typically, Marxist accounts of urban development and land rents have difficulty in accounting for the role of a particular sort of landed capitalist,
+the real estate developer, in the mechanisms of production and distribution.
+To what extent do the interests of developers and landlords align?
+To what extent do they differ?
+And, how does the operation of developers affect the construction of the built environment?
+
 @soja2003 uses the term *synekism* to refer to the "stimulus of urban agglomeration:"
 
 >[synekism is] seen as a continuous and highly politicized process of urban
@@ -643,9 +670,7 @@ leads to new ideas and accelerates societal development? Just how significant is
 this specifically urban stimulus and energy?"
 
 Of course, questions of agglomeration have always been at the root of enquiry into the nature of cities.
-In this essay, I form a descriptive account of the latest period of urban expansion in the city of San Francisco, California.
-Using descriptive and historical data on the formation and location of firms,
-the geographic dispersion of wages, land prices, and rents,
+In addition to the geographic dispersion of wages, land prices, and rents,
 and historical records on land-use decisions and housing transactions,
 this essay will investigate the role of city-scale responses to the business cycle and structural change in the corporate sector.
 The story is, essentially, about synekism;
@@ -666,18 +691,15 @@ how generalizable are these conclusions?
 
 ## Data and Methodology
 
-This essay will rely on several primary sources of data. 
+This essay will rely on several primary sources of data.
 The Bureau of Labor Statistics provides data on quarterly wages at the level of the county.
-The American Community Survey (ACS) 5-year estimates provide data on wages, rents, and migration to the level of the census tract and zip code tabulation area (ZCTA). 
-In addition to federal Census data, 
+The American Community Survey (ACS) 5-year estimates provide data on wages, rents, and migration to the level of the census tract and zip code tabulation area (ZCTA).
+In addition to federal Census data,
 the city of San Francisco offers granular, geocoded data on rents, wages, and housing construction at http://www.datasf.org.
-Zillow, a real estate price tracking firm, 
+Zillow, a real estate price tracking firm,
 provides access to ZTRAX,
-a national database at the parcel-level containing transaction price histories and assessed values. 
-Finally, I will rely on short-term rental data from Airbnb. 
-
-
-
+a national database at the parcel-level containing transaction price histories and assessed values.
+Finally, I will rely on short-term rental data from Airbnb.
 
 # Rent Control Revisited: Is it Good, Actually?
 
@@ -714,7 +736,7 @@ price control, and the consensus view is that it results in social waste, lower
 housing quality, housing shortages, and paradoxically higher rents. Despite
 this, in the face of spiralling housing costs in many of the metro areas of the
 USA, many state and local governments are calling for (and enacting) rent
-control regulation. 
+control regulation.
 
 Similar to academic consensus on the minimum wage debates prior to the 1990s
 empirical labor literature, the negative view of economists on rent control
@@ -731,7 +753,7 @@ access to the institutions and amenities that promote inter-generational
 mobility to those households that would have otherwise been displaced by rising
 housing costs.
 
-This essay represents a contribution to the empirical literature on rent control. 
+This essay represents a contribution to the empirical literature on rent control.
 While much of the literature focuses on exploiting single-city changes in laws to identify the impacts of rent regulation,
 relatively few have looked at modern rent controls at wider scales.
 This in part can be attributed to the relative rarity of rent regulations in the United States.
@@ -954,20 +976,20 @@ immediately afterwards by a broader, statewide change in the law that had
 attenuating effects on the phenomena under consideration. In all three
 questions, the narrowness of focus draws questions about external validity. This
 essay attempts to bypass those questions by narrowing the scope and broadening
-the scale of the study. 
+the scale of the study.
 
 As such, the first necessary piece of data is a database
 of all municipal rent control laws in the country, their date of enactment,
 their date of expiration (if any), and the existence of any vacancy decontrol
-provisions. 
+provisions.
 @newjerseydca2009 provides an extensive list of cities in New Jersey with rent regulations,
-including summaries of their applicability to buildings of various ages and densities. 
-To this I will need to add start dates of the rent control law in each city. 
+including summaries of their applicability to buildings of various ages and densities.
+To this I will need to add start dates of the rent control law in each city.
 This also brings into focus a potential difficulty in the analysis;
 there is widespread heterogeneity in rent control laws between states.
-As the DCA survey indicates, 
+As the DCA survey indicates,
 controls vary widely on the basis of number of rooms and age of building,
-as well as on the basis of decontrol. 
+as well as on the basis of decontrol.
 
 The second set of data I require is a panel data set of (ideally) individual
 housing units, their date of construction, whether they are owned or rented,
@@ -1131,9 +1153,9 @@ The alternative hypothesis is that, in the years following the imposition of ren
 there will be a significant divergence in some or all of the outcome variables $y$.
 In particular, the standard expectation is that rent control, if binding will result in
 a decrease in the growth of the housing stock in zone $i$,
-a decrease in the number of rental units as a fraction of the total housing stock in $i$, 
+a decrease in the number of rental units as a fraction of the total housing stock in $i$,
 a decrease in rents for controlled units in zone $i$, and
-an increase in the average length of rental tenure in $i$. 
+an increase in the average length of rental tenure in $i$.
 
 In this case, both the signs of the coefficients and their magnitudes are important--
 I am interested in *how much* rent regulation policies might affect rents and
