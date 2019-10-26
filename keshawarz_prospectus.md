@@ -909,7 +909,7 @@ and the net present value of the property. In the framework established in the
 first chapter, this is closer to the idea of monopoly rents, or DRII. The second
 channel they identify is the indirect effect, where decontrol raises the value
 of surrounding, never-controlled properties. The mechanism that the authors
-propose is that decontrol inventivizes landlords to "renovate and modernize
+propose is that decontrol incentivizes landlords to "renovate and modernize
 decontrolled units, raising their rental values." This attracts higher-income
 tenants, which attracts *other* high-income tenants to the *never-controlled*
 properties, by means of "improved housing stock and more affluent neighbors."
