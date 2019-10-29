@@ -831,7 +831,7 @@ regulations that the authors use as the source of exogenous variation in their
 study. This act established two things that radically undermined California rent
 control and almost assuredly affected their results: 1) the Act allowed for
 vacancy decontrol, which provides strong incentives for landlords to evict
-tneants when the gap between market and controlled rents becomes sufficiently
+tenants when the gap between market and controlled rents becomes sufficiently
 large, and 2) the Act exempted condominiums and new construction from rent
 control. It is not clear how much two of the authors' main findings (that rent
 control led to higher eviction rates of lower-income tenants, and that landlords
