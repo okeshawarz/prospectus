@@ -4,14 +4,9 @@ author: Osman Keshawarz
 date: "November 15, 2019"
 bibliography: [prospectus.bib]
 abstract: this prospectus proposes three questions in the field of urban political economy. the first is a theoretical question on the relationship between urban growth, density, wages, profits, and rents, based on classical political economy treatments of the land question. The second essay is a historical-descriptive essay that attempts to apply the theoretical insights of the first chapter to patterns of firm location, wage increases, and land value changes in San Francisco, California. The final question is an difference-in-differences empirical study of the effects of rent control laws in New Jersey.
-output:
-    pdf_document
-        toc: true
-        toc_depth: 2
-        number_sections: true
-        fig_width: 6
-        fig_heaight: 5
-        fig_caption: true
+toc: true
+toc-depth: 2
+numbersections: true
 ---
 
 # Introduction: Centering Space in Political economy
