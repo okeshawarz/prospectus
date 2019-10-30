@@ -1,0 +1,13 @@
+---
+title: "Three Essays on Urban Economics"
+author: Osman Keshawarz
+date: "November 15, 2019"
+output:
+    pdf_document
+        toc: true
+        toc_depth: 2
+        number_sections: true
+        fig_width: 6
+        fig_heaight: 5
+        fig_caption: true
+---
