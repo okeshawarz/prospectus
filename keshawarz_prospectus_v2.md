@@ -13,7 +13,7 @@ numbersections: true
 
 This prospectus outlines a proposal for three essays on the themes of urban growth, distribution, and land use policy in the United States.
 The overall motivation of this dissertation, in the broadest terms,
-is to understand how rents in markets for land and housing affect economic outcomes for those living and working in urban regions^[As @lefebvre2003 would say, "the urban" is not limited merely to cities but rather to an entire urban mode of production. I tend to agree.].
+is to understand how rents in markets for land and housing affect economic outcomes for those living and working in urban regions^[As @lefebvre2003 would say, "the urban" is not limited merely to cities but rather to an entire global urban mode of production. I tend to agree.].
 Over the course of investigating this question,
 this dissertation will touch upon questions of income and wealth inequality,
 agglomeration and scale economies,
@@ -22,8 +22,8 @@ and housing policy.
 
 The discipline of economics has been going through something of its own "spatial turn",
 lagging somewhat embarassingly behind most of the other social sciences.
-It has become increasingly obvious that heterogeneity of outcomes across space,
-as well as time,
+It has become increasingly obvious that heterogeneity of 
+outcomes across space, as well as time,
 is a persistent feature of economic phenomena.
 In the past few years, much has been made about "superstar cities,"
 "superstar firms,"
@@ -32,4 +32,22 @@ At the same time, housing crises are being proclaimed in the most prosperous of 
 while the rest seem to be mired in stagnation and urban decay.
 The *spatiality* of American economic life is finally getting its own problematic,
 as growth and decline are recognized as fundamentally place-linked.
-This dissertation, then can be a contribution to the spatialization of economics.
+This dissertation serves as a contribution to the spatialization of economics. 
+
+**Talk about regular urbecon models here: Von Thunen, Muth, Standard Urban Model**
+
+One of @soja1980's most lasting contributions was the idea of the socio-spatial dialectic,
+in which social relations shape spatial relations,
+which are in turn shaped by them. 
+This shows up as an unevenness of social relations across space and scale,
+as people and production shift from rural to urban to suburban and possibly back again,
+with concomitant shifts in social practice, political culture, and economic inequality.
+The tradition of radical geography, starting with @lefebvre2003, has always fundamentally been about the right to the city--
+for whom does the city work, and to whom does the city (and the benefits of living therein) belong?
+In this dissertation, my aim is to examine a very narrow section of the discourse on the right to the city.
+The question that I am concerned with, broadly, is "how do patterns of land ownership determine the right to the city?"
+The essays outlined in this prospectus are concerned with a proper subset of spatial relations,
+the perhaps the most obvious ones: land ownership and land rents. 
+
+Land and land-rents, of course, have not always been relegated to the periphery of the economics discipline.
+The problem of landownership and rents were a primary concern of even the earliest classical economists. 
