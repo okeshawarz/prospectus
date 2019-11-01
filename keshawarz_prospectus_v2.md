@@ -51,3 +51,21 @@ the perhaps the most obvious ones: land ownership and land rents.
 
 Land and land-rents, of course, have not always been relegated to the periphery of the economics discipline.
 The problem of landownership and rents were a primary concern of even the earliest classical economists. 
+In *The Wealth of Nations*, Adam Smith writes:
+
+>Ground-rents, so far as they exceed the ordinary rent of land, are altogether
+>owing to the good government of the sovereign, which, by protecting the
+>industry of either the whole people, or of the inhabitants of some particular
+>place, enables them to pay so much more than its real value for the ground
+>which they build their houses upon... Nothing can be more reasonbale than that
+>a fund, which owes its existence to the good government of the state should be
+>taxed peculiarly, or should contribute something more than the greater part of
+>other funds, towards the support of that government. 
+
+The pecularity of land ownership was, then, well-known to the classical thinkers, Smith, Ricardo, Marx, and Keynes.
+The existence of a monopoly on *space*, which is a fundamental condition of existence (for both the production process as well as... well, anything) posed huge barriers to the well-organized accumulation of capital^[Ricardo, for example, famously argued for the abolition of the Corn Laws in England, leading to the eventual liquidation of the English gentry as a class.]. 
+The tripartite division of the national product into wages, profits, and rents, was a relatively uncontroversial tenet of political economy
+until John Bates Clark, armed with marginal productivity and lacking a theory of land or land-rent,
+became the groundwork for the neoclassical school of economics.
+This particular bit of history of economic thought will be elaborated on further in Essay 1, 
+but I mention it here to motivate the contribution of this dissertation. 
