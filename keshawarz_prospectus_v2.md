@@ -187,15 +187,11 @@ and the way that this growth is dividied between wages, profits, and rents.
 The particularly urban process of agglomeration features heavily into this account.
 I begin with the observation that neoclassical treatments of urban growth have, since John Bates Clark, excluded land as a particular factor of production.
 Without accounting for the role of landlords, any account of the role of rents in urban growth (which, for obvious reasons, is likely to be quite large) will likely to be insufficient.
-I follow this with a presentation of the classical political economy thought on land rents and growth, followed by a formal presentation of a broadly Marxian-Georgiest account of growth and distribution in an urban economy.
+I follow this with a presentation of the classical political economy thought on land rents and growth, followed by a formal presentation of a broadly Marxian-Georgist account of growth and distribution in an urban economy.
 
 \endgroup
 
 ## Research Questions
-
-\begin{wrapfigure}[12]{r}{0.4\textwidth}
-\includegraphics[width=0.4\textwidth,keepaspectratio]{images/marxcomic.png}
-\end{wrapfigure}
 
 1. To what extent are gains from public goods and productivity increases captured by landlords?
 
@@ -261,3 +257,82 @@ The essential focus here will be to adapt the classical thought on rents and lan
 (essentially: how do urban agglomerative effects interact with rents?). Following that, I will develop these into a formal theoretical presentation.
 
 ## Literature Review
+Much of the recent urban economics literature on growth has focused on two things:
+human capital theories of growth (of which skill-biased technical change and spatial skill sorting play an outsized explanatory role) and the effects of housing supply constraints.
+All of these rely broadly on the SEM and associated "spatial mismatch" explanations--
+in other words, some factor is preventing labor or investment from being directed to its most efficient location in space.
+
+@moretti2013 begins with observation on the evolution of inter-city inequality over the past 5 decades.
+He identifies significant and persistent heterogeneity in American economic geography, but points out that only recently has this heterogeneity been driven by high rates of human capital(as measured by college degree attaionment) in so-called "skilled cities."
+His theory of urban agglomeration is centered around knowledge spillovers.
+A kind of schematic metaphor for this process is a group of high-skill workers gathering for beers after work-- despite being from different industries,
+their proximity and discussion is the substratum for the creation of new ideas and entrepreneurial energy.
+a consequence to this is that if the gains to knowledge spillovers are high, then a city with a "small-firm" ecosystem will tend to do better, pay higher wages, and grow more,
+than a city with a "large-firm" ecosystem.
+However, growth in productivity will, absent growth in the housing stock, will tend to drive up rents,
+leading to declines in inter-city mobility and a skill-sorting equilibrium
+where human capital is drained out of declining cities.
+Indeed, @ganong2017 have found that both income divergence and migration between cities
+has declined since the 90s. @gianone2017 use a SEM and Census data to argue that skill-biased technical change explains in part the decline in regional income convergence--
+in essence, low-skilled workers become "trapped" in low-skilled cities as rents rise high-skilled cities.
+@rossi-hansberg2019 develop an extension of the human capital spatial equilibrium model to argue that cities with large numbers of "cognitive non-routine" (CNR) are more productive than those with fewer,
+and that divergence between high-rent-high-wage cities and low-wage-low-rent cities is optimal, given a transfer payment from high-productivity workers to low-productivity ones.
+In other words, given preferences for smaller city sizes in knowledge hubs,
+these wealthy cities should pay less-skilled people to stay in low-rent cities.
+The unspoken assumption that remains relatively unquestioned in this literature is the distribution of "skills."
+Are high-CNR cities *drawing off* high-skilled (or potentially high-skilled) workers,
+or are they *creating* high skilled workers?
+This question is addressed somewhat more explicitly in the newer labor literature surrounding mobility and human capital, e.g. @chetty2014.
+
+This "trapping" effect requires a high-skilled pull (in the form of high wages) and a low-skilled push (in the form of high rents).
+The push factor is relatively extensively theorized in the urban literature.
+@glaeser2002, in their seminal paper, use the divergence between housing prices and construction costs to argue that prices are much higher than one would expect,
+given perfectly competitive assumptions about the real estate development industry.
+Under these assumptions, the argument is perfectly valid;
+any distortions such that prices do not equal marginal costs should be the result of market failure or government intervention.
+However, it is unclear to me that the construction industry or land markets in general can be called perfectly competitive,
+especially in densely built urban areas.
+
+The few empirical papers that have been done on the topic of land rents have found mixed results.
+@freemark2019 finds no evidence that supply-side policy
+(in particular, zoning for greater density in several Chicago neighborhoods)
+do not necessarily result
+in the reduction of rents or expansion of the housing stock
+(let alone the expansion of the *affordable* housing stock).
+Finally,
+as mentioned in the introduction to this prospectus,
+the effects identified by @agarwal2019 are precisely the phenomenon this essay wishes to investigate;
+they find that five years after an increase in the minimum wage in 25 states,
+rent increases had absorbed almost all of the increased income.
+The scope of this effect seems to weaken the supply-side argument regarding housing costs;
+if increases in income are, in general, captured by landlords
+across different geographies with presumably different housing supply elasticities,
+it points to some other factor that tends to drive up rents in the face of wage increases.
+Indeed, @li2019 find that the neighborhood-level effects
+of new market-rate construction had a rather surprisingly small effect;
+a 10% increase in the housing stock
+in the form of high-rise apartments
+resulted in a 1% decrease in rents in a 500-foot area surrounding the construction.
+
+Finally, @knoll2014 also find that 87% of housing price shifts in the United States during the last century
+can be attributed to changes in the price of *land*.
+It is, again, unclear whether we can attribute prices in excess of marginal costs to construction or something else.
+Here the SEM approach is particularly poorly-suited to deal with the question of land,
+treating returns to land ownership the same as capital income.
+Thus, in this essay I propose a re-spatialization of urban economic theory,
+using the classical approach with land as a separate factor of production as a base.
+
+### Classical Views of Rent
+
+Land rents emerged as a chief concern for the early study of political economy,
+beginning largely in the realm of agricultural production.
+@ricardo1821 began with the assumption that the quantity of land available for cultivation was fixed,
+and therefore land itself had no price of production.
+He observed that land of differential fertility produced differential levels of output,
+and the most fertile land was generally the most limited in supply.
+
+Consider a world with three plots of land, $n_1, n_2$, and $n_3$.
+Each $i$ plot yields, given identical inputs of labor and capital,
+an output of corn, $x_1 < x_2 < x_3$.
+Each plot is owned by a landowner, who is paid a rent by a (capitalist) farmer,
+who pays a fixed wage $w$, and faces a market output price of $p$.
