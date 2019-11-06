@@ -563,6 +563,681 @@ On this point, the author of this dissertation proposal agrees.
 
 ## Methodology and Conclusion
 
+In this essay, I intend to proceed as follows:
+I begin with a more comprehensive review of contemporary literature in urban economics,
+place-based labor economics, and (New) Economic Geography. 
+This will serve as a starting point for the discussion of the relevant issues of urbanization, housing, and rents.
+I then focus on a detailed historiy of economic thought on the topics of land rents and urbanization,
+reviewing Smith, Ricardo, Sraffa, and Keynes, with a particular focus on Marx and George,
+and their associated successors in the discipline of economic geography.
+Finally, I condense this into a presentation of the relationship between wages, profits, rents, and density.
+The intent of this essay is summed up by the following conjecture: 
+
+Cities are, by nature, an increasing-returns phenomenon.
+In light of that fact,
+when cities become more dense,
+it is likely the case that the productivity of a particular city increases,
+leading to greater relocations of firms, 
+and greater demand for land and housing within the city.
+The land commodity has peculiar features in terms of its elasticity of supply
+and the way that space interacts with the existence of any particular process.
+These features of laand markets may have very large implications in the distribution of income.
+For example, if increased density increases the amount captured by landlords,
+then the market urbanist prescription of simply upzoning and constructing market-rate housing
+may result in an increase in the housing supply
+but without any decrease in rents. 
+Additionally, the long-lived nature of the *housing* commodity,
+and the increasing costs of building more density,
+mean that out-of-equilibrium dynamics of urban economies
+become highly important. 
+It doesn't seem likely,
+even if we grant the assumptions of the SEM,
+that land and housing markets adjust as quickly as labor markets do,
+especially in the case of urban *decline.*
+The Rust Belt is evidence of cities that were once highly productive,
+with relatively high wages,
+and land and housing that were once highly valuable but now no longer so.
+Finally, land and housing markets are the site of *political* battles over distribution,
+with the political-economic equilibrium in many cases differing markedly from the standard static equilibrium outcome. 
+
+\newpage
+
+# The Condition of the Working Class in San Francisco
+
+## Research Questions
+
+## Abstract
+
+## Introduction
+
+## Data and Methodology
+
+\newpage
+
+# Rent Control Revisited: Is it Good, Actually? 
+
+## Research Questions
+
+1. To what extent is the housing supply affected by rent regulation? 
+
+2. To what extent is the *rental* housing supply affected by rent regulation?
+
+3. To what extent do rent controls accomplish the goals of maintaining housing affordability and neighborhood stability? 
+
+## Abstract
+
+This essay is a contribution to the empirical literature on rent control in the United States.
+Despite re-invigorated demands for rent control policies globally,
+the consensus of the economics discipline has remained solidly against the measure.
+Most of this opposition is on theoretical grounds,
+rather than empirical evidence.
+How severe are the deleterious effects of rent control
+on the housing supply, rents, and neighborhood composition?
+Does it really achieve the desired goal of neighborhood stabilization,
+or does it merely increase the rate of gentrification and growth in housing costs? 
+This essay addresses the difficulty of empirical work on housing in general,
+and estimates the impacts of municipal rent control policies on rents,
+tenure lengths,
+neighborhood amenity access,
+the rate of new housing construction,
+and the supply of rental housing. 
+
+## Introduction
+
+Rent control is considered as solved a problem as any in economics,
+with the consensus of the vast majority of economists
+being that it is a textbook case of unintended consequences.
+Rent control is, of course, a price control,
+and the consensus view is that it results in social waste,
+lower housing quality,
+housing shortages,
+and paradoxically higher rents.
+Despite this,
+in the face of rapid growth in housing costs
+in many of the metro areas of the USA,
+many state and local governments
+are calling for
+(and enacting)
+rent control regulation.
+
+Similar to academic consensus
+on the minimum wage prior to the 1990s empirical labor literature,
+the negative view of economists
+on rent control
+is widespread despite empirical evidence being mixed, at best--
+much of the existing literature struggles with external validity and limited-scope problems.
+This chapter serves as an empirical intervention
+into the rent control debate.
+Taking a cue from the minimum wage literature,
+this essay intends to estimate
+the comparative impacts
+of rent control policies
+on several variables of interest--
+namely, growth in the housing stock,
+growth in the supply of rental housing,
+home prices,
+rents,
+and neighborhood stability.
+
+While much of the existing literature focuses
+on exploiting single-city changes in laws
+to identify the impacts of rent regulation,
+relatively few 
+have looked at modern rent controls 
+at wider scales.
+This in part 
+can be attributed to
+the relative rarity
+of rent regulations
+in the United States. 
+As of 2019,
+the approximately 200 cities
+that have some sort of rent regulation
+are concentrated in New York,
+New Jersey, 
+and California. 
+This essay selects a subset of these cities,
+namely 99 cities with more than 10,000 people
+in New Jersey, 
+for empirical study
+^[see Appendix A for a list of rent-controlled municipalities provided by the New Jersey Department of Community Affairs]
+I chose this subset of cities because,
+as part of a single metropolitan region, 
+cities in the New Jersey area can be plausibly seen to be part of related rental markets.
+New Jersey municipalities are also relatively free
+from interference from state rent control laws,
+as opposed to powerful political opposition at the state level to rent regulation in California.
+
+## Literature Review
+
+@pastor2018 provides a general overview
+of the recent empirical literature on rent control.
+They find that the literature is relatively straightforward
+on the effect of rent control on rents--
+that is, rent control reduces rents for rent-regulated housing units.
+They also find the evidence to be
+much more lukewarm than the theory 
+on the supposed destructiveness
+of rent regulation. 
+
+@gilderbloom2007 estimates the impacts
+of second-generation rent controls
+on a cross-section of New Jersey cities.
+Their paper is the closest to this essay's subject,
+using the same area of analysis.
+The authors argue that most New Jersey cities
+have a "moderate" form of rent control
+allowing for a guaranteed rent increase every year,
+and with some cities including a vacancy decontrol provision.
+They use data
+from a survey
+by the New Jersey Tenants Organization
+at the city level of observation,
+and tested using OLS.
+They found that 
+"moderate rent control had no impact on median monthly contract rent."
+They also found evidence
+that rent controls *increased* the supply of rental housing
+by incentivizing landlords to subdivide their rental units.
+Overall, the authors found
+the total effect on the supply and maintenance
+of the housing stock
+was relatively minor. 
+
+@ambrosius2015 repeats the procedure of @gilderbloom2007,
+using data from 10 years later.
+They find, as before, that the impact of rent controls in New Jersey
+had negligible effects on the housing supply,
+and suggest that the relatively generous provisions of the laws
+combined with widespread vacancy decontrol
+meant that the rent controls were rarely binding.
+These two analyses have the benefit
+of being relatively more general
+than single-city case studies;
+they both have drawbacks
+in that the methodology used does not lead to causal identification.
+Taken together, both these studies take two points in time
+and show that there has been little statistical divergence
+in the outcome variables.
+Whether that is due to the non-bindingness of rent controls
+or to some other hidden effect
+is not clear.
+This essay uses the same set of New Jersey cities,
+but uses panel data of several 6-year periods 
+and a difference-in-differences specification
+to more concretely examine the causal effects of rent control.
+
+@diamond2018 provides the most recent
+well-identified empirical analysis of rent control.
+They use private data sets from DataQuick and Infutor.
+These combined datasets 
+allowed the authors
+to link the identity
+of any resident of San Francisco
+to a specific address
+during the period 1990-2016, 
+in order to both
+distinguish between owner-occupied and rental housing,
+determine tenure lengths for individual persons,
+and obtain structure-level data on construction year and other housing characteristics.
+They combine this with zipcode-level estimates on rents,
+imputed from housing-price transaction data.
+In essence, 
+they estimate a linear relationship
+between median rents in a zipcode
+and the sale price of housing in that zip code.
+They then use this combined dataset
+to estimate tenant, landlord, and parcel-level effects
+of a ballot initiative that suddenly brought a significant number of multi-family dwellings
+under the rent control law.
+They also estimate welfare effects in a general equilibrium framework
+using a structural SEM of the type discussed in Section 2.
+
+The detail of the dataset is quite remarkable,
+as it allows the authors to test displacement effects on individual people and housing units.
+However, it may be subject to a few sources of bias;
+the link between housing prices and rents need be linear,
+and so it is not clear how accurate the imputations of rents are;
+and, the methodology used in 1) matching names to property records and 
+2) matching names to races may be subject to all sorts of biases and omissions.
+
+My most major critique,
+and where I feel that this essay contributes the most to the literature,
+is that this study may have serious problemswith external validity.
+It is based on a single case study
+centered around a single housing type
+in a single city.
+Moreover,
+the Costa-Hawkins Rental Housing Act was passed
+by California ballot initiative in 1995,
+one year after the local law that the authors used as a treatment effect
+was passed. 
+This act established two things that radically undermined California rent control
+and almost assuredly affected causal identification in their model;
+1) the Act allowed for vacancy decontrol, 
+which provides strong incentives
+for landlords to evict tenants
+when the gap between market-rate
+and contolled rents 
+becomes sufficiently large, and 
+2) the Act exempted condominiums and new construction
+from rent control. 
+The authors' findings were precisely that 
+rent control led to higher eviction rates of lower-income tenants,
+and that landlords converted some of their stock of rental housing
+to condominiums
+in response to rent control. 
+This, in my view, absolutely prohibits making causal claims on the basis of the model,
+since we would expect exactly what the authors found to result from the *state-*level 
+weakening of rent control, with the effect of the tiny-in-contrast effect of the
+*local*-level *strengthening* of the law unkown. 
+
+@sims2007 and @autor2014 both study the effects
+of the end of rent control in Massachusetts,
+as part of the wave of state-level anti-rent control legislature
+that swept much of the country during the 1990s.
+In particular,
+they look at the effect
+of the passage of Question 9
+by Massachusetts ballot referendum
+in 1994,
+which banned any rent control
+in Massachusetts cities. 
+At the time of the law's enactment,
+only the cities of Boston, Cambridge, and Brookline
+still had rent control laws on the books
+^[Note here again the question of political scale.
+The anti-rent control advocates
+consistently failed in opposing the laws
+at the local level,
+where tenants formed a sizable political bloc.
+At the state level,
+the coalition becomes much weaker.
+Question 9 was passed
+by a margin of 51-49;
+the three rent-controlled towns 
+overwhelmingly voted against,
+while many of the never-controlled towns
+voted for.].
+After the passage of Question 9,
+almost all housing units in the three cities
+became decontrolled on January 1, 1995.
+
+Sims uses public data
+from the American Housing Survey
+to estimate the impact of the removal of rent control
+on several housing characteristics,
+including the quality of rental housing,
+the level of rent and housing costs,
+and the length of renter tenure.
+He uses a DID identification strategy
+to compare Census zones in the Boston MSA
+that experienced decontrol
+to those that never experienced rent control,
+using a model with zone and year fixed effects
+and controlling for housing unit characteristics.
+
+To test spillover effects of rent decontrol,
+Sims uses an instrumental variable strategy
+that takes a value of 1 if the unit was *in a zone*
+that was ever under rent control
+and zero otherwise.
+To test indirect spillover effects,
+the author constructs several instruments
+including the interaction of a 2-family house indicator
+(which was excluded from rent control),
+pre-treatment year indicator,
+and a controlled-zone indicator.
+In other words, 
+finding the effect of decontrol
+on 2-family homes in controlled zones
+should provide for the identification of spillover effects,
+since these units were never under rent control.
+The author similarly constructs IVs for other forms of never-controlled housing. 
+
+Sims finds that the end of rent control had little effect on the construction of new housing.
+He further found evidence  
+that rent control decreases the number
+of available rental units through condo conversions. 
+In other words,
+rent control seemed to affect the quantity of *rental housing,*
+but not the quantity of the *housing stock.*
+He also finds
+insignificant negative effects
+on indicators of physical unit condition,
+but unsurprisingly,
+significant increases in rent charged after decontrol.
+Finally, he finds that 
+rent controlled units had much longer tenure times,
+supporting the idea of rent control promoting neighborhood stability.
+
+@autor2014 also examine the effects of the passage of Question 9
+in Massachusetts in the context of spillover effects.
+The authors were less interested specifically
+in quantifying the impact of rent (de)control,
+but instead exploted exogenous change
+in regulations to see
+how residential externalities
+get capitalized into housing prices
+as price regulations are relaxed.
+Their identification strategy relies
+on the fact that both controlled and never-controlled apartments
+stood "side-by-side in Cambridge neighborhoods
+on the eve of rent control removal
+thus offering a tight temporal and geographic framework
+for assesing the impact of the law
+on residential prices."
+In other words, since the features of rent-controlled apartments
+(non-owner-occupied houses, condominiums, or apartments
+built prior to 1969) were distributed essentially randomly
+throughout the Cambridge housing stock,
+the effects of purely the exogenous variation
+in control status
+can be identified neatly
+^[Note here a possible source of bias: the age of the housing stock
+is likely not random, and in fact 1) likely to be spatially correlated [@glaeser2014a],
+and 2) the NPV of the housing stock, itself affected by rent-controlled status
+is dependent on the age of the structure].
+
+The authors identified two major channels 
+through which rent decontrol may have affected the market value of residential properties.
+The authors term the first the "direct effect," 
+reflecting the ability of landlords
+to now charge market-rate rents;
+this both increases the maximum rent
+that the landlord may charge
+and the net present value 
+of the property.
+In the framework established in the first essay,
+this is closer to the idea of monopoly rents,
+or DRII. 
+The second channel they identify
+is the indirect effect,
+where decontrol raises the value 
+of surrounding,
+never-controlled properties.
+The mechanism that the authors propose
+is that decontrol incentivizes landlords
+to "renovate and modernize decontrolled units,
+raising their rental values."
+This attracts higher-income tenants
+to the formerly-controlled units, 
+who attract *other* high-income tenants
+to the *never-controlled* properties,
+by means of "improved housing stock
+and more affluent neighbors."
+Read critically, 
+this seems a bit difficult to parse;
+it is difficult to imagine
+that higher-income tenants will be drawn to never-controlled units 
+due to better amenities in the formerly-controlled house *next door*. 
+The more plausible claim is that higher-income tenants
+will be drawn to never-controlled units
+by "better" neighbors in formerly-controlled ones.
+Given Boston's troubled history with desegregation,
+it is not difficult to imagine
+that "better" tenants, in this case,
+probably refers to "whiter" ones [@rothstein2018].
+
+### Critical Questions
+
+Given the paucity of empirical studies on rent control, there are several
+interesting questions to be asked here. The ones that this essay will focus
+mainly upon are:
+
+A.  **How does rent control impact the supply of housing?** -- Most of the the
+    theoretical and empirical work regarding rent controls, such that it exists,
+    aims to answer this question. How much does rent control impact the expansion
+    of the supply of housing? How does the *type* of housing, as well as its
+    condition, change? What are its effects on land values and rental rates?
+    Aside from the very recent literature, outlined above, focusing on good
+    causal identification, most of the empirical literature assumes that rent
+    controls form *ex nihilo* and function as a brake on housing supply growth.
+    However, it is quite plausible that the direction of causation runs in the
+    opposite direction-- the implementation of rent control by a particular
+    electorate might be a *response* to growth in rents and evictions, caused by
+    one of the factors identified in the previous chapters.
+
+B. 	**What is the direction of causation?** -- Do rent controls cause rents to
+   	increase, or do increasing rents cause the imposition of rent controls?
+  	@diamond2018 found that implementing rent control in San Francisco seemed to
+    cause rents to rise in the long run, but @autor2014 and @sims2007 found that
+    the *removal* of rent control in Boston *also* led caused rents and land
+    prices to increase. Aside from the possibility I explore in the Chapter 2 of
+    a de-linking of rents and housing supply, is it that rent control *causes*
+    rents to rise, or is it that cities experiencing high rent growth tend to
+    enact rent control legislation? This relationship need not be linear
+    either-- it could be that further rises in land value shift the needle in
+    the other direction due to the relatively increasing payoff to a political
+    coalition of landowners, as in the abolition of Massachusetts rent control
+    in 1995^[interestingly enough, this is the same year that California passed
+    the Costa-Hawkins Rental Housing Act. These also corresponded to the
+    beginning of the asset bubble that crashed in 2008, and coincided with an
+    apparent nationwide shift in the balance of power away from tenants and
+    towards landlords.].
+
+These will hereafter be referred to as *Question A* and *Question B*. In
+answering questions A and B, I take direct inspiration from the recent
+minimum wage debates in the empirical labor literature. I wish to compare
+growth in rents and the housing supply in a particular treatment group vs.
+those in a well-defined control group. The details of the selection of each
+group will be discussed further in the Methodology section.
+
+## Data
+
+The first step in this investigation is to choose the appropriate scale. Diamond
+et. al, Autor et. al, and Sims all relied on single-city case studies focused
+around a single change in the rent control law. In the case of Diamond et. al's
+study, the source of exogenous variation was a very narrow change that brought a
+section of the housing stock under new rent control, which was followed almost
+immediately afterwards by a broader, statewide change in the law that had
+attenuating effects on the phenomena under consideration. In all three
+questions, the narrowness of focus draws questions about external validity. This
+essay attempts to bypass those questions by narrowing the scope and broadening
+the scale of the study.
+
+As such, the first necessary piece of data is a database
+of all municipal rent control laws in the country, their date of enactment,
+their date of expiration (if any), and the existence of any vacancy decontrol
+provisions.
+@newjerseydca2009 provides an extensive list of cities in New Jersey with rent regulations,
+including summaries of their applicability to buildings of various ages and densities.
+To this I will need to add start dates of the rent control law in each city.
+This also brings into focus a potential difficulty in the analysis;
+there is widespread heterogeneity in rent control laws between states.
+As the DCA survey indicates,
+controls vary widely on the basis of number of rooms and age of building,
+as well as on the basis of decontrol.
+
+The second set of data I require is a panel data set of (ideally) individual
+housing units, their date of construction, whether they are owned or rented,
+rent charged, and household size. Granular data at the level of the household
+would allow for a ready quasi-experiment with city, year, and household-level
+fixed effects.
+
+However, such granular individual data on rents and occupancy are quite
+difficult to come by. The few studies that have done so have relied on
+proprietary data from data-mining companies (e.g. Diamond et. al) or on
+restricted-use versions of U.S. Census data [@desmond2019a] that provide
+household-level samples. In absence of such data, I will opt to use a
+difference-in-difference approach at a higher geographic level, using Census
+surveys that provide data on housing (the American Community Survey and the
+American Housing Survey). The goal with this strategy will be to provide
+geographies that are plausibly similar in characteristics such as housing
+demand, income and income growth, etc. where a subset of these are subject to
+the treatment effect (in this case, rent control). This approach presents some
+difficulties, however; rent controls are enacted at the local level, while the
+smallest local-federal consistent geographic level is the *county*. In other
+words, analysis at the tract level would result in many tracts being split at
+the city border, while analysis at the *county* level inhibits identification
+by including both controlled and non-controlled areas. @sims2007 takes this
+approach, by using geographic levels that are not congruent with political
+boundaries, and in the absence of granular data, I will follow this approach as
+well. More details on the specific methodology are provided in the appropriate
+section.
+
+### US Rental Housing Finance Survey
+
+The RHFS is the only recent, nationally representative survey of property
+owners. The survey was conducted in 2012 and 2015. It uses a stratified
+random-selection procedure to conduct its sample. The first two strata
+created were: 1) all large cities (with more than 100,000 housing units)
+and 2) a random selection of smaller cities and rural areas. Second, four
+other strata were created: properties with 1) 2-4 units, 2) 5-24 units, 3)
+25-49 units, and 3) over 50 units. Multiunit rental property addresses
+were identified from the Census Master Address File and randomly selected
+from each of the eight strata. This procedure produced a representative
+survey of multifamily rental properties across the United States. The
+restricted version of the dataset is geocoded to provide locations for
+each building used in the sample. The RHFS excluded prefabricated homes,
+mobile homes, public housing, and single-unit rental properties. This last
+element, which includes condominiums, may pose a bias risk as mentioned
+above.
+
+The RHFS asked a battery of questions about housing finance,
+property values, expenses, and revenue, including: mortgages, landlord
+expenses (including property taxes, insurance payments, utilities,
+property management fees, maintenance, security, and repairs), potential
+rent revenues, and actual rent revenues. The survey bases property values
+on property owners' responses, which could introduce bias if landlords
+systematically over- or under-value their properties. This bias can be
+avoided by using publicly available data on property values. Finally, using this
+dataset provides a limitation on the rent control policies that can be
+evaluated; the RHFS was conducted three times, in 2012, 2015, and 2018. This
+means that this strategy can only be employed for cities that enacted the policy
+within that time period.
+
+### American Housing Survey
+
+The American Housing Survey (AHS) is a sample survey of cities across the
+United States. The survey is at the level of the housing unit. The AHS
+provides data on housing unit characteristics such as rent, maintenance, and
+physical condition. The particular subset of the data that I will be doing is
+the AHS-MSA, which is a survey of 25 metropolitan regions in the United States.
+each metropolitan area is sampled once every 6 years starting in 1979, resulting
+in a data set that covers the period of most of the imposition of
+second-generation rent control laws.
+
+Due to privacy concerns, the smallest available geographic level is the zone.
+A zone is defined in the AHS codebook as follows:
+
+>Zone codes are only available in the metropolitan files.  A zone is defined for
+>the AHS only as a socio-economically homogeneous area of more than 100,000
+>people.  It does not necessarily correspond to a geographic subdivision,
+>although in almost all cases each identified zone is equivalent to a group of
+>Census tracts.  A zone may follow the boundaries of a county or cover a portion
+>of a county.  It may also cover several counties or townships or portion of
+>several counties.  The areas in a zone are not always adjacent.  The limited
+>sample size in each zone precludes reliable analysis of any single zone
+
+Thus, following @sims2007, I will use the zone as the basis of the analysis,
+and the empirical question will become the effects of being in a
+rent-controlled zone vs being in a non rent-controlled zone.
+It may be possible to get access to the restricted-use AHS-MA dataset at the level of the housing unit,
+though it is unknown how timely this access will be.
+If I do get access, then instead of estimating zone-level difference-in-differences,
+I will be able to estimate at the level of the household.
+
+Once the data from the AHS is arranged into panel form by zone,
+I will use city boundary data from the U.S. Census TIGER/Line GIS database
+to link zone boundaries to city boundaries.
+As an example of this procedure, I include here *Figure 1* from Sims' paper.
+
+![AHS zones comprising the 1998 Boston MSA. Source: Sims (2007)](images/sims-zonemap.png)
+
+*Fig. 1* shows the zones comprising the Boston metropolitan area.
+In Sims' study, the treatment group consisted of zone 112,
+containing the rent-controlled city of Cambridge and the non-controlled city of Somerville,
+zone 110, containing rent-controlled Brookline and and non-controlled Newton,
+and zones 1-5 comprising the City of Boston itself.
+The control group, then were all of remaining zones within the Boston MSA.
+
+
+## Methodology
+
+To explore the effects of rent control on various housing and neighborhood
+characteristics in New Jersey cities, I will employ the *difference-in-differences* empirical
+strategy, following in general the approach of @sims2007. This requires a
+panel data set of repeated observations over time. The regressor of interest
+is a variable that varies at the group or aggregate level over time given a
+treatment; in this case, whether or not the housing unit was subject to rent
+control (if at the household level) or if units in the geographic area were
+subject to rent control (if at a higher level of aggregation). The American
+Housing Survey Metropolitan Area public-use microdata set contains data down to the level
+of the zone, which is a contiguous geography consisting of approximately 100,000 people. This
+is the unit this essay will primarily use, treating *zones* as rent controlled
+or non controlled.
+
+The logic behind this approach is relatively straightforward. My goal is to
+compare zones in which rent control is enacted to zones that can plausibly be
+considered as part of the same rental market that were never controlled
+during that interval. Since a metropolitan area consists of many such zones,
+some of which fell under rent control and some of which did not, this
+approach can be considered as a type of generalized case study approach
+(following @dube2010) evaluating the impacts of rent controls in *every
+metropolitan area* in the United States. One of the difficulties noted in the
+introduction and by authors such as @arnott1995 is that there is significant
+heterogeneity within the type of rent control policies that are enacted by
+cities, ranging from hard rent controls that still remain in place for a
+small number of housing units in New York City and the West Coast, to
+relatively "soft" rent controls that provide for vacancy decontrol and other
+methods of adjusting rents to the market rate. This policy heterogeneity
+means that a single dummy variable will not accurately reflect the treatment
+effect of a wide variety of control types; @gilderbloom2007, for example,
+construct an index of rent control strictness and include this as an independent variable.
+
+Finally, the direction of causality is
+important; a final specification will use distributed lags using AHS data
+every 4 years^[Each metropolitan area in the AHS survey is sampled on a
+rotating basis every 3 years, leading to 6-year data cycles.]
+
+### Specification 1
+
+The simplest empirical specification is a Difference-in-Differences (DD) model
+with year and zone fixed effects:
+
+$$ y_{ijy} = \alpha_{i} + \delta_j + \gamma_{y} + \beta_t R_{ijy} +  \epsilon_{ijy}, $$
+
+for the zone-level DD specification where, for zone $i$ in metropolitan area $j$, and year $y$,
+$y_{ijy}$ is a vector of the outcome variables
+[total housing stock in zone $i$, percent of rental units in $i$, average rent, average length of rental tenure],
+$\alpha$ is zone fixed effects,
+$\delta$ is metropolitan area fixed effects, and
+$\gamma$ is year fixed effects.
+$R_{ijy}$ is a dummy variable that takes the value 1 if the zone was subject to rent control during year *y* and 0 otherwise,
+and $\epsilon_{ijy}$ is the error term.
+The null hypothesis is that the presence of rent controls does not have a significantly different effect on the outcome variables in $y_{ijy}$ in the treatment group vs. the control group.
+The alternative hypothesis is that, in the years following the imposition of rent controls,
+there will be a significant divergence in some or all of the outcome variables $y$.
+In particular, the standard expectation is that rent control, if binding will result in
+a decrease in the growth of the housing stock in zone $i$,
+a decrease in the number of rental units as a fraction of the total housing stock in $i$,
+a decrease in rents for controlled units in zone $i$, and
+an increase in the average length of rental tenure in $i$.
+
+In this case, both the signs of the coefficients and their magnitudes are important--
+I am interested in *how much* rent regulation policies might affect rents and
+the housing stock-- it may be that the effects are negligible. Thus, the
+biasness of the estimation is important.
+
+### Specification 2
+
+In this specification, I employ a specification that accounts for heterogeneity across rent regulation regimes.
+In particular, I want to examine the impact of vacancy decontrol provisions on the outcome variables of interest.
+To do this, I simply estimate a similar equation
+
+$$ y_{ijy} = \alpha_{i} + \delta_j + \gamma_{y} + \beta_t R^T_{ijy} +  \epsilon_{ijy}, $$
+
+where
+$R^T$ now takes the value
+0 if the zone is not rent-controlled in year $y$,
+1 if the zone is rent controlled but without decontrol provisions in year $y$, or
+2 if the zone is rent controlled with a decontrol provision in year $y$.
+
+# Appendix
+
+## Appendix A: Rent-Controlled Cities in New Jersey
+
 \newpage
 
 # References
