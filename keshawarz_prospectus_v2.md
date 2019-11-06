@@ -26,7 +26,7 @@ growth theory,
 and housing policy.
 
 The discipline of economics has been going through something of its own "spatial turn",
-lagging somewhat embarassingly behind most of the other social sciences.
+lagging somewhat embarrassingly behind most of the other social sciences.
 It has become increasingly obvious that heterogeneity of
 outcomes across space, as well as time,
 is a persistent feature of economic phenomena.
@@ -62,12 +62,12 @@ In *The Wealth of Nations*, Adam Smith writes:
 >owing to the good government of the sovereign, which, by protecting the
 >industry of either the whole people, or of the inhabitants of some particular
 >place, enables them to pay so much more than its real value for the ground
->which they build their houses upon... Nothing can be more reasonbale than that
+>which they build their houses upon... Nothing can be more reasonable than that
 >a fund, which owes its existence to the good government of the state should be
 >taxed peculiarly, or should contribute something more than the greater part of
 >other funds, towards the support of that government.
 
-The pecularity of land ownership was, then, well-known to the classical thinkers, Smith, Ricardo, Marx, and Keynes.
+The peculiarity of land ownership was, then, well-known to the classical thinkers, Smith, Ricardo, Marx, and Keynes.
 The existence of a monopoly on *space*, which is a fundamental condition of existence (for both the production process as well as... well, anything) posed huge barriers to the well-organized accumulation of capital^[Ricardo, for example, famously argued for the abolition of the Corn Laws in England, leading to the eventual liquidation of the English gentry as a class.].
 The tripartite division of the national product into wages, profits, and rents, was a relatively uncontroversial tenet of political economy
 until John Bates Clark, armed with marginal productivity and lacking a theory of land or land-rent,
@@ -84,8 +84,8 @@ which quickly became the workhorse model for urban economic theory.
 The implications of the use of this model will be explored in greater detail in the respective literature section in Essay 1,
 but this class of models have a few features that are here relevant for discussion.
 They exhibit typically CRS production functions for a composite consumption good as well as for housing,
-varying degress of competitiveness in production and housing (but almost never labor) markets,
-and the static solution is a spatial equilibrium in which consumer utility is mazimized such that no individual can be made better off by moving to a new location^[this result leads to much of the debate in the literature (e.g. @byrne) over whether gentrification is really welfare reducing].
+varying degrees of competitiveness in production and housing (but almost never labor) markets,
+and the static solution is a spatial equilibrium in which consumer utility is maximized such that no individual can be made better off by moving to a new location^[this result leads to much of the debate in the literature (e.g. @byrne) over whether gentrification is really welfare reducing].
 Space and land, in this view appear in a truncated form-- as *distance* and *transportation costs.*
 "Rents" in the Standard Model are the *economic* rents that occur from monopoly supply of a particular commodity,
 whereas what we may call "house-rents" simply reflect local supply and demand for housing services.
@@ -103,11 +103,11 @@ in which various urban problems are the result of barriers (in many cases regula
 Most of the well-known recent literature on urban and spatial processes (e.g., @chetty2014, @moretti2013) either implicitly or explicitly rely on the ideas of spatial mismatch and spatial misallocation.
 
 One of the radical geography critiques of this view is that it is entirely *aspatial*.
-Space is concieved of as mere distance from the Central Business District,
+Space is conceived of as mere distance from the Central Business District,
 which is itself a dimensionless point in space around which production and consumption gravitate.
 Specifically, ownership of land conveys a monopoly right of exclusion whose boundaries are politically determined^[for example-- does one own the air over one's house? Does ownership of a property guarantee an unimpeded view of the Rocky Mountains? A share in the output of oil found under one's land?].
 Land ownership is also peculiar in the sense that land values are very strongly determined by external factors;
-that is, land value, outside of agricultural productivity, is almost wholly dependent on the social activity ocurring on or around it.
+that is, land value, outside of agricultural productivity, is almost wholly dependent on the social activity occurring on or around it.
 This was a point understood by the classicals but greatly underscored by Henry George--
 the idea of the "marginal contribution" of land makes little sense outside of the context of spatial relations.
 
@@ -126,7 +126,7 @@ The rapid shift in the spatial awareness, so to speak, has become such that scho
 > enormously with  the  size  and  composition  of  cities  for  reasons  that
 > do  not  depend  on  the  quality  of  the  housing  structure.
 
-It is precisely this relationship, between the geographic unevenness of the scale of human activity (i.e., the agglomration of cities),
+It is precisely this relationship, between the geographic unevenness of the scale of human activity (i.e., the agglomeration of cities),
 the price of land necessary for any human activity including the production of commodities and the re-production of the labor force,
 that this dissertation will investigate.
 In the body of this prospectus, I will outline my plan for research on the role of land and rents in urban economics.
@@ -164,7 +164,7 @@ The essay will employ a quasi-experimental research design that exploits the fac
 they are implemented on a per-municipality basis, where the borders of a city are highly likely to intersect a single rental market, providing a treatment and a control group.
 This essay is intended to provide more empirical evidence on the impacts of rent control on housing affordability in the United States.
 
-Taken together, these three esays represent a contribution to the understanding of the function of landownership and land rents in in influencing the distribution of incomes in advanced capitalist economies generally,
+Taken together, these three essays represent a contribution to the understanding of the function of landownership and land rents in in influencing the distribution of incomes in advanced capitalist economies generally,
 with implications for the study of income and wealth inequality, spatial patterns of growth and decline, and housing and urban policy.
 
 \newpage
@@ -185,7 +185,7 @@ Who benefits from spatially-specific economies of scale and agglomeration?
 In particular, how is the distribution of the gains to economic growth affected by the distribution of and control over land (and housing)?
 How are these distributional decisions made and implemented?
 In this essay, I present a theoretical account of the way that cities grow,
-and the way that this growth is dividied between wages, profits, and rents.
+and the way that this growth is divided between wages, profits, and rents.
 The particularly urban process of agglomeration features heavily into this account.
 I begin with the observation that neoclassical treatments of urban growth have, since John Bates Clark, excluded land as a particular factor of production.
 Without accounting for the role of landlords, any account of the role of rents in urban growth (which, for obvious reasons, is likely to be quite large) will likely to be insufficient.
@@ -197,7 +197,7 @@ I follow this with a presentation of the classical political economy thought on 
 
 1. To what extent are gains from public goods and productivity increases captured by landlords?
 
-2. How do the pecularities of urban growth (agglomeration, long-lived structures) affect the distributions of wages, profits, and rents?
+2. How do the peculiarities of urban growth (agglomeration, long-lived structures) affect the distributions of wages, profits, and rents?
 
 3. What is the relationship between wages, profits, and rents in an urban economy? What are the structural features of this relationship, and what drives their apparent variation across cities?
 
@@ -226,7 +226,7 @@ excessively high growth in rents results from barriers (regulatory, natural, or 
 resulting in a sub-optimal city size.
 
 Of course, *ceteris* is never *paribus*,
-and the most confounding feature comes from the nature of cities themselve: they are an increasing-returns phenomenon,
+and the most confounding feature comes from the nature of cities themselves: they are an increasing-returns phenomenon,
 and the expansion of a city itself may be a function of the desirability and productivity of that city.
 In other words, when a city grows, the expansion of the housing supply may not result in a decrease in rents;
 increasing urban density might, for example, *itself* cause greater increases in demand due to higher productivity.
@@ -243,9 +243,9 @@ I think evidence shows that housing supply constraints alone are not sufficient 
 
 This essay is an attempt to engage some of the insights of classical economic thought on land and land-rents in answering modern economic questions of growth and distribution.
 Although the study of landlords and rents was one of the central focuses of political economy, the study of housing rents and urban real estate is conspicuously absent.
-I intend to incorporate some of the contributions of radical goegraphy, paricularly notions of *spatiality* and *spatial hierarchy.*
+I intend to incorporate some of the contributions of radical geography, particularly notions of *spatiality* and *spatial hierarchy.*
 In this context, I will largely be addressing the question of *land*, which is only a proper subset of the spatial relations considered to comprise urban geographies.
-It is also imporant to note here although much of the discussion is centered on housing costs in the form of residential rents,
+It is also important to note here although much of the discussion is centered on housing costs in the form of residential rents,
 the focus of this chapter is on land rents and land ownership more generally,
 rather than on the particular problem of high housing costs.
 This last feature is an important element of my critique of some of the modern theoretical literature on urban growth,
@@ -265,7 +265,7 @@ All of these rely broadly on the SEM and associated "spatial mismatch" explanati
 in other words, some factor is preventing labor or investment from being directed to its most efficient location in space.
 
 @moretti2013 begins with observation on the evolution of inter-city inequality over the past 5 decades.
-He identifies significant and persistent heterogeneity in American economic geography, but points out that only recently has this heterogeneity been driven by high rates of human capital(as measured by college degree attaionment) in so-called "skilled cities."
+He identifies significant and persistent heterogeneity in American economic geography, but points out that only recently has this heterogeneity been driven by high rates of human capital(as measured by college degree attainment) in so-called "skilled cities."
 His theory of urban agglomeration is centered around knowledge spillovers.
 A kind of schematic metaphor for this process is a group of high-skill workers gathering for beers after work-- despite being from different industries,
 their proximity and discussion is the substratum for the creation of new ideas and entrepreneurial energy.
@@ -367,11 +367,11 @@ Marx's discussion of ground-rent is spread throughout *Capital Vols. II, III,* a
 Following Ricardo, Marx also deals primarily with the case of rents in agriculture and mining, 
 paid to a class of landlords by a class of capitalists. 
 We can make use of @resnick1989's framework here and think of the institution of land ownership as a *subsumed class process*,
-where the surplus value generated by the productive sector is then distributed to the landlord class as a condition of existance of the *fundamental class* process,
+where the surplus value generated by the productive sector is then distributed to the landlord class as a condition of existence of the *fundamental class* process,
 which is the direct extraction of surplus value through the process of commodity production. 
 Marx begins with the premise that "landed property is based on the monopoly by certain persons over definite portions of the globe, as exclusive spheres of their private will to the exclusion of all others."
 Under capitalist relations, the relationship between the landlord and the industrial capitalist
-"...totally separates land as an instrument of production from landed property and landower-- 
+"...totally separates land as an instrument of production from landed property and landowner-- 
 *for whom the land merely represents a certain money assessment which he collects by virtue of his monopoly from the industrial capitalist*, 
 the capitalist farmer..." (emphasis added).
 In other words, land becomes an expression of monetary value, 
@@ -421,7 +421,7 @@ forcing capitalist farmers to obey the law of value and in the long run earn the
 
 It is important to note three points:
 Marx and Ricardo both analyzed agricultural production, with differential rents arising from different levels of fertility (and capital investment, in Marx's case).
-They both mention "locaational advantage" as other forms of differential productivity,
+They both mention "locational advantage" as other forms of differential productivity,
 but what this means and how it works was not elucidated.
 Second, this section deals primarily with land as a direct input into production,
 i.e. as *commercial* real estate.
@@ -567,7 +567,7 @@ In this essay, I intend to proceed as follows:
 I begin with a more comprehensive review of contemporary literature in urban economics,
 place-based labor economics, and (New) Economic Geography. 
 This will serve as a starting point for the discussion of the relevant issues of urbanization, housing, and rents.
-I then focus on a detailed historiy of economic thought on the topics of land rents and urbanization,
+I then focus on a detailed history of economic thought on the topics of land rents and urbanization,
 reviewing Smith, Ricardo, Sraffa, and Keynes, with a particular focus on Marx and George,
 and their associated successors in the discipline of economic geography.
 Finally, I condense this into a presentation of the relationship between wages, profits, rents, and density.
@@ -581,7 +581,7 @@ leading to greater relocations of firms,
 and greater demand for land and housing within the city.
 The land commodity has peculiar features in terms of its elasticity of supply
 and the way that space interacts with the existence of any particular process.
-These features of laand markets may have very large implications in the distribution of income.
+These features of land markets may have very large implications in the distribution of income.
 For example, if increased density increases the amount captured by landlords,
 then the market urbanist prescription of simply upzoning and constructing market-rate housing
 may result in an increase in the housing supply
@@ -803,7 +803,7 @@ and, the methodology used in 1) matching names to property records and
 
 My most major critique,
 and where I feel that this essay contributes the most to the literature,
-is that this study may have serious problemswith external validity.
+is that this study may have serious problems with external validity.
 It is based on a single case study
 centered around a single housing type
 in a single city.
@@ -818,7 +818,7 @@ and almost assuredly affected causal identification in their model;
 which provides strong incentives
 for landlords to evict tenants
 when the gap between market-rate
-and contolled rents 
+and controlled rents 
 becomes sufficiently large, and 
 2) the Act exempted condominiums and new construction
 from rent control. 
@@ -830,7 +830,7 @@ in response to rent control.
 This, in my view, absolutely prohibits making causal claims on the basis of the model,
 since we would expect exactly what the authors found to result from the *state-*level 
 weakening of rent control, with the effect of the tiny-in-contrast effect of the
-*local*-level *strengthening* of the law unkown. 
+*local*-level *strengthening* of the law unknown. 
 
 @sims2007 and @autor2014 both study the effects
 of the end of rent control in Massachusetts,
@@ -915,7 +915,7 @@ supporting the idea of rent control promoting neighborhood stability.
 in Massachusetts in the context of spillover effects.
 The authors were less interested specifically
 in quantifying the impact of rent (de)control,
-but instead exploted exogenous change
+but instead exploited exogenous change
 in regulations to see
 how residential externalities
 get capitalized into housing prices
@@ -925,7 +925,7 @@ on the fact that both controlled and never-controlled apartments
 stood "side-by-side in Cambridge neighborhoods
 on the eve of rent control removal
 thus offering a tight temporal and geographic framework
-for assesing the impact of the law
+for assessing the impact of the law
 on residential prices."
 In other words, since the features of rent-controlled apartments
 (non-owner-occupied houses, condominiums, or apartments
@@ -985,7 +985,7 @@ Given the paucity of empirical studies on rent control, there are several
 interesting questions to be asked here. The ones that this essay will focus
 mainly upon are:
 
-A.  **How does rent control impact the supply of housing?** -- Most of the the
+A.  **How does rent control impact the supply of housing?** -- Most of the
     theoretical and empirical work regarding rent controls, such that it exists,
     aims to answer this question. How much does rent control impact the expansion
     of the supply of housing? How does the *type* of housing, as well as its
@@ -1148,7 +1148,7 @@ As an example of this procedure, I include here *Figure 1* from Sims' paper.
 *Fig. 1* shows the zones comprising the Boston metropolitan area.
 In Sims' study, the treatment group consisted of zone 112,
 containing the rent-controlled city of Cambridge and the non-controlled city of Somerville,
-zone 110, containing rent-controlled Brookline and and non-controlled Newton,
+zone 110, containing rent-controlled Brookline and non-controlled Newton,
 and zones 1-5 comprising the City of Boston itself.
 The control group, then were all of remaining zones within the Boston MSA.
 
