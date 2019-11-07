@@ -484,8 +484,8 @@ the difference between
 the current productivity of the land
 and the surplus on the no-rent margin
 can be captured as differential rents.
-Thus, any action that increases
-the concentration of population
+Thus, any action 
+that increases the concentration of population
 in a particular urban space
 also increases the productivity of that space,
 but because of the nature of private land ownership,
@@ -606,11 +606,77 @@ with the political-economic equilibrium in many cases differing markedly from th
 
 ## Research Questions
 
+1.  To what extent was regional growth in productivity and public investment
+    captured by landlords? How was productivity growth divided between wages and
+    rents in San Francisco?
+
+2. Are high rents caused by wages, or are high wages the result of high rents?
+   If the latter, what is the determinant of higher rents? (Are rents wage-led
+   or profit-led?) 
+
+3. How does the geography of firms affect the functional distribution of income?
+
+
 ## Abstract
+
+This essay applies the framework developed in the previous essay into a
+historical-descriptive account of the growth and development of the city of San
+Francisco. Focusing on the period of growth immediately after the 2008
+recession, this essay will use a variety of data sources to investigate the
+spatial patterns of growth in the city during this period. In particular, this
+essay will focus on the way that urban growth has been capitalized into wages,
+profits, and rents. This will involve mapping those variables at a granular
+level, as well as investigating the effects of the spatial location decisions of
+firms on wages and rents in surrounding neighborhoods. 
 
 ## Introduction
 
+In the previous essay, I hope to establish the link between the
+corporate (productive) sector and land markets, operating through the mechanism
+of the labor market. In this essay, I will focus closely on a specific historical case
+study of urban investment, land valorization, and rent extraction. 
+
+The Bay Area in general has for many decades been the focal point of public and
+private investment into the technology sector. This has been traditionally
+centered around Menlo Park and the Santa Clara Valley, but a new wave of
+technology investment has targeted San Francisco proper itself; in 2010, the
+flow of venture capital to San Francisco overtook that of the Valley
+[@mcneill2016], bringing forth “[s]trange new hybrids” of “Silicon Valley
+innovation, VC investment and Wall Street financialization, and digital
+transformations of circuits of production and consumption” [@wyly2014]. 
+
+
+This essay is not exactly about 
+
 ## Data and Methodology
+
+### US Rental Housing Finance Survey
+
+The RHFS is the only recent, nationally representative survey of property
+owners. The survey was conducted in 2012 and 2015. It uses a stratified
+random-selection procedure to conduct its sample. The first two strata
+created were: 1) all large cities (with more than 100,000 housing units) and
+2) a random selection of smaller cities and rural areas. Second, four other
+strata were created: properties with 1) 2-4 units, 2) 5-24 units, 3) 25-49
+units, and 3) over 50 units. Multiunit rental property addresses were
+identified from the Census Master Address File and randomly selected from
+each of the eight strata. This procedure produced a representative survey of
+multifamily rental properties across the United States. The RHFS excluded
+prefabricated homes, mobile homes, public housing, and single-unit rental
+properties. This last element, which includes condominiums, may pose a bias
+risk as mentioned above. The restricted version of the dataset is geocoded to
+provide locations for each building used in the sample, which would allow for
+household-level analysis of patterns of rents and rental finance. I am
+currently beginning the process to obtain permission from HUD to use the
+restricted-use data.
+
+The RHFS asked a battery of questions about housing finance,
+property values, expenses, and revenue, including: mortgages, landlord
+expenses (including property taxes, insurance payments, utilities,
+property management fees, maintenance, security, and repairs), potential
+rent revenues, and actual rent revenues. The survey bases property values
+on property owners' responses, which could introduce bias if landlords
+systematically over- or under-value their properties. This bias can be avoided 
 
 \newpage
 
@@ -1076,36 +1142,6 @@ boundaries, and in the absence of granular data, I will follow this approach as
 well. More details on the specific methodology are provided in the appropriate
 section.
 
-### US Rental Housing Finance Survey
-
-The RHFS is the only recent, nationally representative survey of property
-owners. The survey was conducted in 2012 and 2015. It uses a stratified
-random-selection procedure to conduct its sample. The first two strata
-created were: 1) all large cities (with more than 100,000 housing units)
-and 2) a random selection of smaller cities and rural areas. Second, four
-other strata were created: properties with 1) 2-4 units, 2) 5-24 units, 3)
-25-49 units, and 3) over 50 units. Multiunit rental property addresses
-were identified from the Census Master Address File and randomly selected
-from each of the eight strata. This procedure produced a representative
-survey of multifamily rental properties across the United States. The
-restricted version of the dataset is geocoded to provide locations for
-each building used in the sample. The RHFS excluded prefabricated homes,
-mobile homes, public housing, and single-unit rental properties. This last
-element, which includes condominiums, may pose a bias risk as mentioned
-above.
-
-The RHFS asked a battery of questions about housing finance,
-property values, expenses, and revenue, including: mortgages, landlord
-expenses (including property taxes, insurance payments, utilities,
-property management fees, maintenance, security, and repairs), potential
-rent revenues, and actual rent revenues. The survey bases property values
-on property owners' responses, which could introduce bias if landlords
-systematically over- or under-value their properties. This bias can be
-avoided by using publicly available data on property values. Finally, using this
-dataset provides a limitation on the rent control policies that can be
-evaluated; the RHFS was conducted three times, in 2012, 2015, and 2018. This
-means that this strategy can only be employed for cities that enacted the policy
-within that time period.
 
 ### American Housing Survey
 
