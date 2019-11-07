@@ -7,6 +7,7 @@ abstract: This prospectus proposes three questions in the field of urban politic
 toc: true
 toc-depth: 2
 numbersections: true
+parskip: true
 header-includes:
 - \usepackage{graphicx}
 - \usepackage{wrapfig}
@@ -443,7 +444,8 @@ Mirroring the American Transcendentalists of his day,
 he held that land should either be held in common by all people, as an "endowment from God" [@george2015],
 or the entire value of bare land should be taxed away and used for public investment.
 The circumstance of land-abundance is an important factor,
-since the boundaries of the city are no longer determined by the agricultural margin.
+since the boundaries of the city are no longer determined by the agricultural
+margin, but the boundaries of commuting technology. 
 
 George was the first to write about land rents in an explicitly urban context,
 in which both economies of scale and agglomeration play a role.
@@ -631,6 +633,17 @@ firms on wages and rents in surrounding neighborhoods.
 
 ## Introduction
 
+How do patterns of land ownership determine the Right to the City? For
+@soja2000, this was perhaps one of the most fundamental questions for thinking
+about the relationship between the social and the spatial. The historical phases
+of business cycles, crises, labor and capital movements all imprint themselves
+quite literally in the structures of the built environment. All of these
+historical phenomena affected and were affected by the development of urban
+cityspace (in both the sense of urban social relations in general and of
+specific cases of particular cities), creating a sort of urban archaeology--
+layers of bone and sinew upon which successive generations of structures
+(physical, institutional, and cultural) were built. 
+
 In the previous essay, I hope to establish the link between the
 corporate (productive) sector and land markets, operating through the mechanism
 of the labor market. In this essay, I will focus closely on a specific historical case
@@ -638,17 +651,83 @@ study of urban investment, land valorization, and rent extraction.
 
 The Bay Area in general has for many decades been the focal point of public and
 private investment into the technology sector. This has been traditionally
-centered around Menlo Park and the Santa Clara Valley, but a new wave of
+centered around Menlo Park and the Silicon Valley. Biotechnology firms have
+traditionally dominated the economy of the city, but a new wave of
 technology investment has targeted San Francisco proper itself; in 2010, the
 flow of venture capital to San Francisco overtook that of the Valley
 [@mcneill2016], bringing forth “[s]trange new hybrids” of “Silicon Valley
 innovation, VC investment and Wall Street financialization, and digital
-transformations of circuits of production and consumption” [@wyly2014]. 
+transformations of circuits of production and consumption” [@wyly2014], and
+since 2012, over 30% of the city's employment growth has been in the
+high-technology sector.  
 
+This essay is not exactly about the rise to dominance of hi-tech capital in
+the Bay Area. However, it would be impossible to talk about the evolution of
+land ownership and rent extraction without also developing the history of
+what @mcneill2016 calls "technology investment capital" and its role in
+driving the economic geography of technology firms and its resulting effect
+on wage and rent growth. In many cases, the commodity produced by these firms
+is *literally* the "annihilation of space by time," and are in greater and
+greater proportion funded by extremely wealthy individuals and venture
+capital firms, rather than through public equity. These giant firms (both in
+terms of valuation and market power) wield outsize influence on the political
+process of the city, and so serve as an interesting laboratory to examine the
+distributional conflict over wages, profits, and rents at the urban scale. Most
+salient for this essay is that for various reasons, these firms also exhibit
+very large agglomerative effects. @moretti2013, @florida2014b, @florida2019,
+@glaeser2009a, and many others of the human capital school of urban growth
+attribute this to the structural nature of spillover effects from cognitive
+non-routine (CNR) tasks. I intend to discuss this and other views of
+agglomeration effects in Essay 1, but suffice it to say that these firms do
+exhibit massive gravitational pull, driving productivity and migration and
+straining against the political and physical limits of the built environment. 
 
-This essay is not exactly about 
+Tech firms intervene heavily in the political economy of the built environment
+of San Francisco. Aside from short-term rental platforms like AirBnB, these
+firms spend tremendous amounts on influencing local politics through the
+municipal ballot system and mayoral elections. In addition, these firms have
+begun to intervene directly into markets for land [@li2019a], and housing
+[@li2019b], as well as building parallel private municipal infrastructure to
+alleviate the bite of rising residential rents. 
+
+It is here that the discussion of the technology sector becomes a central issue
+to a discussion about land and land rents. As @stehlin2016 remarks in his essay
+on gentrification in San Francisco:
+
+>...urban space is in certain ways becoming the “shop floor” of a labor process
+>central to San Francisco’s position in the spatial division of labor of the
+>tech economy. My intention here is to open up a space to consider
+>neighborhood use-values as “means of production” that enter the valori-
+>zation process at multiple sites: as elements of ground rent, as reproduction
+>of labor-power, as inputs to value production, and as sites of contestation.
+
+As the city itself becomes a "shop floor" in the process of production of
+exchange values, urban space, and crucially, land, become battlegrounds for the
+conflict over surplus value between firms, workers, and landowners. It is the
+aim of this essay to trace the countours, ebbs, and flows of that struggle
+through the relationship between the geography of urban accumulation and
+neighborhood-level changes in wages, land values, and rents. 
+
+The main questions that this essay will consider are as follows: How has
+the functional distribution of income changed during the post-Crisis growth of
+San Francisco? How did increases in productivity from both technological change
+and public investment become capitalized into land prices and rents? To what
+extent did they lead to increases in wages, and to what extent did they show up
+in higher housing costs? How does the geography of the firm, and specifically, of
+the large technology firm, affect the relative power of the working and
+landowning class, respectively? Finally, what are the roles of real estate
+institutions on the conflict over the surplus product, in the context of
+conflict over zoning, migration, and the housing supply? 
 
 ## Data and Methodology
+
+This essay will take a primarily discriptive approach towards the recent
+economic history of the city, relying on a wide variety of data sources to
+examine patterns of wage growth, rent growth, property development, firm
+location, and political conflict. This essay will also rely heavily on
+quantitative spatial analysis, using GIS tools to measure the geospatial
+clustering of firms and examine their effects on neighborhood-level wages and
+rents. 
 
 ### US Rental Housing Finance Survey
 
@@ -674,9 +753,7 @@ The RHFS asked a battery of questions about housing finance,
 property values, expenses, and revenue, including: mortgages, landlord
 expenses (including property taxes, insurance payments, utilities,
 property management fees, maintenance, security, and repairs), potential
-rent revenues, and actual rent revenues. The survey bases property values
-on property owners' responses, which could introduce bias if landlords
-systematically over- or under-value their properties. This bias can be avoided 
+rent revenues, and actual rent revenues.
 
 \newpage
 
@@ -962,8 +1039,7 @@ since these units were never under rent control.
 The author similarly constructs IVs for other forms of never-controlled housing. 
 
 Sims finds that the end of rent control had little effect on the construction of new housing.
-He further found evidence  
-that rent control decreases the number
+He further found evidencethat rent control decreases the number
 of available rental units through condo conversions. 
 In other words,
 rent control seemed to affect the quantity of *rental housing,*
