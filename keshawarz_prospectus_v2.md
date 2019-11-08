@@ -250,11 +250,15 @@ account of growth and distribution in an urban economy.
 
 ## Research Questions
 
-1. To what extent are gains from public goods and productivity increases captured by landlords?
+1. To what extent are gains from public goods and productivity increases
+captured by landlords?
 
-2. How do the peculiarities of urban growth (agglomeration, long-lived structures) affect the distributions of wages, profits, and rents?
+2. How do the peculiarities of urban growth (agglomeration, long-lived
+structures) affect the distributions of wages, profits, and rents?
 
-3. What is the relationship between wages, profits, and rents in an urban economy? What are the structural features of this relationship, and what drives their apparent variation across cities?
+3. What is the relationship between wages, profits, and rents in an urban
+economy? What are the structural features of this relationship, and what
+drives their apparent variation across cities?
 
 \newpage
 
@@ -335,10 +339,14 @@ interact with rents?). Following that, I will develop these into a formal
 theoretical presentation.
 
 ## Literature Review
-Much of the recent urban economics literature on growth has focused on two things:
-human capital theories of growth (of which skill-biased technical change and spatial skill sorting play an outsized explanatory role) and the effects of housing supply constraints.
-All of these rely broadly on the SEM and associated "spatial mismatch" explanations--
-in other words, some factor is preventing labor or investment from being directed to its most efficient location in space.
+
+Much of the recent urban economics literature on growth has focused on two
+things: human capital theories of growth (of which skill-biased technical
+change and spatial skill sorting play an outsized explanatory role) and the
+effects of housing supply constraints. All of these rely broadly on the SEM
+and associated "spatial mismatch" explanations-- in other words, some factor
+is preventing labor or investment from being directed to its most efficient
+location in space.
 
 @moretti2013 begins with observation on the evolution of inter-city
 inequality over the past 5 decades. He identifies significant and persistent
@@ -385,6 +393,11 @@ valid; any distortions such that prices do not equal marginal costs should be
 the result of market failure or government intervention. However, it is
 unclear to me that the construction industry or land markets in general can
 be called perfectly competitive, especially in densely built urban areas.
+
+This essay is also motivated by the uneven development and rent gap literature,
+particularly those of @harvey2018a, @smith2010, @hackworth2000, and the
+Marxian-Sraffian modeling and simulation approach developed by @bergmann2009,
+@sheppard1984, and @plummer1998.
 
 The few empirical papers that have been done on the topic of land rents have
 found mixed results. @freemark2019 finds no evidence that supply-side policy
@@ -712,7 +725,7 @@ markedly from the standard static equilibrium outcome.
 
 \newpage
 
-# The Condition of the Working Class in San Francisco
+# On Growth and Rents in San Francisco
 
 ## Research Questions
 
@@ -752,10 +765,10 @@ specific cases of particular cities), creating a sort of urban archaeology--
 layers of bone and sinew upon which successive generations of structures
 (physical, institutional, and cultural) were built.
 
-In the previous essay, I hope to establish the link between the
-corporate (productive) sector and land markets, operating through the mechanism
-of the labor market. In this essay, I will focus closely on a specific historical case
-study of urban investment, land valorization, and rent extraction.
+In the previous essay, I hope to establish the link between the corporate
+(productive) sector and land markets, operating through the mechanism of the
+labor market. In this essay, I will focus closely on a specific historical
+case study of urban investment, land valorization, and rent extraction.
 
 The Bay Area in general has for many decades been the focal point of public and
 private investment into the technology sector. This has been traditionally
@@ -798,6 +811,12 @@ begun to intervene directly into markets for land [@li2019a], and housing
 [@li2019b], as well as building parallel private municipal infrastructure to
 alleviate the bite of rising residential rents.
 
+For its part, aside from the story of agglomeration and increasing returns, the
+particular features of land and housing markets in San Francisco will be
+discussed. On the urban scale, the Ricardian assumption of a fixed supply of
+land holds strongly, since the city is bounded on three sides by the Pacific
+Ocean. 
+
 It is here that the discussion of the technology sector becomes a central issue
 to a discussion about land and land rents. As @stehlin2016 remarks in his essay
 on gentrification in San Francisco:
@@ -812,7 +831,7 @@ on gentrification in San Francisco:
 As the city itself becomes a "shop floor" in the process of production of
 exchange values, urban space, and crucially, land, become battlegrounds for the
 conflict over surplus value between firms, workers, and landowners. It is the
-aim of this essay to trace the countours, ebbs, and flows of that struggle
+aim of this essay to trace the contours, ebbs, and flows of that struggle
 through the relationship between the geography of urban accumulation and
 neighborhood-level changes in wages, land values, and rents.
 
@@ -825,11 +844,61 @@ in higher housing costs? How does the geography of the firm, and specifically, o
 the large technology firm, affect the relative power of the working and
 landowning class, respectively? Finally, what are the roles of real estate
 institutions on the conflict over the surplus product, in the context of
-conflict over zoning, migration, and the housing supply?
+conflict over zoning, migration, and the housing supply? *Put plainly, in the
+simple language of the economics profession, this essay intends to examine the
+particular ways that agglomerative productivity shocks have historically been
+distributed through wages and rents.*
+
+## Literature Review
+
+As the most interdisciplinary of the essays in this dissertation, the
+academic literature in its genealogy is accordingly broad. The most direct
+starting point is the literature on socio-spatial dialectics, starting with
+@soja1980. Soja's idea of *synekism,* the "stimulus of urban agglomeration
+heavily influences the direction of the historical analysis in this paper;
+
+>[synekism is] seen as a continuous and highly politicized process of urban
+>growth and development, a dynamic process that provides a constantly evolving
+>source of stimulating social synergy and is part of the very essence of urban
+>life... [it] involves the creativity, innovation, territorial identity,
+>political consciousness, and societal development, political consciousness, and
+>societal development that arise from living together in dense urban regions.
+>It is in this sense that I define synekism as the *stimulus of urban
+>agglomeration* and connect it directly to what can be described as the *spatial
+>specificity of urbanism*-- the real and imagined, material and symbolic,
+>geographies or spatialities of urban life.
+
+Following @mcneill2016, I consider synekism as the value-generating process that
+occurs not merely in the productive sector, but in urban space as a whole; the
+distribution of this value-generating process into different strata of society
+is the outcome variable, in a sense, that this essay wishes to measure. This
+essay also draws heavily from the Marxist urban geography literature.
+@harvey1974's Class Monopoly Rent argument, where "the rate of return to a class
+of providers of an urban resource (such as housing) is set by the outcome of
+conflict with a class of consumers of that resource" underlies the point of
+entry of both this and the previous essay, and Harvey's analysis of landlords
+and residents in the city of Baltimore is similar to the analysis intended to be
+presented here. The literature on urban public and private goods referred to in
+essay 1 is also relevant here, along with @heim1996 and @heim2015.
+
+This essay also relies extensively on the growth machine literature, beginning
+from @molotch1976. Critically so, in that traditional growth machine politics
+centers the role of the "landed elite" in a story of suburbanization and
+inner-city decline.  
+
+As @arnott1995 remarks, much of the oxygen in the urban economics space is taken
+up by analyses of New York City, and there has been surprisingly little recent
+work done on West Coast cities and San Francisco in particular. @bourne1993
+reviews the factors leading into the second wave (1992-1999) wave of West Coast
+gentrification. @opillard2015 discusses the role of tenant organizations and
+urban politics in the resistance to the most recent, ongoing round of
+gentrification. @mcneill2016, @stehlin2015, and @graham2002 specifically address the role of
+technology capital in re-structuring the urban environment, and are similar in
+theoretical basis to this essay. 
 
 ## Data and Methodology
 
-This essay will take a primarily discriptive approach towards the recent
+This essay will take a primarily descriptive approach towards the recent
 economic history of the city, relying on a wide variety of data sources to
 examine patterns of wage growth, rent growth, property development, firm
 location, and political conflict. This essay will also rely heavily on
@@ -851,15 +920,15 @@ each of the eight strata. This procedure produced a representative survey of
 multifamily rental properties across the United States. The RHFS excluded
 prefabricated homes, mobile homes, public housing, and single-unit rental
 properties. This last element, which includes condominiums, may pose a bias
-risk as mentioned above. The RHFS asked a battery of questions about housing finance,
-property values, expenses, and revenue, including: mortgages, landlord
-expenses (including property taxes, insurance payments, utilities,
-property management fees, maintenance, security, and repairs), potential
-rent revenues, and actual rent revenues. The restricted version of the dataset is geocoded to
-provide locations for each building used in the sample, which would allow for
-household-level analysis of patterns of rents and rental finance. I am
-currently beginning the process to obtain permission from HUD to use the
-restricted-use data.
+risk as mentioned above. The RHFS asked a battery of questions about housing
+finance, property values, expenses, and revenue, including: mortgages,
+landlord expenses (including property taxes, insurance payments, utilities,
+property management fees, maintenance, security, and repairs), potential rent
+revenues, and actual rent revenues. The restricted version of the dataset is
+geocoded to provide locations for each building used in the sample, which
+would allow for household-level analysis of patterns of rents and rental
+finance. I am currently beginning the process to obtain permission from HUD
+to use the restricted-use data.
 
 ### San Francisco Open Data
 
@@ -883,7 +952,11 @@ market values of housing in the ZTRAX database, discussed below.
 The city also provides data on both building permits and building completions,
 and business licenses, starts, and locations. Linking these will provide a
 snapshot of the linkages between firm location decisions, land values, and
-housing construction.
+housing construction. Finally, the city keeps detailed records of any evictions
+performed under the Ellis Act, which allows landlords no-fault evictions in the
+case of "going out of the rental business--" either moving in as owner-occupant
+or converting to condominiums. These can provide evidence of changes in rents
+and shifts in the political balance of power. 
 
 \newpage
 
