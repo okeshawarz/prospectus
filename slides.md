@@ -2,6 +2,7 @@
 title: Three Essays on Urban Economics
 subtitle: A Prospectus Defense
 author: Osman Keshawarz
+bibliography: [prospectus.bib]
 ---
 
 # Introduction
