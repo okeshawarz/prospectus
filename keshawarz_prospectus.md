@@ -314,7 +314,7 @@ construction industry can be called perfectly competitive, especially in
 densely-built urban sectors.
 
 The few empirical papers that have been done on the topic of land rents have
-found mixed results. @freemark2019 finds no evidence that supply-side
+found mixed results. @freemark2019 finds that supply-side
 policies (in particular, zoning for greater density in Chicago) do not
 necessarily result in the reduction of rents or the expansion of the housing
 stock (let alone the expansion of the supply of *affordable* housing).
