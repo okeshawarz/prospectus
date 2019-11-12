@@ -8,15 +8,35 @@ output: beamer_presentation
 
 ## Introduction: The "Spatial Turn" in Economics
 
-* Recent work: Space Matters!
+* Space and Scale matter!
 
-* Scale matters too: different outcomes at different levels of analysis
+* Questions of Urbanization and Spatial Inequality have become important 
 
-* Spatiality coming into its own
+* Specifically, questions of inter-city inequality and intra-city inequality
+  (and gentrification)
 
 ## Introduction: the Socio-Spatial Dialectic
 
-* Social Relations are shaped by Spatial Relations
+* Theorizing space outside of economics has a long, and continuing history
+
+* For this dissertation, I rely heavily on analyses by Geographers, e.g. Harvey
+  and Soja
+
+* Key idea: Social Relations are shaped by Spatial Relations. Economic phenomena
+  cannot be divorced from social and institutional context
+
+## Introduction: the Socio-Spatial Dialectic
+
+* Prior: Spatial relations are determined by social relations, and are
+  determined by them
+
+* In this dissertation, I focus on several aspects of key social/spatial
+  relationship: Land ownership. 
+    *  What determines land value? What determines the ability to extract rent?
+       How are these shaped by social, political, legal institutions?  
+
+* **Who captures the gains from "city-ness"? How do patterns of land ownership
+  determine the right to the city?**
 
 ## Introduction: Structure of the Dissertation
 
@@ -25,9 +45,23 @@ output: beamer_presentation
 * Broadly, this dissertation is focused on the themes of urban space and land
   rents from a Marxian perspective
 
+* Chapters:
+    1. Focuses on the institution of land ownership and class of landlords in
+       developed urban economies. Propose that rent is a form of distributive
+       conflict over the national (regional) product and discuss the parameters
+       of that conflict.
+    
+    2. Focuses on the history and development of San Francisco in the context of
+       land rents. Based on previous essay, this also includes historical
+       analysis of the development of hi-tech capitalism and wage pressure in
+       the city. 
+    
+    3. Focuses on Rent control. Uses a DD estimation strategy to evaluate the
+       overall impacts of rent control in 99 New Jersey cities. 
+
 ## What do Landlords Do? The Political Economy of Urban Growth and Distribution
 
-![](images/rent-wage-poster.jpg){width=70%}
+![](images/rent-wage-poster.jpg){width=80%}
 
 ## What do Landlords Do? 
 
@@ -52,12 +86,41 @@ output: beamer_presentation
   $\rightarrow$ relax supply constraints, build more housing 
 
 * Still missing pieces of the puzzle:
-    * @glaeser2008: "[the fact that] highly elastic places had price booms is
+    * Glaeser (2008): "[the fact that] highly elastic places had price booms is
       one of the strange facts of the recent price explosion
-    * @freemark2019 finds upzoning has no significant effect on housing supply,
+    * Freemark (2019) finds upzoning has no significant effect on housing supply,
       but *increased* land values and rents
-    * @agarwal2019 found that increases in the minimum wage in 29 states
+    * Agrawal et. al (2019) found that increases in the minimum wage in 29 states
       counteracted by increases in rents after 5 years
+
+## What do Landlords Do? 
+
+### Theorizing the Urban
+
+* Most theory surrounding cities, land, and rents is done in the context of the
+  Standard Spatial Equilibrium Model (SEM)
+
+* SEM equilibrium conditions: consumers maximize utility s.t. indifferent to
+  other locations, producers maximize profit s.t indifferent to other locations
+
+* On this view, by far the most popular, excess housing cost growth is
+  supply-side phenomenon, i.e. spatial mismatch (e.g. between jobs and housing,
+  Moretti [2013]) or housing supply constraints (Glaeser 2008). 
+
+## What do Landlords Do? 
+
+### Theorizing the Urban
+
+* Some drawbacks of this approach:
+    1. Difficulty in explaining neighborhood structure
+    2. Usually (but not always) assumes perfectly competitive land & housing
+       markets
+    3. Uses CES production functions that are CRS $\rightarrow$ no scale
+       economies, CBD has to be assumed *ex-ante* 
+    4. Space appears only as Cartesian distance (i.e., a parameter indicating
+       transportation costs). Related to: 
+    5. Land "rents" in the sense of *economic rent*, ignoring properties of land
+       *ownership* as institution
 
 ## What do Landlords Do? 
 
@@ -88,6 +151,9 @@ output: beamer_presentation
   necessary for the existence of the *fundamental class process*.
     * A critical question: Do urban landlords act as a class? Through what
       mechanisms? What advances the landlord class' interests?  
+
+* Land dropped as independent factor, itself subsumed under capital, when
+  marginalism became dominant 
 
 ## What do Landlords Do? 
 
@@ -152,29 +218,63 @@ product of the least fertile (marginal) land.
   "...which attaches not to labor generally, but only to labor exerted on
   particular land."
 
+* Thus, capital gains from an increase in land value represent value *capture*
+  by landlords, and represented social waste that inhibited productive accumulation
+
 * Key points:
     1. Urban production has significant economies of scale and agglomeration;
        density $\rightarrow$ productivity $\rightarrow$ wages $\rightarrow$ rents
     2. Urban agglomeration has significant external productivity effects, the
        benefit of which accrue to landlords in the form of capital gains-- the
        "unearned increment"
+    3. In the case of land *abundance*, i.e. in the United States, the urban
+       boundary is not determined by the rate of profit in agriculture but the
+       commuting zone around the capitalist firms
+
+## What do Landlords Do?
+
+### Henry George
+
+#### Georgist Policy Proposals:
+
+* Land Value Tax: Tax away the *entirety* of increase in the value of bare land,
+  "the unearned increment."
+  This would obviously not impact the supply of land, but prevent speculation
+  and socially internalize public and private externalities to urban growth
+
+* Question: How would this impact land markets? If capital gains from increased
+  land value were taxed away, then land value increases from e.g. investment in
+  public transportation would be recaptured by gov't
+
+* *Nationalize* land 
 
 ## What do Landlords Do? 
 
-### Structure of the Essay
+### Discussion
 
-#### History of Economic Thought on Land and Land Rents
+* This essay will consist of two main parts. The first is a HET on land and land
+  rents from Smith to Keynes, with a particular emphasis on Marx and George. How
+  do we take them out of the agricultural context? 
 
-1. Review of classical thinking on land rents, from Smith to Keynes, with a
-   particular focus on Marx and George
-2. How do we apply this to urban land rents in developed economies? 
+* Integrating ideas of Critical Geographers will also be critical here. The idea
+  is to understand the historical views of landlords in Economic theory.
 
-#### A Model Urban Growth and Distribution
+## What do Landlords Do? 
 
-1. Formalize theoretical insights on class, urban growth, and land rents
+### Discussion
 
-2. Model distribution of wages, profits, rents in an urban economy. 
 
+* The second part of this essay will formalize this into a
+  "classical-Marxian-Georgist" model of urban growth and distribution.
+  Importantly, it must take into account the following factors:
+    1. Returns to scale and returns to agglomeration
+    2. immigration and emigration
+    3. Distributional conflict between landlords, workers, and capitalists
+
+* This part may prove to be the most difficult. I have grown more sympathetic to
+  New Economic Geography theory by Krugman et al that adapt North-South trade
+  models and incorporate IRS. Is it possible to think of agglomeration in a
+  Neo-Ricardian framework (of e.g. Harvey, Sraffa, etc.) 
 
 ## On The Housing Question in San Francisco
 
@@ -201,6 +301,68 @@ product of the least fertile (marginal) land.
 * This essay will rely primarily on descriptive statistics, archival data, and
   GIS mapping to examine spatial historical patterns of rent growth, firm
   location, labor migration, and housing supply in post-Crisis San Francisco.
+
+## On The Housing Question in San Francisco
+
+### Introduction
+
+* Bay Area the focus of massive private and public investment, high wage growth,
+  high rent growth
+
+* Key feature: San Francisco industrial growth experiences high agglomerative
+  effect; mainstream literature identifies the mechanism as functioning through
+  concentrations of human capital by ways of "knowledge spillovers"
+
+* Urban politics characterized on the one hand by powerful real estate (but not
+  *real estate developer*) interests and on the other hand by successively
+  greater waves of technology capital
+
+* San Francisco also faces physical constraints to sprawl: The Pacific Ocean 
+
+## On The Housing Question in San Francisco
+
+* Balance of forces in San Francisco draws out key questions of the dissertation:
+  How do the capitalist sector and the real estate sector interact to produce a
+  given level of land value and rent? 
+
+* Schematically, the clustering of firms "valorizes" the land via the labor
+  market, which landlords then capture through monopoly control of land.
+
+* Several historically-specific mechanisms for this capture: zoning laws,
+  building height restrictions, historical designation 
+
+## On The Housing Question in San Francisco
+
+### The Firm Geography of the City
+
+* Several authors (Mcneill 2017, Stehlin 2016) have written on transformation of
+  urban space in the Bay Area into "shop floors" of high-tech labor process
+
+* In this case, both direct production of commodities *and* spaces of
+  consumption become avenues for the extraction of value.
+
+* What does this conflict look like from the perspective of the
+  Neoclassical/Ricardian/Georgist landlord? What payment does the landlord
+  require in order to "buy in" to this process? What does it take for capital to
+  intervene *directly* against the landlord class (in the case of FAANG
+  investment into housing and parallel private infrastructure)
+
+## On The Housing Question in San Francisco
+
+### Methodology
+
+* This essay will be primarily historical. It aims to document the following:
+
+   1. Patterns of investment, productivity, and migration into the City
+   following the 2008 crisis
+
+   2. Changes in wages at the neighborhood level over the period
+
+   3. Changes in rents and housing construction over the period
+
+   4. The role of political and institutional conflict over dividing the gains
+      from productivity increase 
+
 
 ## Rent Control Revisited: Is it Good, Actually?
 
@@ -236,6 +398,8 @@ product of the least fertile (marginal) land.
 
 * RC leads to "misallocation" of housing; people consume either too much or too
   little housing in order to remain in rent-controlled units
+
+* It makes economists really, *really* mad
 
 ## Rent Control Revisited
 
@@ -295,16 +459,17 @@ control?
 
 ## Rent Control Revisited
 
+### Data
+
+![Massachusetts zones, from Sims 2007](images/sims-zonemap.png){width=85%}
+
+## Rent Control Revisited
+
 ### Methodology
 
 #### Specification 1
 
-* I will use a difference-in-differences estimated strategy. The goal is to
-  compare the treated observations (which are zones that are within a
-  municipality that enacted rent control at a given time) to a control group
-  (zones that were never under RC)
-
-* I will estimate the following DD model with fixed effects:
+I will estimate the following DD model with fixed effects:
 $$ y_{ijy} = \alpha_{i} + \delta_j + \gamma_{y} + \beta_t R_{ijy} +  \epsilon_{ijy}, $$
 
 for the zone-level DD specification where, for zone $i$ in metropolitan area $j$, and year $y$,
@@ -346,3 +511,11 @@ $R^T$ now takes the value
 
 * This does not strongly imply causation. For that I could possibly use an IV
   approach. 
+
+* How to deal with: 
+   1. Spatial autocorrelation
+   2. Heterogeneity in treatment-year effects. New Jersey cities implemented
+      rent control during different time periods. A new strand of DD literature
+      deals with this problem, which... I haven't read (yet)
+
+# The End. Thank you!
