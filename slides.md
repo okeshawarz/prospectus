@@ -76,6 +76,21 @@ output: beamer_presentation
 3. What is the relationship between wages, profits, and rents in an urban
    economy? 
 
+
+## What do Landlords Do? 
+
+### Motivation
+
+* Most theory surrounding cities, land, and rents is done in the context of the
+  Standard Spatial Equilibrium Model (SEM)
+
+* SEM equilibrium conditions: consumers maximize utility s.t. indifferent to
+  other locations, producers maximize profit s.t indifferent to other locations
+
+* On this view, by far the most popular, excess housing cost growth is
+  supply-side phenomenon, i.e. spatial mismatch (e.g. between jobs and housing,
+  Moretti [2013]) or housing supply constraints (Glaeser 2008). 
+
 ## What do Landlords Do? 
 
 ### Motivation
@@ -92,20 +107,6 @@ output: beamer_presentation
       but *increased* land values and rents
     * Agrawal et. al (2019) found that increases in the minimum wage in 29 states
       counteracted by increases in rents after 5 years
-
-## What do Landlords Do? 
-
-### Theorizing the Urban
-
-* Most theory surrounding cities, land, and rents is done in the context of the
-  Standard Spatial Equilibrium Model (SEM)
-
-* SEM equilibrium conditions: consumers maximize utility s.t. indifferent to
-  other locations, producers maximize profit s.t indifferent to other locations
-
-* On this view, by far the most popular, excess housing cost growth is
-  supply-side phenomenon, i.e. spatial mismatch (e.g. between jobs and housing,
-  Moretti [2013]) or housing supply constraints (Glaeser 2008). 
 
 ## What do Landlords Do? 
 
@@ -194,7 +195,7 @@ product of the least fertile (marginal) land.
 ### Marx
 
 * In addition to Ricardian differential rent: Differential Rent II based on
-  different levels of capital invested in agriculture (see @basu2018)
+  different levels of capital invested in agriculture (see Basu[2018])
 
 * Absolute Rent: due to landlords' *class power*, they are able to hold land out
   of production in order to force the capitalist landlord to earn the
@@ -363,6 +364,16 @@ product of the least fertile (marginal) land.
    4. The role of political and institutional conflict over dividing the gains
       from productivity increase 
 
+
+## On The Housing Question in San Francisco
+
+### Discussion
+
+* The focus here is on the specific historical relationships between urban
+  growth, wages, and rents
+
+* Data on rents is surprisingly difficult to come by. But there are interesting
+  proxies in "Big Data"-- Short Term Rental data from AirBnB, Zillow scrapes and ZTRAX database 
 
 ## Rent Control Revisited: Is it Good, Actually?
 
