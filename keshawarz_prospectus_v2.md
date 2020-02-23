@@ -144,7 +144,9 @@ CBD is assumed to exist *ex-ante*, and
 
 **Why is it ahistorical? Also talk about Krugman and NEG**
 
-The rapid shift in the spatial awareness, so to speak, has become such that scholars like @proost2019, very firmly in the neoclassical camp, begin even themselves to sound like the radical geographers:
+The rapid shift in the spatial awareness, so to speak, has become such that
+scholars like @proost2019, very firmly in the neoclassical camp, begin even
+themselves to sound like the radical geographers:
 
 > Space is the substratum of human affairs, but  it  is  also  a  consumption
 > and  production  good  in  the  form  of  land.  The  worldwide  supply of
