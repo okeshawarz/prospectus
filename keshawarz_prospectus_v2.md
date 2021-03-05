@@ -139,11 +139,6 @@ This was a point understood by the classicals but greatly underscored by
 Henry George-- the idea of the "marginal contribution" of land makes little
 sense outside of the context of spatial relations.
 
-Aside from aspatiality, this view of the urban economy is *ahistorical*. The
-CBD is assumed to exist *ex-ante*, and
-
-**Why is it ahistorical? Also talk about Krugman and NEG**
-
 The rapid shift in the spatial awareness, so to speak, has become such that
 scholars like @proost2019, very firmly in the neoclassical camp, begin even
 themselves to sound like the radical geographers:
