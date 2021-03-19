@@ -1,1 +1,0 @@
-https://www.chegg.com/homework-help/questions-and-answers/problem-4-cnn-money-reports-mean-cost-speeding-ticket-including-court-fees-15000-2002-loca-q33711080
